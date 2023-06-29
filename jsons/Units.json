@@ -821,7 +821,7 @@
     {
 		"name": "Great Spacefarer",
 		"unitType": "Civilian",
-		"uniques": ["Can start an [12]-turn golden age", "Can construct [Space Platform] <starting from the [Atomic era]>", "Great Person - [Spacefarer]", "Unbuildable", "Uncapturable"],
+		"uniques": ["Can start an [12]-turn golden age", ""Can instantly construct a [Space Platform] improvement <by consuming this unit> <starting from the [Atomic era]>", "Great Person - [Spacefarer]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{
