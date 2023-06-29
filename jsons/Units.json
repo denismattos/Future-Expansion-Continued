@@ -14,7 +14,7 @@
 		"movement": 4,
 		"cost": 30,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>","May create improvements on water resources","Can construct [Offshore Wind Farm] <after discovering [Terraforming]>","Uncapturable"]
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>","May create improvements on water resources","Can instantly construct a [Offshore Wind Farm] improvement <by consuming this unit> <after discovering [Terraforming]>","Uncapturable"]
 	},
     {
 		"name": "Scout",
