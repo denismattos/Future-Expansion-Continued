@@ -1,10 +1,10 @@
 # Future Expansion Continued
-A continuation of @Sullien's great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).
+A continuation of [@Sullien](https://github.com/Sullien)'s great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).
 
 This continued version merely fixes syntax to comply with Unciv's latest updates.
 
 # Ownership Disclaimer
-Inspired by the awesome @emipa606. \=\)
+Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 
 * This is an updated version of an existing mod.
 * I claim no ownership of the mod.
