@@ -3,6 +3,12 @@ A continuation of [@Sullien](https://github.com/Sullien)'s great – and, now, d
 
 This continued version merely fixes syntax to comply with Unciv's latest updates.
 
+# WiP Warning
+**This mod is still a WiP, limited by my currently restricted knowledge of Unciv, the original expansion's source and even JS in general.  
+I can't guarantee its stability or usability in-game.  
+I'll do my best to address any received feedback.  
+Thanks in advance for your patience and tolerance.**
+
 # Ownership Disclaimer
 Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 
