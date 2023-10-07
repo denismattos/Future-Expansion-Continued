@@ -1,8 +1,9 @@
-
 [
     {
-        "name": "Divine inspiration",
+        "name": "Divine Inspiration",
         "type": "Follower",
-        "uniques": ["[+1 Faith] from every [Wonder]"]
+        "uniques": [
+            "[+1 Faith] from every [Wonder]"
+        ]
     }
 ]

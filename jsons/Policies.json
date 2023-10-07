@@ -1,270 +1,439 @@
 	[
-	{
-		"name": "Digitalization",
-		"era": "Atomic era",
-		"uniques": ["[+33]% Production when constructing [Civilian] units [in all cities]","[-25]% Gold cost of upgrading <for [Worker] units>","Only available <before adopting [Coalition]>"],
-		"priorities": {
-            "Neutral": 50,
-            "Cultural": 75,
-            "Diplomatic":80,
-            "Domination": 0,
-            "Scientific": 40
-        },
-		"policies": [
-			{
-				"name": "Cryptography",
-				"uniques": ["[Great Scientist] is earned [100]% faster","[+2 Gold] from all [Science] buildings"],
-				"requires": ["Digitalization"],
-				"row": 1,
-				"column": 3
+		{
+			"name": "Digitalization",
+			"era": "Atomic era",
+			"uniques": [
+				"[+33]% Production when constructing [Civilian] units [in all cities]",
+				"[-25]% Gold cost of upgrading <for [Worker] units>",
+				"Only available <before adopting [Coalition]>"
+			],
+			"priorities": {
+				"Neutral": 50,
+				"Cultural": 75,
+				"Diplomatic": 80,
+				"Domination": 0,
+				"Scientific": 40
 			},
-			{
-				"name": "Startups",
-				"uniques": ["Doubles the adjacency bonuses of Industry tiles","Free [Corporate] appears"],
-				"requires": ["Digitalization"],
-				"row": 1,
-				"column": 5
+			"policies": [
+				{
+					"name": "Cryptography",
+					"uniques": [
+						"[Great Scientist] is earned [100]% faster",
+						"[+2 Gold] from all [Science] buildings"
+					],
+					"requires": [
+						"Digitalization"
+					],
+					"row": 1,
+					"column": 3
+				},
+				{
+					"name": "Startups",
+					"uniques": [
+						"Doubles the adjacency bonuses of Industry tiles",
+						"Free [Corporate] appears"
+					],
+					"requires": [
+						"Digitalization"
+					],
+					"row": 1,
+					"column": 5
+				},
+				{
+					"name": "Talent Agencies",
+					"uniques": [
+						"Doubles the adjacency bonuses of Concert Venue tiles",
+						"Free [Musician] appears"
+					],
+					"requires": [
+						"Cryptography"
+					],
+					"row": 2,
+					"column": 1
+				},
+				{
+					"name": "E-Commerce",
+					"uniques": [
+						"[100]% of excess happiness converted to [Gold]",
+						"[+2 Production] from all [Food] buildings"
+					],
+					"requires": [
+						"Startups"
+					],
+					"row": 2,
+					"column": 3
+				},
+				{
+					"name": "Safety Checks",
+					"uniques": [
+						"Doubles the adjacency bonuses of Infraestructure tiles"
+					],
+					"requires": [
+						"Talent Agencies",
+						"E-Commerce"
+					],
+					"row": 3,
+					"column": 1
+				},
+				{
+					"name": "Digitalization Complete",
+					"uniques": [
+						"[-20]% maintenance costs"
+					]
+				}
+			]
+		},
+		{
+			"name": "Coalition",
+			"era": "Atomic era",
+			"uniques": [
+				"[+10]% [Production] from every [Military Academy]",
+				"[+10]% [Production] from every [Electrical Grid]",
+				"[+10]% [Production] from every [Research Lab]",
+				"Only available <before adopting [Digitalization]>"
+			],
+			"priorities": {
+				"Neutral": 40,
+				"Cultural": 25,
+				"Diplomatic": 0,
+				"Domination": 80,
+				"Scientific": 30
 			},
-			{
-				"name": "Talent Agencies",
-				"uniques":["Doubles the adjacency bonuses of Concert Venue tiles","Free [Musician] appears"],
-				"requires": ["Cryptography"],
-				"row": 2,
-				"column": 1
+			"policies": [
+				{
+					"name": "Propaganda",
+					"uniques": [
+						"Doubles the combat bonus of Great General units",
+						"Free [Great General] appears"
+					],
+					"requires": [
+						"Coalition"
+					],
+					"row": 1,
+					"column": 1
+				},
+				{
+					"name": "Military Tax",
+					"uniques": [
+						"[+10]% [Gold] from every [Walls]",
+						"[+10]% [Gold] from every [Castle]",
+						"[+10]% [Gold] from every [Arsenal]",
+						"[+10]% [Gold] from every [Military Base]"
+					],
+					"requires": [
+						"Coalition"
+					],
+					"row": 1,
+					"column": 3
+				},
+				{
+					"name": "Collectivization",
+					"uniques": [
+						"[+25]% Strength <for [Support] units> <when defending>",
+						"Doubles the Healing bonus from Medics and Tactical Supplier units"
+					],
+					"requires": [
+						"Propaganda"
+					],
+					"row": 2,
+					"column": 3
+				},
+				{
+					"name": "Censor",
+					"uniques": [
+						"[-25]% [Culture] [in all cities]",
+						"[+50]% [Science] [in all cities]"
+					],
+					"requires": [
+						"Military Tax"
+					],
+					"row": 2,
+					"column": 5
+				},
+				{
+					"name": "Dual Strike",
+					"uniques": [
+						"[-35]% Strength <for units with [Logistics]> <when attacking>",
+						"All newly-trained [relevant] units [in all cities] receive the [Logistics] promotion"
+					],
+					"requires": [
+						"Censor",
+						"Collectivization"
+					],
+					"row": 3,
+					"column": 3
+				},
+				{
+					"name": "Coalition Complete",
+					"uniques": [
+						"Citadels provide adjacency bonuses as if they were Infraestructure Improvements"
+					]
+				}
+			]
+		},
+		{
+			"name": "Futurism",
+			"era": "Future era",
+			"uniques": [
+				"Provides a [Corporate Slot] in your first [1] cities for free",
+				"Only available <before adopting [Technocracy]>",
+				"Only available <before adopting [Transhumanism]>"
+			],
+			"priorities": {
+				"Neutral": 70,
+				"Cultural": 50,
+				"Diplomatic": 70,
+				"Domination": 0,
+				"Scientific": 30
 			},
-			{
-				"name": "E-Commerce",
-				"uniques": ["[100]% of excess happiness converted to [Gold]","[+2 Production] from all [Food] buildings"],
-				"requires": ["Startups"],
-				"row": 2,
-				"column": 3
+			"policies": [
+				{
+					"name": "Interplanetary Research",
+					"uniques": [
+						"[+25]% [Gold] from every [Space Station]",
+						"[+25]% [Science] from every [Space Station]",
+						"[+25]% [Culture] from every [Space Station]"
+					],
+					"requires": [
+						"Futurism"
+					],
+					"row": 1,
+					"column": 2
+				},
+				{
+					"name": "Determination",
+					"uniques": [
+						"[Future Soldier] units gain the [Energy Weapons] promotion",
+						"[+25]% Strength <for [Wounded] units> <vs [Bio] units>",
+						"[+25]% Strength <for [Wounded] units> <vs [Cyber] units>"
+					],
+					"requires": [
+						"Futurism"
+					],
+					"row": 1,
+					"column": 4
+				},
+				{
+					"name": "Joint Projects",
+					"uniques": [
+						"[+1 Food, +1 Production] from every specialist [in all cities]"
+					],
+					"requires": [
+						"Interplanetary Research",
+						"Determination"
+					],
+					"row": 2,
+					"column": 3
+				},
+				{
+					"name": "Discovery",
+					"uniques": [
+						"[+1 Happiness] from every [Industrial Perk]",
+						"[+4 Science] from every [Modern Perk]",
+						"[+4 Culture] from every [Atomic Perk]",
+						"[+8 Gold] from every [Information Perk]"
+					],
+					"requires": [
+						"Joint Projects"
+					],
+					"row": 3,
+					"column": 2
+				},
+				{
+					"name": "Revolutionism",
+					"uniques": [
+						"[+3 Gold, +3 Culture, +3 Science] from all [Space] buildings",
+						"Empire enters golden age"
+					],
+					"requires": [
+						"Joint Projects"
+					],
+					"row": 3,
+					"column": 3
+				},
+				{
+					"name": "Futurism Complete",
+					"uniques": [
+						"[+25]% Strength <for units with [Energy Weapons]>",
+						"May buy [Great Spacefarer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+						"[+6 Food, +6 Gold] from every [Space Platform]"
+					]
+				}
+			]
+		},
+		{
+			"name": "Technocracy",
+			"era": "Future era",
+			"uniques": [
+				"[+25]% Strength <for [Cyber] units>",
+				"[-25]% Strength <for [Bio] units>",
+				"[+20%] [Production] [in all cities]",
+				"[-15]% growth [in all cities]",
+				"Only available <before adopting [Futurism]>",
+				"Only available <before adopting [Transhumanism]>"
+			],
+			"priorities": {
+				"Neutral": 40,
+				"Cultural": 90,
+				"Diplomatic": 20,
+				"Domination": 0,
+				"Scientific": 40
 			},
-			{
-				"name": "Safety Checks",
-				"uniques": ["Doubles the adjacency bonuses of Infraestructure tiles"],
-				"requires": ["Talent Agencies","E-Commerce"],
-				"row": 3,
-				"column": 1
+			"policies": [
+				{
+					"name": "Battlefield Experiments",
+					"uniques": [
+						"[+33]% City Strength from defensive buildings",
+						"Earn [100]% of killed [Military] unit's [Strength] as [Science]"
+					],
+					"requires": [
+						"Technocracy"
+					],
+					"row": 1,
+					"column": 3
+				},
+				{
+					"name": "Predictive Algorithms",
+					"uniques": [
+						"[+33]% Strength <for [Cyber] units> <vs [Cyber] units>",
+						"[+50]% XP gained from combat <for [Military] units>"
+					],
+					"requires": [
+						"Technocracy"
+					],
+					"row": 1,
+					"column": 5
+				},
+				{
+					"name": "Drone Surveillance",
+					"uniques": [
+						"[+2 Culture] from all [Science] buildings",
+						"[+1 Happiness] from all [Food] buildings"
+					],
+					"requires": [
+						"Battlefield Experiments"
+					],
+					"row": 2,
+					"column": 2
+				},
+				{
+					"name": "Automatic Targeting",
+					"uniques": [
+						"[+15]% Strength <for [Air] units> <vs [Land] units>",
+						"[+15]% Strength <for [Ranged] units> <vs [Melee] units>"
+					],
+					"requires": [
+						"Predictive Algorithms"
+					],
+					"row": 2,
+					"column": 4
+				},
+				{
+					"name": "Self-Assembly",
+					"uniques": [
+						"[+5 Production] [in all cities]",
+						"[+100]% Production when constructing [Production] buildings [in all cities]"
+					],
+					"requires": [
+						"Automatic Targeting",
+						"Drone Surveillance"
+					],
+					"row": 3,
+					"column": 1
+				},
+				{
+					"name": "Technocracy Complete",
+					"uniques": [
+						"[+1 Production, +1 Culture, +1 Gold] from all [Science] buildings",
+						"[+15]% Strength <for [Military] units> <when adjacent to a [Cyber] unit>"
+					]
+				}
+			]
+		},
+		{
+			"name": "Transhumanism",
+			"era": "Future era",
+			"uniques": [
+				"[+17]% growth [in capital]",
+				"[+25]% Strength <for [Bio] units>",
+				"[-25]% Strength <for [Cyber] units>",
+				"Only available <before adopting [Futurism]>",
+				"Only available <before adopting [Technocracy]>"
+			],
+			"priorities": {
+				"Neutral": 20,
+				"Cultural": 40,
+				"Diplomatic": 40,
+				"Domination": 0,
+				"Scientific": 90
 			},
-			{
-				"name": "Digitalization Complete",
-				"uniques": ["[-20]% maintenance costs"]
-			}
-		]
-	},
-	{
-		"name": "Coalition",
-		"era": "Atomic era",
-		"uniques": ["[+10]% [Production] from every [Military Academy]","[+10]% [Production] from every [Electrical Grid]","[+10]% [Production] from every [Research Lab]","Only available <before adopting [Digitalization]>"],
-		"priorities": {
-            "Neutral": 40,
-            "Cultural": 25,
-            "Diplomatic":0,
-            "Domination": 80,
-            "Scientific": 30
-        },
-		"policies": [
-			{
-				"name": "Propaganda",
-				"uniques": ["Doubles the combat bonus of Great General units","Free [Great General] appears"],
-				"requires": ["Coalition"],
-				"row": 1,
-				"column": 1
-			},
-			{
-				"name": "Military Tax",
-				"uniques": ["[+10]% [Gold] from every [Walls]","[+10]% [Gold] from every [Castle]","[+10]% [Gold] from every [Arsenal]","[+10]% [Gold] from every [Military Base]"]
-				"requires": ["Coalition"],
-				"row": 1,
-				"column": 3
-			},
-			{
-				"name": "Collectivization",
-				"uniques":["[+25]% Strength <for [Support] units> <when defending>","Doubles the Healing bonus from Medics and Tactical Supplier units"],
-				"requires": ["Propaganda"],
-				"row": 2,
-				"column": 3
-			},
-			{
-				"name": "Censor",
-				"uniques": ["[-25]% [Culture] [in all cities]","[+50]% [Science] [in all cities]"],
-				"requires": ["Military Tax"],
-				"row": 2,
-				"column": 5
-			},
-			{
-				"name": "Dual Strike",
-				"uniques": ["[-35]% Strength <for units with [Logistics]> <when attacking>","All newly-trained [relevant] units [in all cities] receive the [Logistics] promotion"],
-				"requires": ["Censor","Collectivization"],
-				"row": 3,
-				"column": 3
-			},
-			{
-				"name": "Coalition Complete",
-				"uniques": ["Citadels provide adjacency bonuses as if they were Infraestructure Improvements"]
-			}
-		]
-	},
-    {
-		"name": "Futurism",
-		"era": "Future era",
-		"uniques": ["Provides a [Corporate Slot] in your first [1] cities for free","Only available <before adopting [Technocracy]>","Only available <before adopting [Transhumanism]>"],
-		"priorities": {
-            "Neutral": 70,
-            "Cultural": 50,
-            "Diplomatic":70,
-            "Domination": 0,
-            "Scientific": 30
-        },
-		"policies": [
-			{
-				"name": "Interplanetary Research",
-				"uniques": ["[+25]% [Gold] from every [Space Station]","[+25]% [Science] from every [Space Station]","[+25]% [Culture] from every [Space Station]"],
-				"requires": ["Futurism"],
-				"row": 1,
-				"column": 2
-			},
-			{
-				"name": "Determination",
-				"uniques": ["[Future Soldier] units gain the [Energy Weapons] promotion","[+25]% Strength <for [Wounded] units> <vs [Bio] units>","[+25]% Strength <for [Wounded] units> <vs [Cyber] units>"],
-				"requires": ["Futurism"],
-				"row": 1,
-				"column": 4
-			},
-			{
-				"name": "Joint Projects",
-				"uniques":["[+1 Food, +1 Production] from every specialist [in all cities]"],
-				"requires": ["Interplanetary Research", "Determination"],
-				"row": 2,
-				"column": 3
-			},
-			{
-				"name": "Discovery",
-				"uniques": ["[+1 Happiness] from every [Industrial Perk]",
-				"[+4 Science] from every [Modern Perk]",
-				"[+4 Culture] from every [Atomic Perk]",
-				"[+8 Gold] from every [Information Perk]"],
-				"requires": ["Joint Projects"],
-				"row": 3,
-				"column": 2
-			},
-			{
-				"name": "Revolutionism",
-				"uniques": ["[+3 Gold, +3 Culture, +3 Science] from all [Space] buildings","Empire enters golden age"],
-				"requires": ["Joint Projects"],
-				"row": 3,
-				"column": 3
-			},
-			{
-				"name": "Futurism Complete",
-				"uniques": ["[+25]% Strength <for units with [Energy Weapons]>","May buy [Great Spacefarer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>","[+6 Food, +6 Gold] from every [Space Platform]"]
-			}
-		]
-	},
-	{
-		"name": "Technocracy",
-		"era": "Future era",
-		"uniques": ["[+25]% Strength <for [Cyber] units>", "[-25]% Strength <for [Bio] units>","[+20%] [Production] [in all cities]","[-15]% growth [in all cities]","Only available <before adopting [Futurism]>","Only available <before adopting [Transhumanism]>"],
-		"priorities": {
-            "Neutral": 40,
-            "Cultural": 90,
-            "Diplomatic":20,
-            "Domination": 0,
-            "Scientific": 40
-        },
-		"policies": [
-			{
-				"name": "Battlefield Experiments",
-				"uniques": ["[+33]% City Strength from defensive buildings","Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
-				"requires": ["Technocracy"],
-				"row": 1,
-				"column": 3
-			},
-			{
-				"name": "Predictive Algorithms",
-				"uniques": ["[+33]% Strength <for [Cyber] units> <vs [Cyber] units>","[+50]% XP gained from combat <for [Military] units>"],
-				"requires": ["Technocracy"],
-				"row": 1,
-				"column": 5
-			},
-			{
-				"name": "Drone Surveillance",
-				"uniques": ["[+2 Culture] from all [Science] buildings","[+1 Happiness] from all [Food] buildings"],
-				"requires": ["Battlefield Experiments"],
-				"row": 2,
-				"column": 2
-			},
-			{
-				"name": "Automatic Targeting",
-				"uniques": ["[+15]% Strength <for [Air] units> <vs [Land] units>","[+15]% Strength <for [Ranged] units> <vs [Melee] units>"],
-				"requires": ["Predictive Algorithms"],
-				"row": 2,
-				"column": 4
-			},
-			{
-				"name": "Self-Assembly",
-				"uniques": ["[+5 Production] [in all cities]","[+100]% Production when constructing [Production] buildings [in all cities]"],
-				"requires": ["Automatic Targeting","Drone Surveillance"],
-				"row": 3,
-				"column": 1
-			},
-			{
-				"name": "Technocracy Complete",
-				"uniques": ["[+1 Production, +1 Culture, +1 Gold] from all [Science] buildings","[+15]% Strength <for [Military] units> <when adjacent to a [Cyber] unit>"]
-			}
-		]
-	},
-	{
-		"name": "Transhumanism",
-		"era": "Future era",
-		"uniques": ["[+17]% growth [in capital]","[+25]% Strength <for [Bio] units>", "[-25]% Strength <for [Cyber] units>","Only available <before adopting [Futurism]>","Only available <before adopting [Technocracy]>"],
-		"priorities": {
-            "Neutral": 20,
-            "Cultural": 40,
-            "Diplomatic":40,
-            "Domination": 0,
-            "Scientific": 90
-        },
-		"policies": [
-			{
-				"name": "Cloning",
-				"uniques": ["Provides a [Cloning Facility] in your first [4] cities for free"],
-				"requires": ["Transhumanism"],
-				"row": 1,
-				"column": 1
-			},
-			{
-				"name": "Bio-Specialism",
-				"uniques": ["[+1 Food] from all [Food] buildings","[+100]% XP gained from combat <for [Bio] units>"],
-				"requires": ["Transhumanism"],
-				"row": 1,
-				"column": 5
-			},
-			{
-				"name": "Mind Control",
-				"uniques": ["[+1 Happiness] from all [Food] buildings"],
-				"requires": ["Cloning"],
-				"row": 2,
-				"column": 2
-			},
-			{
-				"name": "Techno-Organic Virus",
-				"uniques": ["[+1] Sight <for [Bio] units>","[+50]% Strength <for [Bio] units> <vs [Cyber] units>"],
-				"requires": ["Bio-Specialism"],
-				"row": 2,
-				"column": 4
-			},
-			{
-				"name": "Lifeform Upgrade",
-				"uniques": ["[+1] Movement <for [Bio] units>","[+3 Food] from every [Research Lab]"],
-				"requires": ["Mind Control","Techno-Organic Virus"],
-				"row": 3,
-				"column": 3
-			},
-			{
-				"name": "Transhumanism Complete",
-				"uniques": ["[+1 Production, +1 Culture, +1 Gold] from all [Food] buildings","[+33]% Strength <vs [Wounded] units>"]
-			}
-		]
-	}
-]
+			"policies": [
+				{
+					"name": "Cloning",
+					"uniques": [
+						"Provides a [Cloning Facility] in your first [4] cities for free"
+					],
+					"requires": [
+						"Transhumanism"
+					],
+					"row": 1,
+					"column": 1
+				},
+				{
+					"name": "Bio-Specialism",
+					"uniques": [
+						"[+1 Food] from all [Food] buildings",
+						"[+100]% XP gained from combat <for [Bio] units>"
+					],
+					"requires": [
+						"Transhumanism"
+					],
+					"row": 1,
+					"column": 5
+				},
+				{
+					"name": "Mind Control",
+					"uniques": [
+						"[+1 Happiness] from all [Food] buildings"
+					],
+					"requires": [
+						"Cloning"
+					],
+					"row": 2,
+					"column": 2
+				},
+				{
+					"name": "Techno-Organic Virus",
+					"uniques": [
+						"[+1] Sight <for [Bio] units>",
+						"[+50]% Strength <for [Bio] units> <vs [Cyber] units>"
+					],
+					"requires": [
+						"Bio-Specialism"
+					],
+					"row": 2,
+					"column": 4
+				},
+				{
+					"name": "Lifeform Upgrade",
+					"uniques": [
+						"[+1] Movement <for [Bio] units>",
+						"[+3 Food] from every [Research Lab]"
+					],
+					"requires": [
+						"Mind Control",
+						"Techno-Organic Virus"
+					],
+					"row": 3,
+					"column": 3
+				},
+				{
+					"name": "Transhumanism Complete",
+					"uniques": [
+						"[+1 Production, +1 Culture, +1 Gold] from all [Food] buildings",
+						"[+33]% Strength <vs [Wounded] units>"
+					]
+				}
+			]
+		}
+	]

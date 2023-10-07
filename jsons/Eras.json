@@ -1,5 +1,5 @@
 [
-   {
+    {
         "name": "Ancient era",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
@@ -11,20 +11,46 @@
         "embarkDefense": 3,
         "startPercent": 0,
         "friendBonus": {
-            "Cultured": ["Provides [+3 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+2] Happiness"],
-            "Religious": ["Provides [+3 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+3 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+2] Happiness"
+            ],
+            "Religious": [
+                "Provides [+3 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+6 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+2] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+6 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
+            "Cultured": [
+                "Provides [+6 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+2] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+6 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [255, 87, 35]
+        "iconRGB": [
+            255,
+            87,
+            35
+        ]
     },
     {
         "name": "Classical era",
@@ -40,20 +66,46 @@
         "embarkDefense": 4,
         "startPercent": 10,
         "friendBonus": {
-            "Cultured": ["Provides [+3 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+2] Happiness"],
-            "Religious": ["Provides [+3 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+3 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+2] Happiness"
+            ],
+            "Religious": [
+                "Provides [+3 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+6 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+2] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+6 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
+            "Cultured": [
+                "Provides [+6 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+2] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+6 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [233, 31, 99]
+        "iconRGB": [
+            233,
+            31,
+            99
+        ]
     },
     {
         "name": "Medieval era",
@@ -65,26 +117,62 @@
         "startingGold": 25,
         "startingCulture": 200,
         "settlerPopulation": 1,
-        "settlerBuildings": ["Shrine","Monument"],
-        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus"],
+        "settlerBuildings": [
+            "Shrine",
+            "Monument"
+        ],
+        "startingObsoleteWonders": [
+            "Temple of Artemis",
+            "Stonehenge",
+            "The Great Library",
+            "Mausoleum of Halicarnassus",
+            "The Pyramids",
+            "Statue of Zeus"
+        ],
         "baseUnitBuyCost": 200,
         "embarkDefense": 6,
         "startPercent": 25,
         "friendBonus": {
-            "Cultured": ["Provides [+6 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+3] Happiness"],
-            "Religious": ["Provides [+6 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+6 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness"
+            ],
+            "Religious": [
+                "Provides [+6 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+12 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+12 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
+            "Cultured": [
+                "Provides [+12 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+12 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [157, 39, 176]
+        "iconRGB": [
+            157,
+            39,
+            176
+        ]
     },
     {
         "name": "Renaissance era",
@@ -96,27 +184,71 @@
         "startingGold": 50,
         "startingCulture": 300,
         "settlerPopulation": 2,
-        "settlerBuildings": ["Shrine","Monument","Granary","Lighthouse"],
-        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus", 
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus"],
+        "settlerBuildings": [
+            "Shrine",
+            "Monument",
+            "Granary",
+            "Lighthouse"
+        ],
+        "startingObsoleteWonders": [
+            "Temple of Artemis",
+            "Stonehenge",
+            "The Great Library",
+            "Mausoleum of Halicarnassus",
+            "The Pyramids",
+            "Statue of Zeus",
+            "The Great Lighthouse",
+            "Hanging Gardens",
+            "Terracotta Army",
+            "The Oracle",
+            "Petra",
+            "Great Wall",
+            "Colossus"
+        ],
         "baseUnitBuyCost": 300,
         "embarkDefense": 8,
         "startPercent": 37,
         "friendBonus": {
-            "Cultured": ["Provides [+6 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+3] Happiness"],
-            "Religious": ["Provides [+6 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+6 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness"
+            ],
+            "Religious": [
+                "Provides [+6 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+12 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+12 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
+            "Cultured": [
+                "Provides [+12 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+12 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [104, 58, 183]
+        "iconRGB": [
+            104,
+            58,
+            183
+        ]
     },
     {
         "name": "Industrial era",
@@ -128,35 +260,92 @@
         "startingGold": 100,
         "startingCulture": 400,
         "settlerPopulation": 3,
-        "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum"],
-        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
-            "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame"],
+        "settlerBuildings": [
+            "Monument",
+            "Granary",
+            "Lighthouse",
+            "Market",
+            "Workshop",
+            "Amphitheater",
+            "Barracks",
+            "Library",
+            "Colosseum"
+        ],
+        "startingObsoleteWonders": [
+            "Temple of Artemis",
+            "Stonehenge",
+            "The Great Library",
+            "Mausoleum of Halicarnassus",
+            "The Pyramids",
+            "Statue of Zeus",
+            "The Great Lighthouse",
+            "Hanging Gardens",
+            "Terracotta Army",
+            "The Oracle",
+            "Petra",
+            "Great Wall",
+            "Colossus",
+            "Hagia Sophia",
+            "Chichen Itza",
+            "Machu Picchu",
+            "Angkor Wat",
+            "Alhambra",
+            "Notre Dame"
+        ],
         "baseUnitBuyCost": 400,
         "embarkDefense": 10,
         "startPercent": 50,
         "friendBonus": {
-            "Cultured": ["Provides [+13 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+3] Happiness"],
-            "Religious": ["Provides [+13 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+13 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness"
+            ],
+            "Religious": [
+                "Provides [+13 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+26 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+26 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
+            "Cultured": [
+                "Provides [+26 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+26 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [63, 81, 182],
-        "uniques": ["May not generate great prophet equivalents naturally",
+        "iconRGB": [
+            63,
+            81,
+            182
+        ],
+        "uniques": [
+            "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Starting in this era disables religion"
+        ],
+        "civilopediaText": [
+            {
+                "text": "The Industrial Revolution changed very extensively the way the world works. In Future Expansion, most of the content starts being unlocked here."
+            }
         ]
-		"civilopediaText": [
-			{"text": "The Industrial Revolution changed very extensively the way the world works. In Future Expansion, most of the content starts being unlocked here."}
-		]
     },
     {
         "name": "Modern era",
@@ -168,30 +357,91 @@
         "startingGold": 200,
         "startingCulture": 500,
         "settlerPopulation": 3,
-        "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum"],
-        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
-            "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame", 
-            "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin"],
+        "settlerBuildings": [
+            "Monument",
+            "Granary",
+            "Lighthouse",
+            "Market",
+            "Workshop",
+            "Amphitheater",
+            "Barracks",
+            "Library",
+            "Colosseum"
+        ],
+        "startingObsoleteWonders": [
+            "Temple of Artemis",
+            "Stonehenge",
+            "The Great Library",
+            "Mausoleum of Halicarnassus",
+            "The Pyramids",
+            "Statue of Zeus",
+            "The Great Lighthouse",
+            "Hanging Gardens",
+            "Terracotta Army",
+            "The Oracle",
+            "Petra",
+            "Great Wall",
+            "Colossus",
+            "Hagia Sophia",
+            "Chichen Itza",
+            "Machu Picchu",
+            "Angkor Wat",
+            "Alhambra",
+            "Notre Dame",
+            "Sistine Chapel",
+            "Forbidden Palace",
+            "Leaning Tower of Pisa",
+            "Himeji Castle",
+            "Taj Mahal",
+            "Porcelain Tower",
+            "Kremlin"
+        ],
         "baseUnitBuyCost": 600,
         "embarkDefense": 13,
         "startPercent": 65,
         "friendBonus": {
-            "Cultured": ["Provides [+13 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+3] Happiness"],
-            "Religious": ["Provides [+13 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+13 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness"
+            ],
+            "Religious": [
+                "Provides [+13 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+26 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+26 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
+            "Cultured": [
+                "Provides [+26 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+26 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [33, 150, 243],
-        "uniques": ["May not generate great prophet equivalents naturally",
+        "iconRGB": [
+            33,
+            150,
+            243
+        ],
+        "uniques": [
+            "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Starting in this era disables religion"
         ]
@@ -206,31 +456,94 @@
         "startingGold": 200,
         "startingCulture": 500,
         "settlerPopulation": 4,
-        "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum"],
-        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",	
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
-            "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame", 
-            "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin",
-            "The Louvre", "Big Ben", "Brandenburg Gate"],
+        "settlerBuildings": [
+            "Monument",
+            "Granary",
+            "Lighthouse",
+            "Market",
+            "Workshop",
+            "Amphitheater",
+            "Barracks",
+            "Library",
+            "Colosseum"
+        ],
+        "startingObsoleteWonders": [
+            "Temple of Artemis",
+            "Stonehenge",
+            "The Great Library",
+            "Mausoleum of Halicarnassus",
+            "The Pyramids",
+            "Statue of Zeus",
+            "The Great Lighthouse",
+            "Hanging Gardens",
+            "Terracotta Army",
+            "The Oracle",
+            "Petra",
+            "Great Wall",
+            "Colossus",
+            "Hagia Sophia",
+            "Chichen Itza",
+            "Machu Picchu",
+            "Angkor Wat",
+            "Alhambra",
+            "Notre Dame",
+            "Sistine Chapel",
+            "Forbidden Palace",
+            "Leaning Tower of Pisa",
+            "Himeji Castle",
+            "Taj Mahal",
+            "Porcelain Tower",
+            "Kremlin",
+            "The Louvre",
+            "Big Ben",
+            "Brandenburg Gate"
+        ],
         "baseUnitBuyCost": 800,
         "embarkDefense": 16,
         "startPercent": 65,
         "friendBonus": {
-            "Cultured": ["Provides [+13 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+3] Happiness"],
-            "Religious": ["Provides [+13 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+13 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness"
+            ],
+            "Religious": [
+                "Provides [+13 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+26 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+26 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
+            "Cultured": [
+                "Provides [+26 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+26 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [0, 150, 136],
-        "uniques": ["May not generate great prophet equivalents naturally",
+        "iconRGB": [
+            0,
+            150,
+            136
+        ],
+        "uniques": [
+            "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Starting in this era disables religion"
         ]
@@ -245,13 +558,54 @@
         "startingGold": 400,
         "startingCulture": 600,
         "settlerPopulation": 5,
-        "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum","Theatre","Bank"],
-        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
-            "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame", 
-            "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin",
-            "The Louvre", "Big Ben", "Brandenburg Gate",
-            "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor"],
+        "settlerBuildings": [
+            "Monument",
+            "Granary",
+            "Lighthouse",
+            "Market",
+            "Workshop",
+            "Amphitheater",
+            "Barracks",
+            "Library",
+            "Colosseum",
+            "Theatre",
+            "Bank"
+        ],
+        "startingObsoleteWonders": [
+            "Temple of Artemis",
+            "Stonehenge",
+            "The Great Library",
+            "Mausoleum of Halicarnassus",
+            "The Pyramids",
+            "Statue of Zeus",
+            "The Great Lighthouse",
+            "Hanging Gardens",
+            "Terracotta Army",
+            "The Oracle",
+            "Petra",
+            "Great Wall",
+            "Colossus",
+            "Hagia Sophia",
+            "Chichen Itza",
+            "Machu Picchu",
+            "Angkor Wat",
+            "Alhambra",
+            "Notre Dame",
+            "Sistine Chapel",
+            "Forbidden Palace",
+            "Leaning Tower of Pisa",
+            "Himeji Castle",
+            "Taj Mahal",
+            "Porcelain Tower",
+            "Kremlin",
+            "The Louvre",
+            "Big Ben",
+            "Brandenburg Gate",
+            "Eiffel Tower",
+            "Statue of Liberty",
+            "Neuschwanstein",
+            "Cristo Redentor"
+        ],
         "baseUnitBuyCost": 1000,
         "embarkDefense": 20,
         "startPercent": 80,
@@ -259,30 +613,58 @@
         // But where is the modularity? The excluding of very specific wonders? That is no fun.
         // So we just write down the entire long list (sorted by era!) instead.
         "friendBonus": {
-            "Cultured": ["Provides [+13 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+3] Happiness"],
-            "Religious": ["Provides [+13 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+13 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness"
+            ],
+            "Religious": [
+                "Provides [+13 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+26 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+26 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
-
+            "Cultured": [
+                "Provides [+26 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+26 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [76, 176, 81],
-        "uniques": ["May not generate great prophet equivalents naturally",
+        "iconRGB": [
+            76,
+            176,
+            81
+        ],
+        "uniques": [
+            "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Starting in this era disables religion"
+        ],
+        "civilopediaText": [
+            {
+                "text": "The Information era represents the final step towards the Future. From this point on, advancements unlocked by Techs become less direct. And Perks become more impactful."
+            }
         ]
-		"civilopediaText": [
-			{"text": "The Information era represents the final step towards the Future. From this point on, advancements unlocked by Techs become less direct. And Perks become more impactful."}
-		]
-   },
-   {
+    },
+    {
         "name": "Future era",
         "researchAgreementCost": 450,
         "startingSettlerCount": 3,
@@ -292,38 +674,107 @@
         "startingGold": 500,
         "startingCulture": 700,
         "settlerPopulation": 6,
-        "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum","Theatre","Bank","University","Opera House"],
-        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
-            "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame", 
-            "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin",
-            "The Louvre", "Big Ben", "Brandenburg Gate",
-            "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor"],
+        "settlerBuildings": [
+            "Monument",
+            "Granary",
+            "Lighthouse",
+            "Market",
+            "Workshop",
+            "Amphitheater",
+            "Barracks",
+            "Library",
+            "Colosseum",
+            "Theatre",
+            "Bank",
+            "University",
+            "Opera House"
+        ],
+        "startingObsoleteWonders": [
+            "Temple of Artemis",
+            "Stonehenge",
+            "The Great Library",
+            "Mausoleum of Halicarnassus",
+            "The Pyramids",
+            "Statue of Zeus",
+            "The Great Lighthouse",
+            "Hanging Gardens",
+            "Terracotta Army",
+            "The Oracle",
+            "Petra",
+            "Great Wall",
+            "Colossus",
+            "Hagia Sophia",
+            "Chichen Itza",
+            "Machu Picchu",
+            "Angkor Wat",
+            "Alhambra",
+            "Notre Dame",
+            "Sistine Chapel",
+            "Forbidden Palace",
+            "Leaning Tower of Pisa",
+            "Himeji Castle",
+            "Taj Mahal",
+            "Porcelain Tower",
+            "Kremlin",
+            "The Louvre",
+            "Big Ben",
+            "Brandenburg Gate",
+            "Eiffel Tower",
+            "Statue of Liberty",
+            "Neuschwanstein",
+            "Cristo Redentor"
+        ],
         "baseUnitBuyCost": 1200,
         "embarkDefense": 35,
         "startPercent": 80,
         "friendBonus": {
-            "Cultured": ["Provides [+13 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+3] Happiness"],
-            "Religious": ["Provides [+13 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+13 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness"
+            ],
+            "Religious": [
+                "Provides [+13 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+26 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+26 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
-
+            "Cultured": [
+                "Provides [+26 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+26 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [76, 176, 81],
-        "uniques": ["May not generate great prophet equivalents naturally",
+        "iconRGB": [
+            76,
+            176,
+            81
+        ],
+        "uniques": [
+            "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Starting in this era disables religion"
         ]
     },
-	{
+    {
         "name": "Beyond the Future",
         "researchAgreementCost": 450,
         "startingSettlerCount": 3,
@@ -333,33 +784,100 @@
         "startingGold": 400,
         "startingCulture": 600,
         "settlerPopulation": 5,
-        "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum","Theatre","Bank"],
-        "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
-            "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
-            "Hagia Sophia", "Chichen Itza", "Machu Picchu", "Angkor Wat", "Alhambra", "Notre Dame", 
-            "Sistine Chapel", "Forbidden Palace", "Leaning Tower of Pisa", "Himeji Castle", "Taj Mahal", "Porcelain Tower", "Kremlin",
-            "The Louvre", "Big Ben", "Brandenburg Gate",
-            "Eiffel Tower", "Statue of Liberty", "Neuschwanstein", "Cristo Redentor"],
+        "settlerBuildings": [
+            "Monument",
+            "Granary",
+            "Lighthouse",
+            "Market",
+            "Workshop",
+            "Amphitheater",
+            "Barracks",
+            "Library",
+            "Colosseum",
+            "Theatre",
+            "Bank"
+        ],
+        "startingObsoleteWonders": [
+            "Temple of Artemis",
+            "Stonehenge",
+            "The Great Library",
+            "Mausoleum of Halicarnassus",
+            "The Pyramids",
+            "Statue of Zeus",
+            "The Great Lighthouse",
+            "Hanging Gardens",
+            "Terracotta Army",
+            "The Oracle",
+            "Petra",
+            "Great Wall",
+            "Colossus",
+            "Hagia Sophia",
+            "Chichen Itza",
+            "Machu Picchu",
+            "Angkor Wat",
+            "Alhambra",
+            "Notre Dame",
+            "Sistine Chapel",
+            "Forbidden Palace",
+            "Leaning Tower of Pisa",
+            "Himeji Castle",
+            "Taj Mahal",
+            "Porcelain Tower",
+            "Kremlin",
+            "The Louvre",
+            "Big Ben",
+            "Brandenburg Gate",
+            "Eiffel Tower",
+            "Statue of Liberty",
+            "Neuschwanstein",
+            "Cristo Redentor"
+        ],
         "baseUnitBuyCost": 1000,
         "embarkDefense": 40,
         "startPercent": 80,
         "friendBonus": {
-            "Cultured": ["Provides [+13 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
-            "Mercantile": ["Provides [+3] Happiness"],
-            "Religious": ["Provides [+13 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[20] turns"]
+            "Cultured": [
+                "Provides [+13 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness"
+            ],
+            "Religious": [
+                "Provides [+13 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[20] turns"
+            ]
         },
         "allyBonus": {
-            "Cultured": ["Provides [+26 Culture] per turn"],
-            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
-            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
-            "Religious": ["Provides [+26 Faith] per turn"],
-            "Militaristic": ["Provides military units every ≈[17] turns"]
-
+            "Cultured": [
+                "Provides [+26 Culture] per turn"
+            ],
+            "Maritime": [
+                "Provides [+2 Food] [in capital] per turn",
+                "Provides [+1 Food] [in all cities] per turn"
+            ],
+            "Mercantile": [
+                "Provides [+3] Happiness",
+                "Provides a unique luxury"
+            ],
+            "Religious": [
+                "Provides [+26 Faith] per turn"
+            ],
+            "Militaristic": [
+                "Provides military units every ≈[17] turns"
+            ]
         },
-        "iconRGB": [76, 176, 81],
-        "uniques": ["May not generate great prophet equivalents naturally",
+        "iconRGB": [
+            76,
+            176,
+            81
+        ],
+        "uniques": [
+            "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
             "Starting in this era disables religion"
         ]

@@ -9,32 +9,47 @@
 			{
 				"name": "Plastics",
 				"row": 3,
-				"prerequisites": ["Radio","Replaceable Parts"],
+				"prerequisites": [
+					"Radio",
+					"Replaceable Parts"
+				],
 				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
 			},
 			{
 				"name": "Corporations",
 				"row": 4,
-				"prerequisites": ["Radio","Replaceable Parts"],
-				"uniques": ["Gain a free [No Corporation] [in City-State cities]"],
+				"prerequisites": [
+					"Radio",
+					"Replaceable Parts"
+				],
+				"uniques": [
+					"Gain a free [No Corporation] [in City-State cities]"
+				],
 				"quote": "'If you can't feed a team with two pizzas, it's too large.' - Jeff Bezos"
 			},
 			{
 				"name": "Electronics",
 				"row": 5,
-				"prerequisites": ["Replaceable Parts", "Flight"],
+				"prerequisites": [
+					"Replaceable Parts",
+					"Flight"
+				],
 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
 			},
 			{
 				"name": "Ballistics",
 				"row": 6,
-				"prerequisites": ["Flight"],
+				"prerequisites": [
+					"Flight"
+				],
 				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
 			},
 			{
 				"name": "Combustion",
 				"row": 8,
-				"prerequisites": ["Railroads"],
+				"prerequisites": [
+					"Railroads"
+				],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
 			}
 		]
@@ -49,35 +64,50 @@
 			{
 				"name": "Pharmaceuticals",
 				"row": 2,
-				"prerequisites": ["Plastics","Refrigeration"],
+				"prerequisites": [
+					"Plastics",
+					"Refrigeration"
+				],
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
 			},
 			{
 				"name": "Atomic Theory",
 				"row": 4,
-				"prerequisites": ["Plastics","Corporations","Electronics"],
+				"prerequisites": [
+					"Plastics",
+					"Corporations",
+					"Electronics"
+				],
 				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
 			},
 			{
 				"name": "Infraestructure",
 				"row": 5,
-				"prerequisites": ["Electronics"],
+				"prerequisites": [
+					"Electronics"
+				],
 				"quote": "'As an architect, you design for the present, with an awareness of the past, for a future which is essentially unknown.' - Norman Foster"
 			},
 			{
 				"name": "Radar",
 				"row": 6,
-				"prerequisites": ["Ballistics","Electronics"],
+				"prerequisites": [
+					"Ballistics",
+					"Electronics"
+				],
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
 			},
 			{
 				"name": "Combined Arms",
 				"row": 8,
-				"prerequisites": ["Ballistics","Combustion"],
+				"prerequisites": [
+					"Ballistics",
+					"Combustion"
+				],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
 		]
-	}
+	},
 	{
 		"columnNumber": 14,
 		"era": "Atomic era",
@@ -88,25 +118,37 @@
 			{
 				"name": "Ecology",
 				"row": 2,
-				"prerequisites": ["Atomic Theory","Pharmaceuticals"],
+				"prerequisites": [
+					"Atomic Theory",
+					"Pharmaceuticals"
+				],
 				"quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
 			},
 			{
 				"name": "Nuclear Fission",
 				"row": 4,
-				"prerequisites": ["Infraestructure","Atomic Theory"],
+				"prerequisites": [
+					"Infraestructure",
+					"Atomic Theory"
+				],
 				"quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
 			},
 			{
 				"name": "Rocketry",
 				"row": 6,
-				"prerequisites": ["Infraestructure","Radar"],
+				"prerequisites": [
+					"Infraestructure",
+					"Radar"
+				],
 				"quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
 			},
 			{
 				"name": "Computers",
 				"row": 8,
-				"prerequisites": ["Combined Arms","Radar"],
+				"prerequisites": [
+					"Combined Arms",
+					"Radar"
+				],
 				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
 			}
 		]
@@ -121,38 +163,55 @@
 			{
 				"name": "Telecommunications",
 				"row": 2,
-				"prerequisites": ["Ecology"],
+				"prerequisites": [
+					"Ecology"
+				],
 				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
 			},
 			{
 				"name": "Urbanization",
 				"row": 3,
-				"prerequisites": ["Ecology","Nuclear Fission"],
+				"prerequisites": [
+					"Ecology",
+					"Nuclear Fission"
+				],
 				"quote": "'Seasons change. So do cities. People come into your life and people go, but it's comforting to know: the ones you love are always in your heart. And if you're very lucky, a plane ride away.' - Michael Patrick"
 			},
 			{
 				"name": "Advanced Ballistics",
 				"row": 5,
-				"prerequisites": ["Nuclear Fission","Rocketry"],
+				"prerequisites": [
+					"Nuclear Fission",
+					"Rocketry"
+				],
 				"quote": "'Our scientific power has outrun our spiritual power, we have guided missiles and misguided men.' – Martin Luther King Jr."
 			},
 			{
 				"name": "Satellites",
 				"row": 6,
-				"prerequisites": ["Rocketry"],
-				"uniques": ["Reveals the entire map"],
+				"prerequisites": [
+					"Rocketry"
+				],
+				"uniques": [
+					"Reveals the entire map"
+				],
 				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
 			},
 			{
 				"name": "Robotics",
 				"row": 7,
-				"prerequisites": ["Rocketry","Computers"],
+				"prerequisites": [
+					"Rocketry",
+					"Computers"
+				],
 				"quote": "'1. A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2. A robot must obey any orders given to it by human beings, except when such orders would conflict with the First Law. 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.' - Isaac Asimov"
 			},
 			{
 				"name": "The Internet",
 				"row": 8,
-				"prerequisites": ["Computers"],
+				"prerequisites": [
+					"Computers"
+				],
 				"quote": "'The Internet is the first thing that humanity has built that humanity doesn't understand.' - Eric Schmidt"
 			}
 		]
@@ -167,31 +226,46 @@
 			{
 				"name": "Globalization",
 				"row": 2,
-				"prerequisites": ["Telecommunications"],
+				"prerequisites": [
+					"Telecommunications"
+				],
 				"quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
 			},
 			{
 				"name": "Genetics",
 				"row": 3,
-				"prerequisites": ["Telecommunications","Urbanization","Advanced Ballistics"],
+				"prerequisites": [
+					"Telecommunications",
+					"Urbanization",
+					"Advanced Ballistics"
+				],
 				"quote": "'I'm fascinated by the idea that genetics is digital. A gene is a long sequence of coded letters, like computer information. Modern biology is becoming very much a branch of information technology.' - Richard Dawkins"
 			},
 			{
 				"name": "Mobile Tactics",
 				"row": 4,
-				"prerequisites": ["Nuclear Fission"],
+				"prerequisites": [
+					"Nuclear Fission"
+				],
 				"quote": "'All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.' - Sun Tzu"
 			},
 			{
 				"name": "Artificial Intelligence",
 				"row": 6,
-				"prerequisites": ["Advanced Ballistics", "Satellites", "Robotics"],
+				"prerequisites": [
+					"Advanced Ballistics",
+					"Satellites",
+					"Robotics"
+				],
 				"quote": "'With artificial intelligence, we are summoning the demon. You know all those stories where there's the guy with the pentagram and the holy water, and he's like, yeah, he's sure he can control the demon? Doesn't work out.' - Elon Musk"
 			},
 			{
 				"name": "Stealth",
 				"row": 7,
-				"prerequisites": ["Robotics","The Internet"],
+				"prerequisites": [
+					"Robotics",
+					"The Internet"
+				],
 				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
 			}
 		]
@@ -206,25 +280,35 @@
 			{
 				"name": "Enhancing",
 				"row": 3,
-				"prerequisites": ["Globalization","Genetics"],
+				"prerequisites": [
+					"Globalization",
+					"Genetics"
+				],
 				"quote": "'Zombies let us explore notions of the apocalypse - no water, food, medical care, the government imploding - while letting us sleep at night.' - Max Brooks"
 			},
 			{
 				"name": "Nanotechnology",
 				"row": 4,
-				"prerequisites": ["Mobile Tactics"],
+				"prerequisites": [
+					"Mobile Tactics"
+				],
 				"quote": "'Nanotechnology will let us build computers that are incredibly powerful. We'll have more power in the volume of a sugar cube than exists in the entire world today.' - Ralph Merkle"
 			},
 			{
 				"name": "Lasers",
 				"row": 6,
-				"prerequisites": ["Artificial Intelligence"],
-				"quote": "tThere is always room, if only in one’s own soul, to create a spot of Paradise, crazy though it may sound.' - Henry Miller"
+				"prerequisites": [
+					"Artificial Intelligence"
+				],
+				"quote": "tThere is always room, if only in one's own soul, to create a spot of Paradise, crazy though it may sound.' - Henry Miller"
 			},
 			{
 				"name": "Automation",
 				"row": 7,
-				"prerequisites": ["Artificial Intelligence","Stealth"],
+				"prerequisites": [
+					"Artificial Intelligence",
+					"Stealth"
+				],
 				"quote": "'I visualize a time when we will be to robots what dogs are to humans, and I'm rooting for the machines.' - Claude Shannon"
 			}
 		]
@@ -232,43 +316,58 @@
 	{
 		"columnNumber": 18,
 		"era": "Future era",
-		"techCost": 10000
+		"techCost": 10000,
 		"buildingCost": 1120,
 		"wonderCost": 2360,
 		"techs": [
 			{
 				"name": "Metagenetics",
 				"row": 1,
-				"prerequisites": ["Enhancing"],
+				"prerequisites": [
+					"Enhancing"
+				],
 				"quote": "'Neuroscience is a baby science, a mere century old, and our scientific understanding of the brain is nowhere near where we'd like it to be. We know more about the moons of Jupiter than what is inside of our skulls.' - Matt Haig"
 			},
 			{
 				"name": "Terraforming",
 				"row": 3,
-				"prerequisites": ["Enhancing","Nanotechnology"],
+				"prerequisites": [
+					"Enhancing",
+					"Nanotechnology"
+				],
 				"quote": "'How inappropriate to call this planet Earth when it is quite clearly Ocean.' - Arthur C. Clarke"
 			},
 			{
 				"name": "Clean Energy",
 				"row": 5,
-				"prerequisites": ["Nanotechnology","Lasers"],
-				"uniques": ["+3 Power to Buildings that provide it"]
+				"prerequisites": [
+					"Nanotechnology",
+					"Lasers"
+				],
+				"uniques": [
+					"+3 Power to Buildings that provide it"
+				],
 				"quote": "'For an impenetrable shield, stand inside yourself.' - Henry David"
 			},
 			{
 				"name": "Spaceflight",
 				"row": 7,
-				"prerequisites": ["Lasers","Automation"],
+				"prerequisites": [
+					"Lasers",
+					"Automation"
+				],
 				"quote": "'Space is to place as eternity is to time.' - Joseph Joubert"
-			}
+			},
 			{
 				"name": "Nuclear Fusion",
 				"row": 9,
-				"prerequisites": ["Automation"],
+				"prerequisites": [
+					"Automation"
+				],
 				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
-			},
+			}
 		]
-	}
+	},
 	{
 		"columnNumber": 19,
 		"era": "Beyond the Future",
@@ -279,20 +378,35 @@
 			{
 				"name": "World Alliance",
 				"row": 2,
-				"prerequisites": ["Metagenetics","Terraforming"],
+				"prerequisites": [
+					"Metagenetics",
+					"Terraforming"
+				],
 				"quote": "'A real friend is one who walks in when the rest of the world walks out.' - Walter Winchell"
 			},
 			{
 				"name": "Future Tech",
 				"row": 5,
-				"prerequisites": ["Metagenetics","Terraforming","Clean Energy","Spaceflight","Nuclear Fusion"],
-				"uniques": ["Go beyond the Future", "Can be continually researched"],
+				"prerequisites": [
+					"Metagenetics",
+					"Terraforming",
+					"Clean Energy",
+					"Spaceflight",
+					"Nuclear Fusion"
+				],
+				"uniques": [
+					"Go beyond the Future",
+					"Can be continually researched"
+				],
 				"quote": "'But to understand the future. We have to go back in time' - Pitbull"
-			}
+			},
 			{
 				"name": "Particle Physics",
 				"row": 8,
-				"prerequisites": ["Spaceflight","Nuclear Fusion"],
+				"prerequisites": [
+					"Spaceflight",
+					"Nuclear Fusion"
+				],
 				"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
 			}
 		]

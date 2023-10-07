@@ -1,14 +1,31 @@
-3# Future-Expansion
+# Future Expansion Continued
+A continuation of @Sullien's great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).
 
+This continued version merely fixes syntax to comply with Unciv's latest updates.
+
+# Ownership Disclaimer
+Inspired by the awesome @emipa606. \=\)
+
+* This is an updated version of an existing mod.
+* I claim no ownership of the mod.
+* This version may be taken down by request from the original author.
+* The original author is free to use this mod to update their own.
+* Since I did not create the mod, I will not accept donations for it.
+
+# Changelog
+## 4.1.1
+* Changed instant building abilities uniques values to comply with Unciv's latest syntax.
+* Corrected a few minor syntax errors.
+
+# Original Mod Description
 Mod that greatly expands the late-game eras, with a focus on Atomic, Information and Future eras.
 
 The main objective is to prevent the late-game from feeling stale by introducing new units, improvements and mechanics. 
 
 While this mod extends game length, the goal is to not extend it too long. If you have any feedback/suggestions feel free to contact me.
 
+## Latest Version Changelog(4.1)-9/18/2022
 
--Latest Version Changelog(4.1)-9/18/2022
---
 -Lowered all Post-Industrial Tech costs by 10%
 
 -Private Grids now provide -30% Science
@@ -70,4 +87,4 @@ While this mod extends game length, the goal is to not extend it too long. If yo
 -Aluminum is now revealed by Replaceable Parts	
 
 --
-Should be compatible with any mod that does not directly alter the G&K Tech Tree 
+Should be compatible with any mod that does not directly alter the G&K Tech Tree

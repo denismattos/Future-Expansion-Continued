@@ -1,150 +1,192 @@
 [
-    //Bonus
+	//Bonus
 	{
 		"name": "Natural Appeal",
 		"resourceType": "Bonus",
 		"revealedBy": "Radio",
-		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Desert"],
+		"terrainsCanBeFoundOn": [
+			"Grassland",
+			"Plains",
+			"Tundra",
+			"Desert"
+		],
 		"happiness": 1,
 		"improvement": "Resort",
-		"improvementStats": {"gold": 10},
-		"uniques": ["Generated on every [40] tiles <in [Featureless] [Grassland] tiles>",
-	                "Generated on every [45] tiles <in [Featureless] [Plains] tiles>",	
-					"Generated on every [20] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [35] tiles <in [Featureless] [Desert] tiles>"]
+		"improvementStats": {
+			"gold": 10
+		},
+		"uniques": [
+			"Generated on every [40] tiles <in [Featureless] [Grassland] tiles>",
+			"Generated on every [45] tiles <in [Featureless] [Plains] tiles>",
+			"Generated on every [20] tiles <in [Featureless] [Tundra] tiles>",
+			"Generated on every [35] tiles <in [Featureless] [Desert] tiles>"
+		]
 	},
 	//Perks
 	{
 		"name": "Scientist Perk",
 		"resourceType": "Bonus",
-		"science": 1,
+		"science": 1
 	},
 	{
 		"name": "Artist Perk",
 		"resourceType": "Bonus",
-		"culture": 1,
+		"culture": 1
 	},
 	{
 		"name": "Engineer Perk",
 		"resourceType": "Bonus",
-		"production": 1,
+		"production": 1
 	},
 	{
 		"name": "Merchant Perk",
 		"resourceType": "Bonus",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Prophet Perk",
 		"resourceType": "Bonus",
-		"faith": 1,
+		"faith": 1
 	},
 	{
 		"name": "General Perk",
 		"resourceType": "Bonus",
-		"production": 1,
+		"production": 1
 	},
 	//Strategic
 	{
 		"name": "Power",
 		"resourceType": "Strategic",
 		"revealedBy": "Electricity",
-		"science": 1,
+		"science": 1
 	},
 	{
-        "name": "Composites",
+		"name": "Composites",
 		"resourceType": "Strategic",
 		"revealedBy": "Nanotechnology",
-		"production": 1,
+		"production": 1
 	},
 	{
 		"name": "Aluminum",
 		"resourceType": "Strategic",
 		"revealedBy": "Replaceable Parts",
-		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle"],
+		"terrainsCanBeFoundOn": [
+			"Desert",
+			"Tundra",
+			"Hill",
+			"Snow",
+			"Jungle"
+		],
 		"production": 1,
 		"improvement": "Mine",
-		"improvementStats": {"production": 1},
-		"uniques": ["Generated with weight [15] <in [Featureless] [Tundra] tiles>",
-					"Generated with weight [15] <in [Featureless] [Snow] tiles>",
-					"Generated with weight [39] <in [Hill] tiles>",
-					"Minor deposits generated with weight [20] <in [Jungle] tiles>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+		"improvementStats": {
+			"production": 1
+		},
+		"uniques": [
+			"Generated with weight [15] <in [Featureless] [Tundra] tiles>",
+			"Generated with weight [15] <in [Featureless] [Snow] tiles>",
+			"Generated with weight [39] <in [Hill] tiles>",
+			"Minor deposits generated with weight [20] <in [Jungle] tiles>",
+			"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>"
+		],
+		"majorDepositAmount": {
+			"sparse": 5,
+			"default": 8,
+			"abundant": 10
+		},
+		"minorDepositAmount": {
+			"sparse": 2,
+			"default": 3,
+			"abundant": 3
+		}
 	},
 	{
 		"name": "Fossil",
 		"resourceType": "Strategic",
 		"revealedBy": "Archaeology",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill"],
+		"terrainsCanBeFoundOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Hill"
+		],
 		"production": 1,
 		"improvement": "Excavation Site",
-		"uniques": ["Guaranteed with Strategic Balance resource option",
-					"Generated with weight [45] <in [Featureless] [Desert] tiles>",
-					"Generated with weight [25] <in [Featureless] [Plains] tiles>",
-					"Generated with weight [35] <in [Featureless] [Grassland] tiles>",
-					"Generated with weight [26] <in [Hill] tiles>",
-					"Minor deposits generated with weight [10] <in [Jungle] [Hill] tiles>",
-					"Minor deposits generated with weight [20] <in [Forest] tiles>",
-					"Minor deposits generated with weight [20] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
-					"Minor deposits generated with weight [15] <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
-					"Minor deposits generated with weight [20] <in [Featureless] [Desert] tiles>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Plains] tiles>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Grassland] tiles>"],
-		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
-		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
+		"uniques": [
+			"Guaranteed with Strategic Balance resource option",
+			"Generated with weight [45] <in [Featureless] [Desert] tiles>",
+			"Generated with weight [25] <in [Featureless] [Plains] tiles>",
+			"Generated with weight [35] <in [Featureless] [Grassland] tiles>",
+			"Generated with weight [26] <in [Hill] tiles>",
+			"Minor deposits generated with weight [10] <in [Jungle] [Hill] tiles>",
+			"Minor deposits generated with weight [20] <in [Forest] tiles>",
+			"Minor deposits generated with weight [20] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+			"Minor deposits generated with weight [15] <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
+			"Minor deposits generated with weight [20] <in [Featureless] [Desert] tiles>",
+			"Minor deposits generated with weight [10] <in [Featureless] [Plains] tiles>",
+			"Minor deposits generated with weight [10] <in [Featureless] [Grassland] tiles>"
+		],
+		"majorDepositAmount": {
+			"sparse": 1,
+			"default": 1,
+			"abundant": 1
+		},
+		"minorDepositAmount": {
+			"sparse": 1,
+			"default": 1,
+			"abundant": 1
+		}
 	},
-//Corporation
+	//Corporation
 	{
 		"name": "Corporation Slot(Total)",
 		"resourceType": "Bonus",
-		"gold": 1,
+		"gold": 1
 	},
 	{
-		"name": "Corporation Slot", 
+		"name": "Corporation Slot",
 		"resourceType": "Strategic",
-		"revealedBy": "Corporations"
-		"gold": 1,
+		"revealedBy": "Corporations",
+		"gold": 1
 	},
 	{
 		"name": "Electrical Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Engineering Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Tourism Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Defense Force Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "World Delivery Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Social Network Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Space Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
+		"gold": 2
 	},
 	{
 		"name": "Holy Stock",
 		"resourceType": "Luxury",
-		"gold": 2,
-	},
+		"gold": 2
+	}
 ]

@@ -1,10 +1,16 @@
 [
 	{
-		"name":"Spacefarer",
-		"science":2,
-		"culture":2,
-		"gold":2,
-		"greatPersonPoints": {"Great Spacefarer":12},
-		"color": [160,0,250]
+		"name": "Spacefarer",
+		"science": 2,
+		"culture": 2,
+		"gold": 2,
+		"greatPersonPoints": {
+			"Great Spacefarer": 12
+		},
+		"color": [
+			160,
+			0,
+			250
+		]
 	}
 ]

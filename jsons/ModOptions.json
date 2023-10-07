@@ -1,1 +1,8 @@
-{modUrl:"https://github.com/Sullien/Future-Expansion",author:Sullien,constants:{unitUpgradeCost:{}}}
+{modUrl: "https://github.com/denismattos/Future-Expansion-Continued",
+
+author:Sullien,
+
+constants: {
+    unitUpgradeCost: {}
+    }
+}

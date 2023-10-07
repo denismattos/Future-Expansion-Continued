@@ -1,49 +1,81 @@
 [
     //G&K
-	{
+    {
         "name": "Civilian",
         "movementType": "Land"
     },
     {
         "name": "Sword",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Gunpowder",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Archery",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Ranged Gunpowder",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Scout",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Mounted",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Armored",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
-		
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Siege",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+1] Range <when adjacent to a [Intel] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+1] Range <when adjacent to a [Intel] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Civilian Water",
@@ -51,57 +83,94 @@
     },
     {
         "name": "Melee Water",
-        "movementType": "Water"
-		"uniques": ["[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Water",
+        "uniques": [
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Ranged Water",
-        "movementType": "Water"
-		"uniques": ["[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Water",
+        "uniques": [
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Submarine",
         "movementType": "Water",
-        "uniques": ["[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "uniques": [
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "Can enter ice tiles",
+            "Invisible to non-adjacent units",
+            "Can see invisible [Submarine] units",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Aircraft Carrier",
-        "movementType": "Water"
-		"uniques": ["[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"]
+        "movementType": "Water",
+        "uniques": [
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>"
+        ]
     },
     {
         "name": "Fighter",
         "movementType": "Air",
-        "uniques": ["Aircraft","[+4] Sight","Can see over obstacles","Can perform Air Sweep"]
+        "uniques": [
+            "Aircraft",
+            "[+4] Sight",
+            "Can see over obstacles",
+            "Can perform Air Sweep"
+        ]
     },
     {
         "name": "Bomber",
         "movementType": "Air",
-        "uniques": ["Aircraft"]
+        "uniques": [
+            "Aircraft"
+        ]
     },
     {
         "name": "Atomic Bomber",
         "movementType": "Air",
-        "uniques": ["Aircraft"]
+        "uniques": [
+            "Aircraft"
+        ]
     },
     {
         "name": "Missile",
         "movementType": "Air",
-        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+        "uniques": [
+            "Self-destructs when attacking",
+            "Cannot be intercepted"
+        ]
     },
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>","Can pass through impassable tiles"]
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>",
+            "Can pass through impassable tiles"
+        ]
     },
-	//Future Expansion
-	{
+    //Future Expansion
+    {
         "name": "Support",
         "movementType": "Land"
     },
-	{
+    {
         "name": "Land Carrier",
-        "movementType": "Land"
-		"uniques": ["[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>","[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>","May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>","Can pass through impassable tiles"]
-    },
+        "movementType": "Land",
+        "uniques": [
+            "[+33]% Strength <vs [Air] units> <when adjacent to a [Anti-Air] unit>",
+            "[+33]% Strength <vs [Cyber] units> <when adjacent to a [Hacker] unit>",
+            "May capture killed [Cyber] units <with [25]% chance> <when adjacent to a [Hacker] unit>",
+            "Can pass through impassable tiles"
+        ]
+    }
 ]

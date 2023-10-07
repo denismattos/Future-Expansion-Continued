@@ -1,103 +1,198 @@
-[	
-    {
+[
+	{
 		"name": "Heal Instantly",
-		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Support","Land Carrier"]
+		"uniques": [
+			"Heal this unit by [50] HP",
+			"Doing so will consume this opportunity to choose a Promotion"
+		],
+		"unitTypes": [
+			"Sword",
+			"Gunpowder",
+			"Mounted",
+			"Scout",
+			"Siege",
+			"Archery",
+			"Ranged Gunpowder",
+			"Armored",
+			"Melee Water",
+			"Ranged Water",
+			"Submarine",
+			"Support",
+			"Land Carrier"
+		]
 	},
-//Effects
+	//Effects
 	{
 		"name": "Stealth",
-		"uniques": ["Invisible to non-adjacent units"]
+		"uniques": [
+			"Invisible to non-adjacent units"
+		]
 	},
 	{
 		"name": "Amphibious",
-		"uniques": ["Normal vision when embarked", "Defense bonus when embarked"]
+		"uniques": [
+			"Normal vision when embarked",
+			"Defense bonus when embarked"
+		]
 	},
 	{
 		"name": "Hovering",
-		"uniques": ["[0] Movement point cost to disembark","[0] Movement point cost to embark","[+50]% Strength <vs [Land] units>","Ignores terrain cost"]
+		"uniques": [
+			"[0] Movement point cost to disembark",
+			"[0] Movement point cost to embark",
+			"[+50]% Strength <vs [Land] units>",
+			"Ignores terrain cost"
+		]
 	},
 	{
 		"name": "Rocket Launcher",
-		"uniques": ["[+35]% Strength <vs [Cyber] units>","[+75]% Strength <vs cities>"]
+		"uniques": [
+			"[+35]% Strength <vs [Cyber] units>",
+			"[+75]% Strength <vs cities>"
+		]
 	},
 	{
 		"name": "Firewall",
-		"uniques": ["[+33]% Strength <when defending>"]
+		"uniques": [
+			"[+33]% Strength <when defending>"
+		]
 	},
 	{
 		"name": "Heat Sensor",
-		"uniques": ["[+200]% Strength <vs [Stealth Bomber] units>"]
+		"uniques": [
+			"[+200]% Strength <vs [Stealth Bomber] units>"
+		]
 	},
 	{
 		"name": "Implants",
-		"uniques": ["[+25]% Strength <vs [Wounded] units>"]
+		"uniques": [
+			"[+25]% Strength <vs [Wounded] units>"
+		]
 	},
 	{
 		"name": "Scan Visor",
-		"uniques": ["Can see invisible [All] units"]
+		"uniques": [
+			"Can see invisible [All] units"
+		]
 	},
 	{
 		"name": "Energy Weapons",
-		"uniques": ["[+40]% Strength <vs [Bio] units>","[+40]% Strength <vs [Cyber] units>"]
+		"uniques": [
+			"[+40]% Strength <vs [Bio] units>",
+			"[+40]% Strength <vs [Cyber] units>"
+		]
 	},
 	{
 		"name": "Gravity Generator",
-		"uniques": ["[-25]% Strength for enemy [Military] units in adjacent [All] tiles"]
+		"uniques": [
+			"[-25]% Strength for enemy [Military] units in adjacent [All] tiles"
+		]
 	},
 	{
 		"name": "In Orbit",
-		"uniques": ["[+25]% Strength <vs [Land] units>"]
+		"uniques": [
+			"[+25]% Strength <vs [Land] units>"
+		]
 	},
 	{
 		"name": "Energy Shield",
-		"uniques": ["[+20]% Strength <when defending>","[+20]% Strength <vs [Ranged] units>","[+100]% Strength <vs [Missile] units>"]
+		"uniques": [
+			"[+20]% Strength <when defending>",
+			"[+20]% Strength <vs [Ranged] units>",
+			"[+100]% Strength <vs [Missile] units>"
+		]
 	},
 	{
 		"name": "Teleportation",
-		"uniques": ["[+1] Movement","May Paradrop up to [100] tiles from inside friendly territory","May withdraw before melee ([90]%)"]
+		"uniques": [
+			"[+1] Movement",
+			"May Paradrop up to [100] tiles from inside friendly territory",
+			"May withdraw before melee ([90]%)"
+		]
 	},
 	{
 		"name": "Support Unit",
-		"uniques": ["Cannot attack"]
+		"uniques": [
+			"Cannot attack"
+		]
 	},
 	{
 		"name": "Skirmish",
-		"uniques": ["May withdraw before melee ([33]%)"]
+		"uniques": [
+			"May withdraw before melee ([33]%)"
+		]
 	},
-//Carrier
+	//Carrier
 	{
 		"name": "Armor Plating I",
-		"uniques": ["[+25]% Strength <when defending>"],
-		"unitTypes": ["Aircraft Carrier","Land Carrier"]
+		"uniques": [
+			"[+25]% Strength <when defending>"
+		],
+		"unitTypes": [
+			"Aircraft Carrier",
+			"Land Carrier"
+		]
 	},
 	{
 		"name": "Armor Plating II",
-		"prerequisites": ["Armor Plating I"],
-		"uniques": ["[+25]% Strength <when defending>"],
-		"unitTypes": ["Aircraft Carrier","Land Carrier"]
+		"prerequisites": [
+			"Armor Plating I"
+		],
+		"uniques": [
+			"[+25]% Strength <when defending>"
+		],
+		"unitTypes": [
+			"Aircraft Carrier",
+			"Land Carrier"
+		]
 	},
 	{
 		"name": "Armor Plating III",
-		"prerequisites": ["Armor Plating II"],
-		"uniques": ["[+25]% Strength <when defending>"],
-		"unitTypes": ["Aircraft Carrier","Land Carrier"]
+		"prerequisites": [
+			"Armor Plating II"
+		],
+		"uniques": [
+			"[+25]% Strength <when defending>"
+		],
+		"unitTypes": [
+			"Aircraft Carrier",
+			"Land Carrier"
+		]
 	},
 	{
 		"name": "Flight Deck I",
-		"uniques": ["Can carry [1] extra [Aircraft] units"],
-		"unitTypes": ["Aircraft Carrier","Land Carrier"]
+		"uniques": [
+			"Can carry [1] extra [Aircraft] units"
+		],
+		"unitTypes": [
+			"Aircraft Carrier",
+			"Land Carrier"
+		]
 	},
 	{
 		"name": "Flight Deck II",
-		"prerequisites": ["Flight Deck I"],
-		"uniques": ["Can carry [1] extra [Aircraft] units"],
-		"unitTypes": ["Aircraft Carrier","Land Carrier"]
+		"prerequisites": [
+			"Flight Deck I"
+		],
+		"uniques": [
+			"Can carry [1] extra [Aircraft] units"
+		],
+		"unitTypes": [
+			"Aircraft Carrier",
+			"Land Carrier"
+		]
 	},
 	{
 		"name": "Flight Deck III",
-		"prerequisites": ["Flight Deck II"],
-		"uniques": ["Can carry [1] extra [Aircraft] units"],
-		"unitTypes": ["Aircraft Carrier","Land Carrier"]
+		"prerequisites": [
+			"Flight Deck II"
+		],
+		"uniques": [
+			"Can carry [1] extra [Aircraft] units"
+		],
+		"unitTypes": [
+			"Aircraft Carrier",
+			"Land Carrier"
+		]
 	}
 ]

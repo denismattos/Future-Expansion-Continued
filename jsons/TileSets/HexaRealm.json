@@ -1,66 +1,240 @@
 {
 	"useColorAsBaseTerrain": "false",
-	"fallbackTileSet": FantasyHex,
+	"fallbackTileSet": "FantasyHex",
 	"ruleVariants": {
-	//Having horses on top of the Supply route would be weird
-	"Grassland+Horses+Supply Route": ["Grassland","Supply Route+Horses"]
-	"Grassland+Iron+Supply Route": ["Grassland","Supply Route+Iron"]
-	"Grassland+Coal+Supply Route": ["Grassland","Supply Route+Coal"]
-	"Grassland+Aluminum+Supply Route": ["Grassland","Supply Route+Aluminum"]
-	"Grassland+Uranium+Supply Route": ["Grassland","Supply Route+Uranium"]
-	"Grassland+Quantum Fragment+Supply Route": ["Grassland","Supply Route+Quantum Fragment"]
-	"Grassland+Hill+Horses+Supply Route": ["Grassland","Supply Route+Horses"]
-	"Grassland+Hill+Iron+Supply Route": ["Grassland","Supply Route+Iron"]
-	"Grassland+Hill+Coal+Supply Route": ["Grassland","Supply Route+Coal"]
-	"Grassland+Hill+Aluminum+Supply Route": ["Grassland","Supply Route+Aluminum"]
-	"Grassland+Hill+Uranium+Supply Route": ["Grassland","Supply Route+Uranium"]
-	"Grassland+Hill+Quantum Fragment+Supply Route": ["Grassland","Supply Route+Quantum Fragment"]
-	"Plains+Horses+Supply Route": ["Plains","Supply Route+Horses"]
-	"Plains+Iron+Supply Route": ["Plains","Supply Route+Iron"]
-	"Plains+Coal+Supply Route": ["Plains","Supply Route+Coal"]
-	"Plains+Aluminum+Supply Route": ["Plains","Supply Route+Aluminum"]
-	"Plains+Uranium+Supply Route": ["Plains","Supply Route+Uranium"]
-	"Plains+Hill+Horses+Supply Route": ["Plains","Supply Route+Horses"]
-	"Plains+Hill+Iron+Supply Route": ["Plains","Supply Route+Iron"]
-	"Plains+Hill+Coal+Supply Route": ["Plains","Supply Route+Coal"]
-	"Plains+Hill+Aluminum+Supply Route": ["Plains","Supply Route+Aluminum"]
-	"Plains+Hill+Uranium+Supply Route": ["Plains","Supply Route+Uranium"]
-	"Desert+Horses+Supply Route": ["Desert","Supply Route+Horses"]
-	"Desert+Iron+Supply Route": ["Desert","Supply Route+Iron"]
-	"Desert+Coal+Supply Route": ["Desert","Supply Route+Coal"]
-	"Desert+Aluminum+Supply Route": ["Desert","Supply Route+Aluminum"]
-	"Desert+Uranium+Supply Route": ["Desert","Supply Route+Uranium"]
-	"Desert+Hill+Horses+Supply Route": ["Desert","Supply Route+Horses"]
-	"Desert+Hill+Iron+Supply Route": ["Desert","Supply Route+Iron"]
-	"Desert+Hill+Coal+Supply Route": ["Desert","Supply Route+Coal"]
-	"Desert+Hill+Aluminum+Supply Route": ["Desert","Supply Route+Aluminum"]
-	"Desert+Hill+Uranium+Supply Route": ["Desert","Supply Route+Uranium"]
-	"Tundra+Horses+Supply Route": ["Tundra","Supply Route+Horses"]
-	"Tundra+Iron+Supply Route": ["Tundra","Supply Route+Iron"]
-	"Tundra+Coal+Supply Route": ["Tundra","Supply Route+Coal"]
-	"Tundra+Aluminum+Supply Route": ["Tundra","Supply Route+Aluminum"]
-	"Tundra+Uranium+Supply Route": ["Tundra","Supply Route+Uranium"]
-	"Tundra+Hill+Horses+Supply Route": ["Tundra","Supply Route+Horses"]
-	"Tundra+Hill+Iron+Supply Route": ["Tundra","Supply Route+Iron"]
-	"Tundra+Hill+Coal+Supply Route": ["Tundra","Supply Route+Coal"]
-	"Tundra+Hill+Aluminum+Supply Route": ["Tundra","Supply Route+Aluminum"]
-	"Tundra+Hill+Uranium+Supply Route": ["Tundra","Supply Route+Uranium"]
-	"Snow+Horses+Supply Route": ["Snow","Supply Route+Horses"]
-	"Snow+Iron+Supply Route": ["Snow","Supply Route+Iron"]
-	"Snow+Coal+Supply Route": ["Snow","Supply Route+Coal"]
-	"Snow+Aluminum+Supply Route": ["Snow","Supply Route+Aluminum"]
-	"Snow+Uranium+Supply Route": ["Snow","Supply Route+Uranium"]
-	"Snow+Hill+Horses+Supply Route": ["Snow","Supply Route+Horses"]
-	"Snow+Hill+Iron+Supply Route": ["Snow","Supply Route+Iron"]
-	"Snow+Hill+Coal+Supply Route": ["Snow","Supply Route+Coal"]
-	"Snow+Hill+Aluminum+Supply Route": ["Snow","Supply Route+Aluminum"]
-	"Snow+Hill+Uranium+Supply Route": ["Snow","Supply Route+Uranium"]
-	"Desert+Natural Appeal+Resort": ["Desert","Resort+Natural Appeal"]
-        "Plains+Natural Appeal+Resort": ["Plains","Resort+Natural Appeal"]
-        "Grassland+Natural Appeal+Resort": ["Grassland","Resort+Natural Appeal"]
-        "Tundra+Natural Appeal+Resort": ["Tundra","Resort+Natural Appeal"]
-	//Elephant on Industry looks weird
-	"Grassland+Ivory+Industry": ["Grassland","Industry+Ivory"]
-	"Plains+Ivory+Industry": ["Plains","Industry+Ivory"]
+		"Grassland+Horses+Supply Route": [
+			"Grassland",
+			"Supply Route+Horses"
+			//Having horses on top of the Supply route would be weird
+		],
+		"Grassland+Iron+Supply Route": [
+			"Grassland",
+			"Supply Route+Iron"
+		],
+		"Grassland+Coal+Supply Route": [
+			"Grassland",
+			"Supply Route+Coal"
+		],
+		"Grassland+Aluminum+Supply Route": [
+			"Grassland",
+			"Supply Route+Aluminum"
+		],
+		"Grassland+Uranium+Supply Route": [
+			"Grassland",
+			"Supply Route+Uranium"
+		],
+		"Grassland+Quantum Fragment+Supply Route": [
+			"Grassland",
+			"Supply Route+Quantum Fragment"
+		],
+		"Grassland+Hill+Horses+Supply Route": [
+			"Grassland",
+			"Supply Route+Horses"
+		],
+		"Grassland+Hill+Iron+Supply Route": [
+			"Grassland",
+			"Supply Route+Iron"
+		],
+		"Grassland+Hill+Coal+Supply Route": [
+			"Grassland",
+			"Supply Route+Coal"
+		],
+		"Grassland+Hill+Aluminum+Supply Route": [
+			"Grassland",
+			"Supply Route+Aluminum"
+		],
+		"Grassland+Hill+Uranium+Supply Route": [
+			"Grassland",
+			"Supply Route+Uranium"
+		],
+		"Grassland+Hill+Quantum Fragment+Supply Route": [
+			"Grassland",
+			"Supply Route+Quantum Fragment"
+		],
+		"Plains+Horses+Supply Route": [
+			"Plains",
+			"Supply Route+Horses"
+		],
+		"Plains+Iron+Supply Route": [
+			"Plains",
+			"Supply Route+Iron"
+		],
+		"Plains+Coal+Supply Route": [
+			"Plains",
+			"Supply Route+Coal"
+		],
+		"Plains+Aluminum+Supply Route": [
+			"Plains",
+			"Supply Route+Aluminum"
+		],
+		"Plains+Uranium+Supply Route": [
+			"Plains",
+			"Supply Route+Uranium"
+		],
+		"Plains+Hill+Horses+Supply Route": [
+			"Plains",
+			"Supply Route+Horses"
+		],
+		"Plains+Hill+Iron+Supply Route": [
+			"Plains",
+			"Supply Route+Iron"
+		],
+		"Plains+Hill+Coal+Supply Route": [
+			"Plains",
+			"Supply Route+Coal"
+		],
+		"Plains+Hill+Aluminum+Supply Route": [
+			"Plains",
+			"Supply Route+Aluminum"
+		],
+		"Plains+Hill+Uranium+Supply Route": [
+			"Plains",
+			"Supply Route+Uranium"
+		],
+		"Desert+Horses+Supply Route": [
+			"Desert",
+			"Supply Route+Horses"
+		],
+		"Desert+Iron+Supply Route": [
+			"Desert",
+			"Supply Route+Iron"
+		],
+		"Desert+Coal+Supply Route": [
+			"Desert",
+			"Supply Route+Coal"
+		],
+		"Desert+Aluminum+Supply Route": [
+			"Desert",
+			"Supply Route+Aluminum"
+		],
+		"Desert+Uranium+Supply Route": [
+			"Desert",
+			"Supply Route+Uranium"
+		],
+		"Desert+Hill+Horses+Supply Route": [
+			"Desert",
+			"Supply Route+Horses"
+		],
+		"Desert+Hill+Iron+Supply Route": [
+			"Desert",
+			"Supply Route+Iron"
+		],
+		"Desert+Hill+Coal+Supply Route": [
+			"Desert",
+			"Supply Route+Coal"
+		],
+		"Desert+Hill+Aluminum+Supply Route": [
+			"Desert",
+			"Supply Route+Aluminum"
+		],
+		"Desert+Hill+Uranium+Supply Route": [
+			"Desert",
+			"Supply Route+Uranium"
+		],
+		"Tundra+Horses+Supply Route": [
+			"Tundra",
+			"Supply Route+Horses"
+		],
+		"Tundra+Iron+Supply Route": [
+			"Tundra",
+			"Supply Route+Iron"
+		],
+		"Tundra+Coal+Supply Route": [
+			"Tundra",
+			"Supply Route+Coal"
+		],
+		"Tundra+Aluminum+Supply Route": [
+			"Tundra",
+			"Supply Route+Aluminum"
+		],
+		"Tundra+Uranium+Supply Route": [
+			"Tundra",
+			"Supply Route+Uranium"
+		],
+		"Tundra+Hill+Horses+Supply Route": [
+			"Tundra",
+			"Supply Route+Horses"
+		],
+		"Tundra+Hill+Iron+Supply Route": [
+			"Tundra",
+			"Supply Route+Iron"
+		],
+		"Tundra+Hill+Coal+Supply Route": [
+			"Tundra",
+			"Supply Route+Coal"
+		],
+		"Tundra+Hill+Aluminum+Supply Route": [
+			"Tundra",
+			"Supply Route+Aluminum"
+		],
+		"Tundra+Hill+Uranium+Supply Route": [
+			"Tundra",
+			"Supply Route+Uranium"
+		],
+		"Snow+Horses+Supply Route": [
+			"Snow",
+			"Supply Route+Horses"
+		],
+		"Snow+Iron+Supply Route": [
+			"Snow",
+			"Supply Route+Iron"
+		],
+		"Snow+Coal+Supply Route": [
+			"Snow",
+			"Supply Route+Coal"
+		],
+		"Snow+Aluminum+Supply Route": [
+			"Snow",
+			"Supply Route+Aluminum"
+		],
+		"Snow+Uranium+Supply Route": [
+			"Snow",
+			"Supply Route+Uranium"
+		],
+		"Snow+Hill+Horses+Supply Route": [
+			"Snow",
+			"Supply Route+Horses"
+		],
+		"Snow+Hill+Iron+Supply Route": [
+			"Snow",
+			"Supply Route+Iron"
+		],
+		"Snow+Hill+Coal+Supply Route": [
+			"Snow",
+			"Supply Route+Coal"
+		],
+		"Snow+Hill+Aluminum+Supply Route": [
+			"Snow",
+			"Supply Route+Aluminum"
+		],
+		"Snow+Hill+Uranium+Supply Route": [
+			"Snow",
+			"Supply Route+Uranium"
+		],
+		"Desert+Natural Appeal+Resort": [
+			"Desert",
+			"Resort+Natural Appeal"
+		],
+		"Plains+Natural Appeal+Resort": [
+			"Plains",
+			"Resort+Natural Appeal"
+		],
+		"Grassland+Natural Appeal+Resort": [
+			"Grassland",
+			"Resort+Natural Appeal"
+		],
+		"Tundra+Natural Appeal+Resort": [
+			"Tundra",
+			"Resort+Natural Appeal"
+		],
+		"Grassland+Ivory+Industry": [
+			"Grassland",
+			"Industry+Ivory"
+			//Elephant on Industry looks weird
+		],
+		"Plains+Ivory+Industry": [
+			"Plains",
+			"Industry+Ivory"
+		]
 	}
 }

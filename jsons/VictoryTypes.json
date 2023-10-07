@@ -1,29 +1,40 @@
 [
-	{
+    {
         "name": "Scientific",
-        "victoryScreenHeader": "Build the Time Machine\nto win!",
+        "victoryScreenHeader": "Build the Time Machine to win!",
         "milestones": [
-            "Build [Time Machine Blueprints]","Add all [Time Machine parts] in capital"
+            "Build [Time Machine Blueprints]",
+            "Add all [Time Machine parts] in capital"
         ],
         "requiredSpaceshipParts": [
-            "Photon Generator", "Photon Generator", "Causality Matrix", "Dimensional Shifter", "Entropy Phaser"
+            "Photon Generator",
+            "Photon Generator",
+            "Causality Matrix",
+            "Dimensional Shifter",
+            "Entropy Phaser"
         ],
         "victoryString": "You have achieved victory through mastery of Science! You have conquered the mysteries of nature and led your people on a voyage to the past! Your triumph will be remembered as long as the stars burn in the night sky!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
-	  {
+    {
         "name": "Cultural",
         "victoryScreenHeader": "Complete 6 policy branches and\nbuild the Utopia Project to win!",
-        "milestones": ["Complete [6] Policy branches", "Build [Utopia Project]"],
+        "milestones": [
+            "Complete [6] Policy branches",
+            "Build [Utopia Project]"
+        ],
         "victoryString": "You have achieved victory through the awesome power of your Culture. Your civilization's greatness - the magnificence of its monuments and the power of its artists - have astounded the world! Poets will honor you as long as beauty brings gladness to a weary heart.",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
-	 {
+    {
         "name": "Diplomatic",
         "hiddenInVictoryScreen": false,
-        "victoryScreenHeader": "Build the World Alliance and be voted\nworld leader to win!",
-        "milestones": ["Anyone should build [World Alliance]", "Win diplomatic vote"],
+        "victoryScreenHeader": "Build the World Alliance and be voted World leader to win!",
+        "milestones": [
+            "Anyone should build [World Alliance]",
+            "Win diplomatic vote"
+        ],
         "victoryString": "You have triumphed over your foes through the art of diplomacy! Your cunning and wisdom have earned you great friends - and divided and sown confusion among your enemies! Forever will you be remembered as the leader who brought peace to this weary world!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
-    },
+    }
 ]

@@ -1,11 +1,16 @@
 [
-    {
+	{
 		"name": "Alien Monolith",
 		"type": "NaturalWonder",
 		"culture": 4,
 		"science": 4,
-		"occursOn": ["Desert","Plains"],
-		"uniques": ["Must be adjacent to [1] to [5] [Desert] tiles"],
+		"occursOn": [
+			"Desert",
+			"Plains"
+		],
+		"uniques": [
+			"Must be adjacent to [1] to [5] [Desert] tiles"
+		],
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 3
