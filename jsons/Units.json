@@ -371,7 +371,7 @@
 			"Indirect Fire"
 		],
 		"attackSound": "shipguns"
-		// Does **actually** upgrade to Missile Cruisers Now
+		//Does **actually** upgrade to Missile Cruiser, now.
 	},
 	{
 		"name": "Musician",

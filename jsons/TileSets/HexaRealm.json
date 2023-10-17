@@ -5,7 +5,7 @@
 		"Grassland+Horses+Supply Route": [
 			"Grassland",
 			"Supply Route+Horses"
-			//Having horses on top of the Supply route would be weird
+			//Having horses on top of the Supply route would be weird.
 		],
 		"Grassland+Iron+Supply Route": [
 			"Grassland",
@@ -230,7 +230,7 @@
 		"Grassland+Ivory+Industry": [
 			"Grassland",
 			"Industry+Ivory"
-			//Elephant on Industry looks weird
+			//Elephant on Industry looks weird.
 		],
 		"Plains+Ivory+Industry": [
 			"Plains",

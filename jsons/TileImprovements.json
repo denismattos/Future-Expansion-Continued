@@ -426,7 +426,7 @@
 		],
 		"shortcutKey": "F"
 	},
-	// Infraestructure
+	//Infraestructure
 	{
 		"name": "Power Plant",
 		"terrainsCanBeBuiltOn": [
