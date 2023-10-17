@@ -1167,7 +1167,6 @@
 			"Only available <if [AP-Space Combat] is constructed>",
 			"Cyber",
 			"Space",
-			"Only available <if [AP-Space Combat] is constructed>",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Bomber] units>",
 			"[+50]% Strength <vs [Helicopter] units>"
