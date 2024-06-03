@@ -8,6 +8,7 @@
 			"Desert",
 			"Plains"
 		],
+		"turnsInto": "Desert",
 		"uniques": [
 			"Must be adjacent to [1] to [5] [Desert] tiles"
 		],
