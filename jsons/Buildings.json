@@ -1,5 +1,4 @@
 [
-	//Ancient
 	{
 		"name": "Palace",
 		"isNationalWonder": true,
@@ -15,7 +14,6 @@
 			"Provides [1] [Corporation Slot] <in cities without a [No Corporation]> <after discovering [Corporations]>"
 		]
 	},
-	//Medieval
 	{
 		"name": "Forge",
 		"maintenance": 1,
@@ -30,8 +28,6 @@
 			"[+1 Production] from [Iron] tiles [in this city]"
 		]
 	},
-	//Renaissance
-	//Industrial
 	{
 		"name": "Museum",
 		"culture": 5,
@@ -147,7 +143,6 @@
 			"Provides [3] [Power] <if [Electrical Corporation] is constructed>"
 		]
 	},
-	//Modern
 	{
 		"name": "Stadium",
 		"happiness": 4,
@@ -192,7 +187,6 @@
 			"[+2]% [Science]"
 		]
 	},
-	//Atomic
 	{
 		"name": "Medical Lab",
 		"requiredBuilding": "Hospital",
@@ -254,7 +248,6 @@
 			"Destroyed when the city is captured"
 		]
 	},
-	//Information
 	{
 		"name": "Foreign Center",
 		"culture": 5,
@@ -381,7 +374,6 @@
 			"Destroyed when the city is captured"
 		]
 	},
-	//Future
 	{
 		"name": "Bio Facility",
 		"percentStatBonus": {
@@ -524,7 +516,6 @@
 			"Only available <in cities without a [Composite Factory]>"
 		]
 	},
-	//National Wonders
 	{
 		"name": "Utopia Project",
 		"cost": 3000,
@@ -576,7 +567,6 @@
 			"Will not be displayed in Civilopedia"
 		]
 	},
-	//World Wonders
 	{
 		"name": "Manhattan Project",
 		"isWonder": true,
@@ -730,7 +720,6 @@
 		],
 		"quote": "'If I could teleport, I'd probably still be late.' - Anonymous"
 	},
-	//Corporations
 	{
 		"name": "Electrical Corporation",
 		"isNationalWonder": true,
@@ -844,7 +833,6 @@
 			"Only available <starting from the [Information era]>"
 		]
 	},
-	//Perks
 	{
 		"name": "SP-Innovation",
 		"cost": 1,
@@ -1701,7 +1689,6 @@
 			"[-2 Culture] [in this city] <after adopting [Constitution]>"
 		]
 	},
-	//Effect-Based
 	{
 		"name": "Cloning Facility",
 		"food": 7,

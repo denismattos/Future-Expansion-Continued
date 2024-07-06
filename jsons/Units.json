@@ -1,5 +1,4 @@
 [
-	//Ancient
 	{
 		"name": "Worker",
 		"unitType": "Civilian",
@@ -40,8 +39,6 @@
 		],
 		"attackSound": "nonmetalhit"
 	},
-	//Renaissance
-	//Industrial
 	{
 		"name": "Archaeologist",
 		"unitType": "Civilian",
@@ -260,7 +257,6 @@
 		],
 		"attackSound": "artillery"
 	},
-	//Modern
 	{
 		"name": "Great War Infantry",
 		"unitType": "Gunpowder",
@@ -371,7 +367,6 @@
 			"Indirect Fire"
 		],
 		"attackSound": "shipguns"
-		//Does **actually** upgrade to Missile Cruiser, now.
 	},
 	{
 		"name": "Musician",
@@ -474,7 +469,6 @@
 		],
 		"attackSound": "tankshot"
 	},
-	//Atomic
 	{
 		"name": "Marine",
 		"unitType": "Gunpowder",
@@ -680,7 +674,6 @@
 			}
 		]
 	},
-	//Information
 	{
 		"name": "Nuclear Submarine",
 		"unitType": "Submarine",
@@ -911,7 +904,6 @@
 		],
 		"attackSound": "bombing"
 	},
-	//Future
 	{
 		"name": "Bio-Infantry",
 		"unitType": "Gunpowder",
@@ -1257,7 +1249,6 @@
 		],
 		"attackSound": "nuke"
 	},
-	//Great Persons
 	{
 		"name": "Great Spacefarer",
 		"unitType": "Civilian",
@@ -1302,7 +1293,6 @@
 		],
 		"movement": 5
 	},
-	//Time Machine Parts
 	{
 		"name": "Photon Generator",
 		"unitType": "Civilian",
@@ -1359,7 +1349,6 @@
 			"Limited to [1] per Civilization"
 		]
 	},
-	//Barbarians
 	{
 		"name": "Terrorist",
 		"unitType": "Gunpowder",
@@ -1413,7 +1402,6 @@
 		],
 		"attackSound": "tankshot"
 	},
-	//Aliens
 	{
 		"name": "Body Snatcher",
 		"unitType": "Gunpowder",
@@ -1559,7 +1547,6 @@
 		],
 		"attackSound": "gdrAttack"
 	},
-	//Civ-Exclusive
 	{
 		"name": "Norwegian Ski Infantry",
 		"unitType": "Gunpowder",
@@ -1628,7 +1615,6 @@
 		"upgradesTo": "Jet Bomber",
 		"attackSound": "bombing"
 	},
-	//Spaceship
 	{
 		"name": "SS Booster",
 		"unitType": "Civilian",

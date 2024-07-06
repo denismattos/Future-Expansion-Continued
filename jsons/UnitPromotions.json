@@ -21,7 +21,6 @@
 			"Land Carrier"
 		]
 	},
-	//Effects
 	{
 		"name": "Stealth",
 		"uniques": [
@@ -122,7 +121,6 @@
 			"May withdraw before melee ([33]%)"
 		]
 	},
-	//Carrier
 	{
 		"name": "Armor Plating I",
 		"uniques": [

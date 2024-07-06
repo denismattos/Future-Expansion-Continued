@@ -105,7 +105,6 @@
 		],
 		"shortcutKey": "T"
 	},
-	//Modern Upgrades
 	{
 		"name": "Excavation Site",
 		"terrainsCanBeBuiltOn": [
@@ -285,7 +284,6 @@
 		],
 		"shortcutKey": "H"
 	},
-	//Resource-Specific
 	{
 		"name": "Pasture",
 		"turnsToBuild": 8,
@@ -426,7 +424,6 @@
 		],
 		"shortcutKey": "F"
 	},
-	//Infraestructure
 	{
 		"name": "Power Plant",
 		"terrainsCanBeBuiltOn": [
@@ -498,7 +495,6 @@
 		],
 		"shortcutKey": "R"
 	},
-	//Great Improvement
 	{
 		"name": "Academy",
 		"terrainsCanBeBuiltOn": [
@@ -639,7 +635,6 @@
 			"Removes removable features when built"
 		]
 	},
-	//Civilization-Unique
 	{
 		"name": "Moai",
 		"uniqueTo": "Polynesia",

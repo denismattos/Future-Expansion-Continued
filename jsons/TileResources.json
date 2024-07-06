@@ -1,5 +1,4 @@
 [
-	//Bonus
 	{
 		"name": "Natural Appeal",
 		"resourceType": "Bonus",
@@ -22,7 +21,6 @@
 			"Generated on every [35] tiles <in [Featureless] [Desert] tiles>"
 		]
 	},
-	//Perks
 	{
 		"name": "Scientist Perk",
 		"resourceType": "Bonus",
@@ -53,7 +51,6 @@
 		"resourceType": "Bonus",
 		"production": 1
 	},
-	//Strategic
 	{
 		"name": "Power",
 		"resourceType": "Strategic",
@@ -137,7 +134,6 @@
 			"abundant": 1
 		}
 	},
-	//Corporation
 	{
 		"name": "Corporation Slot(Total)",
 		"resourceType": "Bonus",

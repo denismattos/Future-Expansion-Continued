@@ -1,5 +1,4 @@
 [
-    //G&K
     {
         "name": "Civilian",
         "movementType": "Land"
@@ -158,7 +157,6 @@
             "Can pass through impassable tiles"
         ]
     },
-    //Future Expansion
     {
         "name": "Support",
         "movementType": "Land"
