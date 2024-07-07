@@ -18,11 +18,13 @@ Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 * The original author is free to use this mod to update their own.
 * Since I did not create the mod, I will not accept donations for it.
 # Changelog
-Forewords to some updates are on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/forewords.md).
+Forewords to some updates are on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md).
+## 4.1.3.1
+Corrections to some file links.
 ## 4.1.3
 Documentation and comments changes:
-* All comments left by Sullien within the .json have been moved to [a separate file](https://github.com/denismattos/Future-Expansion-Continued/authors_comments.md).
-* All forewords to updates are now contained on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/forewords.md).
+* All comments left by Sullien within the .json have been moved to [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/authors_comments.md).
+* All forewords to updates are now contained on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md).
 * Due to my inexperience, I wrongly believed Unciv was written in JS because it uses .json.  
 [I recently learned it's written in Kotlin](https://github.com/yairm210/Unciv/issues/11689#issuecomment-2150907477), so I went back and tried to change the mistakes I made in the documentation.
 ## 4.1.2

@@ -3,10 +3,10 @@
 I'm strongly concerned about information loss and would like to think it's a personal cause for preservation, but truth is me being prolix and a hoarder probably has a lot to do with it.  
 Anyhow, I'm doing some cleanup, but taking measures to preserve what's being removed by moving to alternative locations, instead.
 
-When [I had to update the mod due to a change in the game's checks' stringency](https://github.com/denismattos/Future-Expansion-Continued/forewords.md##4.1.2) it got me thinking about Sullien's code comments.  
+When [I had to update the mod due to a change in the game's checks' stringency](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md##4.1.2) it got me thinking about Sullien's code comments.  
 There's [a whole movement against commenting code](https://www.google.com/search?q=don%27t%20comment%20code), but I'm personally mostly favorable to comments – again: prolix.  
 In this case, however, arguing is moot, as [.json is a format that doesn't support comments by design](https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/). Who knows when Unciv's checks might start being stringent about that, too?  
-That's why I'm removing all of Sullien's comments from the .json and preserving them on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/authors_comments.md).
+That's why I'm removing all of Sullien's comments from the .json and preserving them on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/authors_comments.md).
 
 I'm also moving all previous and any forthcoming updates' forewords to this separate file, here.
 ## 4.1.2
