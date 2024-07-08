@@ -1,6 +1,11 @@
 # Sullien's Comments
 [I recently realized the comments in Sullien's original .json may become an issue at some point](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md##4.1.3).  
 So I'm doing a cleanup of the files and moving all comments within every file to this separate file, here.
+## [HexaRealm.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/HexaRealm.json)
+* `"Grassland+Horses+Supply Route"` was commented:  
+"Having horses on top of the Supply route would be weird."
+* `"Grassland+Ivory+Industry"`was commented:  
+"Elephant on Industry looks weird."
 ## [Buildings.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/Buildings.json)
 Buildings.json's comments were used to divide additions and modifications by eras and categories.
 ### "Ancient"
