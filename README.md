@@ -19,6 +19,8 @@ Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 * Since I did not create the mod, I will not accept donations for it.
 # Changelog
 Forewords to some updates are on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md).
+## 4.1.3.2
+I'm an idiot and actually forgot a .json, because it was on a subfolder.
 ## 4.1.3.1
 Corrections to some file links.
 ## 4.1.3
