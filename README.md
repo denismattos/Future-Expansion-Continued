@@ -4,6 +4,10 @@ A continuation of [@Sullien](https://github.com/Sullien)'s great – and, now, d
 This continued version merely fixes syntax to comply with Unciv's latest updates.
 
 Sullien didn't mention this in his original description, so I believe it's worth mentioning: this mod is intended for use with the Gods & Kings ruleset.
+## Discord
+* Unciv's Discord server: [![Discord](https://img.shields.io/discord/586194543280390151?color=%237289DA&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/bjrB4Xw)  
+    * Unciv's Discord [mods channel](https://discord.com/channels/586194543280390151/1020322259094753360).
+        * [Future Expansion category](https://discord.com/channels/586194543280390151/1020909710871887913), opened by Sullien himself.
 ## Alternative Uploads and Versions
 My first and foremost aim with this reupload has always been preservation.  
 I love playing Unciv with Sullien's mod and was really sad when later versions of the game broke it.
@@ -11,24 +15,8 @@ I love playing Unciv with Sullien's mod and was really sad when later versions o
 In the spirit of preservation, I believe multiple reuploads, mirrors and every other form of redundancy are not merely positive, but, indeed, needed, always.  
 This is, after all, the beauty and strenght of open-source: the unlimited potential for collaboration between all and every person who's willing to contribute.
 
-This is a list of all other available versions of Future Expansion I know of.  
+The documentation now includes [a list of all other versions of Future Expansion I know of](https://github.com/denismattos/Future-Expansion-Continued/blob/main/alternative_versions.md).  
 I'll be glad to add any others that are reported to me.
-
-### Other Reuploads
-* [@calrissian-tendra](https://github.com/calrissian-tendra)'s [reupload](https://github.com/calrissian-tendra/Future-Expansion/commits/main/), originally from 2023/07/21.
-* [@EmperorPinguin](https://github.com/EmperorPinguin)'s [reupload](https://github.com/EmperorPinguin/Future-Expansion-2022-09-18), originally from 2023/09/21.
-* [@Gospedius](https://github.com/Gospedius)' [fork](https://github.com/Gospedius/Sullys-Future) of EmperorPinguin's reupload.
-### Modified
-* [Mr-Chubz](https://github.com/Mr-Chubz)'s [version](https://github.com/Mr-Chubz/Future-Edited), made to be compatible with [Warfare Edited](https://github.com/Mr-Chubz/Warfare-Edited).  
-Incidentally, this is the oldest extant fork of Sullien's original repo and, therefore, due to the way GitHub works, the one some reuploads (mine included) inherited as "upstream".
-### Unreleased
-* In June of 2023, Sullien released [a preview of his future plans for Future Expansion](https://discord.com/channels/586194543280390151/1020909710871887913/1117652119256838155) in the form of [a RAR file containing his latet .json](https://cdn.discordapp.com/attachments/1020909710871887913/1117652118938062949/Future_Expansion_PE_TEST_BETA.rar?ex=669298e6&is=66914766&hm=dda58f07e48623897bdbcb6daa2d89c923b75a411349983117e6ab1672ba117a&).
-I've corrected a few syntax typos and [uploaded it](https://github.com/denismattos/Future-Expansion-Unreleased) for preservation and reference.
-* [My modded version of the expansion](https://github.com/denismattos/Future-Expansion-Enhanced) is still unreleased, as I'm still doing basic tests on it.
-### Taken Down
-Much like [the original mod](https://github.com/Sullien/Future-Expansion), some reuploads have been taken down, but I'm listing them below, just in case.
-* [@Wheelchair](https://github.com/Wheelchair2)'s [temporary copy](https://github.com/Wheelchair2/Future-Expansion-Temporary-Copy).
-* There was a reupload by [@SpacedOutChicken](https://github.com/SpacedOutChicken), but I lost the URL for it.
 ## WiP Warning
 **This mod is still a WiP, limited by my currently restricted knowledge of Unciv, the original expansion mod and even the .json format or the game code.  
 I can't guarantee its stability or usability in-game.  
@@ -44,6 +32,8 @@ Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
 Forewords to some updates are on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md).
+### 4.1.4
+Documentation now contains a file [listing all other versions of Future Expansion I know of](https://github.com/denismattos/Future-Expansion-Continued/blob/main/alternative_versions.md).
 ### 4.1.3.2
 I'm an idiot and actually forgot a .json, because it was on a subfolder.
 ### 4.1.3.1
