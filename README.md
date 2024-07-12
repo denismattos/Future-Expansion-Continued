@@ -17,7 +17,7 @@ I'll be glad to add any others that are reported to me.
 ### Other Reuploads
 * [@calrissian-tendra](https://github.com/calrissian-tendra)'s [reupload](https://github.com/calrissian-tendra/Future-Expansion/commits/main/), originally from 2023/07/21.
 * [@EmperorPinguin](https://github.com/EmperorPinguin)'s [reupload](https://github.com/EmperorPinguin/Future-Expansion-2022-09-18), originally from 2023/09/21.
-* [@Gospedius](https://github.com/Gospedius)'s [fork](https://github.com/Gospedius/Sullys-Future) of EmperorPinguin's reupload.
+* [@Gospedius](https://github.com/Gospedius)' [fork](https://github.com/Gospedius/Sullys-Future) of EmperorPinguin's reupload.
 ### Modified
 * [Mr-Chubz](https://github.com/Mr-Chubz)'s [version](https://github.com/Mr-Chubz/Future-Edited), made to be compatible with [Warfare Edited](https://github.com/Mr-Chubz/Warfare-Edited).  
 Incidentally, this is the oldest extant fork of Sullien's original repo and, therefore, due to the way GitHub works, the one some reuploads (mine included) inherited as "upstream".
