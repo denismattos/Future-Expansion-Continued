@@ -149,7 +149,7 @@ No additions or modifications.
 ## [Eras.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/Eras.json)
 * Ancient era's `"startingSettlerCount": 1` line was commented:  
 "These values should not include the values given in Difficulties.json."
-* Information era's `"startPercent": 80` line was commented (Presumably referring to its `"startingObsoleteWonders"` attribute.):  
+* Information era's `"startPercent": 80` line was commented (Presumably referring to the following `"startingObsoleteWonders"` attribute.):  
 "So, theoretically, this is always just all the wonders at least 2 eras old. So we could just use that.  
 But where is the modularity? The excluding of very specific wonders? That is no fun.  
 So we just write down the entire long list (sorted by era!), instead."

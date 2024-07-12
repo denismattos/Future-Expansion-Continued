@@ -1,9 +1,34 @@
-# Future Expansion Continued
+# Future Expansion – Continued
 A continuation of [@Sullien](https://github.com/Sullien)'s great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).
 
 This continued version merely fixes syntax to comply with Unciv's latest updates.
 
 Sullien didn't mention this in his original description, so I believe it's worth mentioning: this mod is intended for use with the Gods & Kings ruleset.
+## Alternative Uploads and Versions
+My first and foremost aim with this reupload has always been preservation.  
+I love playing Unciv with Sullien's mod and was really sad when later versions of the game broke it.
+
+In the spirit of preservation, I believe multiple reuploads, mirrors and every other form of redundancy are always not merely positive, but, indeed, needed.  
+This is, after all, the beauty and strenght of open-source: the unlimited potential for collaboration between all and every person who's willing to contribute.
+
+This is a list of all other available versions of Future Expansion I know of.  
+I'll be glad to add any others that are reported to me.
+
+### Other Reuploads
+* [@calrissian-tendra](https://github.com/calrissian-tendra)'s [reupload](https://github.com/calrissian-tendra/Future-Expansion/commits/main/), originally from 2023/07/21.
+* [@EmperorPinguin](https://github.com/EmperorPinguin)'s [reupload](https://github.com/EmperorPinguin/Future-Expansion-2022-09-18), originally from 2023/09/21.
+* [@Gospedius](https://github.com/Gospedius)'s [fork](https://github.com/Gospedius/Sullys-Future) of EmperorPinguin's reupload.
+### Modified
+* [Mr-Chubz](https://github.com/Mr-Chubz)'s [version](https://github.com/Mr-Chubz/Future-Edited), made to be compatible with [Warfare Edited](https://github.com/Mr-Chubz/Warfare-Edited).  
+Incidentally, this is the oldest extant fork of Sullien's original repo and, therefore, due to the way GitHub works, the one some reuploads (mine included) inherited as "upstream".
+### Unreleased
+* In June of 2023 Sullien released a preview of his future plans for Future Expansion in the form of [a RAR file containing his latet .json](https://discord.com/channels/586194543280390151/1020909710871887913/1117652119256838155).  
+I've corrected a few syntax typos and [uploaded it](https://github.com/denismattos/Future-Expansion-Unreleased) for preservation and reference.
+* [My modded version of the expansion](https://github.com/denismattos/Future-Expansion-Enhanced) is still unreleased, as I'm still doing basic tests on it.
+### Taken Down
+Much like [the original mod](https://github.com/Sullien/Future-Expansion), some reuploads have been taken down, but I'm listing them below, just in case.
+* [@Wheelchair](https://github.com/Wheelchair2)'s [temporary copy](https://github.com/Wheelchair2/Future-Expansion-Temporary-Copy).
+* There was a reupload by [@SpacedOutChicken](https://github.com/SpacedOutChicken), but I lost the URL for it.
 ## WiP Warning
 **This mod is still a WiP, limited by my currently restricted knowledge of Unciv, the original expansion mod and even the .json format or the game code.  
 I can't guarantee its stability or usability in-game.  
