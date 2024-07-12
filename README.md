@@ -8,7 +8,7 @@ Sullien didn't mention this in his original description, so I believe it's worth
 My first and foremost aim with this reupload has always been preservation.  
 I love playing Unciv with Sullien's mod and was really sad when later versions of the game broke it.
 
-In the spirit of preservation, I believe multiple reuploads, mirrors and every other form of redundancy are always not merely positive, but, indeed, needed.  
+In the spirit of preservation, I believe multiple reuploads, mirrors and every other form of redundancy are not merely positive, but, indeed, needed, always.  
 This is, after all, the beauty and strenght of open-source: the unlimited potential for collaboration between all and every person who's willing to contribute.
 
 This is a list of all other available versions of Future Expansion I know of.  
