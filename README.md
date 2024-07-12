@@ -17,6 +17,25 @@ This is, after all, the beauty and strenght of open-source: the unlimited potent
 
 The documentation now includes [a list of all other versions of Future Expansion I know of](https://github.com/denismattos/Future-Expansion-Continued/blob/main/alternative_versions.md).  
 I'll be glad to add any others that are reported to me.
+<<<<<<< HEAD
+=======
+
+### Other Reuploads
+* [@calrissian-tendra](https://github.com/calrissian-tendra)'s [reupload](https://github.com/calrissian-tendra/Future-Expansion/commits/main/), originally from 2023/07/21.
+* [@EmperorPinguin](https://github.com/EmperorPinguin)'s [reupload](https://github.com/EmperorPinguin/Future-Expansion-2022-09-18), originally from 2023/09/21.
+* [@Gospedius](https://github.com/Gospedius)' [fork](https://github.com/Gospedius/Sullys-Future) of EmperorPinguin's reupload.
+### Modified
+* [Mr-Chubz](https://github.com/Mr-Chubz)'s [version](https://github.com/Mr-Chubz/Future-Edited), made to be compatible with [Warfare Edited](https://github.com/Mr-Chubz/Warfare-Edited).  
+Incidentally, this is the oldest extant fork of Sullien's original repo and, therefore, due to the way GitHub works, the one some reuploads (mine included) inherited as "upstream".
+### Unreleased
+* In June of 2023, Sullien released [a preview of his future plans for Future Expansion](https://discord.com/channels/586194543280390151/1020909710871887913/1117652119256838155) in the form of [a RAR file containing his latet .json](https://cdn.discordapp.com/attachments/1020909710871887913/1117652118938062949/Future_Expansion_PE_TEST_BETA.rar?ex=669298e6&is=66914766&hm=dda58f07e48623897bdbcb6daa2d89c923b75a411349983117e6ab1672ba117a&).  
+I've corrected a few syntax typos and [uploaded it](https://github.com/denismattos/Future-Expansion-Unreleased) for preservation and reference.
+* [My modded version of the expansion](https://github.com/denismattos/Future-Expansion-Enhanced) is still unreleased, as I'm still doing basic tests on it.
+### Taken Down
+Much like [the original mod](https://github.com/Sullien/Future-Expansion), some reuploads have been taken down, but I'm listing them below, just in case.
+* [@Wheelchair](https://github.com/Wheelchair2)'s [temporary copy](https://github.com/Wheelchair2/Future-Expansion-Temporary-Copy).
+* There was a reupload by [@SpacedOutChicken](https://github.com/SpacedOutChicken), but I lost the URL for it.
+>>>>>>> 757aa516ee354af4983ece291896119c36a21341
 ## WiP Warning
 **This mod is still a WiP, limited by my currently restricted knowledge of Unciv, the original expansion mod and even the .json format or the game code.  
 I can't guarantee its stability or usability in-game.  
