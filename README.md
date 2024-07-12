@@ -4,12 +4,12 @@ A continuation of [@Sullien](https://github.com/Sullien)'s great – and, now, d
 This continued version merely fixes syntax to comply with Unciv's latest updates.
 
 Sullien didn't mention this in his original description, so I believe it's worth mentioning: this mod is intended for use with the Gods & Kings ruleset.
-# WiP Warning
+## WiP Warning
 **This mod is still a WiP, limited by my currently restricted knowledge of Unciv, the original expansion mod and even the .json format or the game code.  
 I can't guarantee its stability or usability in-game.  
 I'll do my best to address any received feedback.  
 Thanks in advance for your patience and tolerance.**
-# Ownership Disclaimer
+## Ownership Disclaimer
 Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 
 * This is an updated version of an existing mod.
@@ -17,31 +17,31 @@ Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 * This version may be taken down by request from the original author.
 * The original author is free to use this mod to update their own.
 * Since I did not create the mod, I will not accept donations for it.
-# Changelog
+## Changelog
 Forewords to some updates are on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md).
-## 4.1.3.2
+### 4.1.3.2
 I'm an idiot and actually forgot a .json, because it was on a subfolder.
-## 4.1.3.1
+### 4.1.3.1
 Corrections to some file links.
-## 4.1.3
+### 4.1.3
 Documentation and comments changes:
 * All comments left by Sullien within the .json have been moved to [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/authors_comments.md).
 * All forewords to updates are now contained on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md).
 * Due to my inexperience, I wrongly believed Unciv was written in JS because it uses .json.  
 [I recently learned it's written in Kotlin](https://github.com/yairm210/Unciv/issues/11689#issuecomment-2150907477), so I went back and tried to change the mistakes I made in the documentation.
-## 4.1.2
+### 4.1.2
 Alien Monolith now converts base terrain to desert, to comply with Unciv's current syntax. 
-## 4.1.1
+### 4.1.1
 * Changed instant building abilities uniques values to comply with Unciv's current syntax.
 * Corrected a few minor syntax errors.
-# Original Mod Description
+## Original Mod Description
 Mod that greatly expands the late-game eras, with a focus on Atomic, Information and Future eras.
 
 The main objective is to prevent the late-game from feeling stale by introducing new units, improvements and mechanics. 
 
 While this mod extends game length, the goal is to not extend it too long. If you have any feedback/suggestions feel free to contact me.
 
-## Latest Version Changelog(4.1)-9/18/2022
+### Latest Version Changelog(4.1)-9/18/2022
 
 -Lowered all Post-Industrial Tech costs by 10%
 
