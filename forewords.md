@@ -5,8 +5,9 @@ But I'd argue this is an update – and, correspondingly a release – of the re
 As I stated on the readme, my first and foremost aim with this reupload has always been preservation. This is, actually, the most important aspect of the repo to me. I'd want the mod to continue in any way or form, regardless of me having any hand on it.  
 And, since I haven't found a list of mirrors anywhere else, I believe this update is very relevant, indeed.
 ***
-4.1.4 also marks the end of all my original plans when reuploading the mod.  
-From now on, I plan on doing only maintenance – either to follow up on Unciv's updates or to fix reported issues – and focusing on my as-yet-unreleased mod of Future Expansion.
+Future Expansion – Continued is approaching the end of my original plans when reuploading the mod.  
+I still need to correct the mod's yellow errors currently reported by Unciv, but that will recquire a greater understanding of how the game handles mods, that I don't currently have.  
+I will now attempt to start tackling that, so I can achieve a mostly definitive release, go to maintenance mode – only following up on Unciv's updates and fixing reported issues – and focus on my as-yet-unreleased mod of Future Expansion.
 ## 4.1.3
 I'm strongly concerned about information loss and would like to think it's a personal cause for preservation, but truth is me being prolix and a hoarder probably has a lot to do with it.  
 Anyhow, I'm doing some cleanup, but taking measures to preserve what's being removed by moving to alternative locations, instead.
