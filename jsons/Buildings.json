@@ -727,7 +727,7 @@
 		"requiredResource": "Corporation Slot",
 		"uniques": [
 			"Provides [2] [Electrical Stock]",
-			"Double Power to Buildings that provide it",
+			"Comment [Double Power to Buildings that provide it]",
 			"Consumes [1] [Corporation Slot(Total)]",
 			"Only available <with [Corporation Slot]>",
 			"Only available <starting from the [Atomic era]>"
@@ -740,7 +740,7 @@
 		"requiredResource": "Corporation Slot",
 		"uniques": [
 			"Provides [2] [Engineering Stock]",
-			"Production Improvements have their adjacency bonuses doubled",
+			"Comment [Production Improvements have their adjacency bonuses doubled]",
 			"Consumes [1] [Corporation Slot(Total)]",
 			"Only available <with [Corporation Slot]>",
 			"Only available <starting from the [Modern era]>"
@@ -753,7 +753,7 @@
 		"requiredResource": "Corporation Slot",
 		"uniques": [
 			"Provides [2] [Tourism Stock]",
-			"Doubles the adjacency bonuses of Concert Venue tiles",
+			"Comment [Doubles the adjacency bonuses of Concert Venue tiles]",
 			"[+100]% Yield from every [Excavation Site]",
 			"[+100]% [Culture] from every [History Museum]",
 			"Consumes [1] [Corporation Slot(Total)]",
@@ -796,7 +796,7 @@
 		"requiredResource": "Corporation Slot",
 		"uniques": [
 			"Provides [2] [World Delivery Stock]",
-			"Doubles the adjacency bonuses of Industry tiles",
+			"Comment [Doubles the adjacency bonuses of Industry tiles]",
 			"[+100]% Yield from every [Supply Route]",
 			"Consumes [1] [Corporation Slot(Total)]",
 			"Only available <after discovering [Corporations]>",
@@ -939,7 +939,7 @@
 		"cost": 1,
 		"uniques": [
 			"Comment [Information Perk]",
-			"+1 Power provided by Solar Farm, Wind Farm and Offshore Wind Farm",
+			"Comment [+1 Power provided by Solar Farm, Wind Farm and Offshore Wind Farm]",
 			"Only available <during the [Information era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
@@ -1740,7 +1740,7 @@
 		"cost": 1,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"City-State have no corporation",
+			"Comment [City-State have no corporation]",
 			"Destroyed when the city is captured",
 			"Unbuildable"
 		]
@@ -1748,7 +1748,7 @@
 	{
 		"name": "Solar Plant",
 		"uniques": [
-			"Future Expansion has no Solar Plant",
+			"Comment [Future Expansion has no Solar Plant]",
 			"Unbuildable",
 			"Will not be displayed in Civilopedia"
 		]

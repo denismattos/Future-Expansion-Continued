@@ -30,7 +30,7 @@
 				{
 					"name": "Startups",
 					"uniques": [
-						"Doubles the adjacency bonuses of Industry tiles",
+						"Comment [Doubles the adjacency bonuses of Industry tiles]",
 						"Free [Corporate] appears"
 					],
 					"requires": [
@@ -42,7 +42,7 @@
 				{
 					"name": "Talent Agencies",
 					"uniques": [
-						"Doubles the adjacency bonuses of Concert Venue tiles",
+						"Comment [Doubles the adjacency bonuses of Concert Venue tiles]",
 						"Free [Musician] appears"
 					],
 					"requires": [
@@ -66,7 +66,7 @@
 				{
 					"name": "Safety Checks",
 					"uniques": [
-						"Doubles the adjacency bonuses of Infraestructure tiles"
+						"Comment [Doubles the adjacency bonuses of Infraestructure tiles]"
 					],
 					"requires": [
 						"Talent Agencies",
@@ -103,7 +103,7 @@
 				{
 					"name": "Propaganda",
 					"uniques": [
-						"Doubles the combat bonus of Great General units",
+						"Comment [Doubles the combat bonus of Great General units]",
 						"Free [Great General] appears"
 					],
 					"requires": [
@@ -130,7 +130,7 @@
 					"name": "Collectivization",
 					"uniques": [
 						"[+25]% Strength <for [Support] units> <when defending>",
-						"Doubles the Healing bonus from Medics and Tactical Supplier units"
+						"Comment [Doubles the Healing bonus from Medics and Tactical Supplier units]"
 					],
 					"requires": [
 						"Propaganda"
@@ -166,7 +166,7 @@
 				{
 					"name": "Coalition Complete",
 					"uniques": [
-						"Citadels provide adjacency bonuses as if they were Infraestructure Improvements"
+						"Comment [Citadels provide adjacency bonuses as if they were Infraestructure Improvements]"
 					]
 				}
 			]
