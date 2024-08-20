@@ -1,4 +1,15 @@
 # Forewords
+## 4.1.5
+I'm now mostly done fixing errors reported by Unciv.
+
+The remaining green errors are all related to units.  
+Some are likely only comments and, thus, easy to fix. But some are, so to speak, *unique uniques* Sullien introduced to tag units and apply vulnerability or strenght mechanics (e. g. `[+25]% Strength <for [Bio] units>`). These will be a harder fix, at least for me.  
+So I decided to finish this major release as is and I'll fix these uniques when I have a better idea of how to implement the mechanics within Unciv's current standards.
+
+The remaining yellow error pertains the Artilley and Rocket Artillery units.  
+Unciv's default (as with Civ 5) is making a unit type obsolete ASA its following counterpart is available. It's an interesting design choice, IMO, because, IRL, many nations throughout History have trained troops and produced equipment below their currently available state-of-the-art, mostly to conserve resources. IDK if this has balancing purposes, if Firaxis thought it would make the game feel weird or what. I can only speculate.  
+Anyway, in Unciv, it's entirely possible for mods to allow units to be produced alongside their future counterparts. And Sullien left the code such that Artillery, which is superseded by Rocket Artillery, can still be produced well after the later is available.  Rocket Artillery does have a successor of sorts in this mod, which is Hovertillery. And, because Hovertillery is unlocked by a perk (an in-mod special type of wonder) and not a tech, there's a small window in which it's entirely possible to have all 3 types of artillery available to produce.  
+As I've said before, I don't want to alter Sullien's vision in this mod and (currently, anyway) have no way of knowing his original intentions. So I'm leaving it as it is, a rather amusing quirk of the mod's unit progression.
 ## 4.1.4
 I imagine some would argue against a change in documentation warranting a new release, especially considering most players browse Unciv mods through the game client, that doesn't display documentation in any way.  
 But I'd argue this is an update – and, correspondingly a release – of the reupload side – as opposed to the mod side – of the repo.  

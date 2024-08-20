@@ -31,9 +31,16 @@ Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 * The original author is free to use this mod to update their own.
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
+### 4.1.5
+#### [Foreword](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md#415).
+Fixed most errors reported by Unciv:
+* All yellow errors are fixed, besides one, left on purpose (see foreword).
+* All green errors not related to units fixed. For the others, see foreword.
+
+Many thanks to Lodo the Bear for all the help with these! =)
 ### 4.1.4.2
 Fixing errors in preparation for the next major update – in which I hope to fix all remaining errors.
-* Fixed all green errors not related to units.
+* Fixed several green errors.
 * Fixed all yellow errors besides one. More details on a future foreword.
 ### 4.1.4.1
 * Small changes to the documentation.
