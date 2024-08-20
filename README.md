@@ -32,12 +32,12 @@ Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
 ### 4.1.4.2
-Fixing errors in preparation for the next major update – in which I'll attempt to fix all remaining errors.
+Fixing errors in preparation for the next major update – in which I hope to fix all remaining errors.
 * Fixed all green errors not related to units.
 * Fixed all yellow errors besides one. More details on a future foreword.
 ### 4.1.4.1
 * Small changes to the documentation.
-* Fixed the yellow errors to which the game's report provides alternatives, in preparation for the next major update – in which I'll attempt to fix all remaining errors.
+* Fixed the yellow errors to which the game's report provides alternatives, in preparation for the next major update – in which I hope to fix all remaining errors.
 ### 4.1.4
 #### [Foreword](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md#414).
 Documentation now contains a file [listing all other versions of Future Expansion I know of](https://github.com/denismattos/Future-Expansion-Continued/blob/main/alternative_versions.md).
