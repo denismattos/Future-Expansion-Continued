@@ -31,20 +31,25 @@ Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 * The original author is free to use this mod to update their own.
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
-Forewords to some updates are on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md).
+### 4.1.4.1
+* Small changes to the documentation.
+* Fixed the yellow errors to which the game's report provides alternatives, in preparation for the next major update – in which I'll attempt to fix all remaining yellow errors. 
 ### 4.1.4
+#### [Foreword](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md#414).
 Documentation now contains a file [listing all other versions of Future Expansion I know of](https://github.com/denismattos/Future-Expansion-Continued/blob/main/alternative_versions.md).
 ### 4.1.3.2
 I'm an idiot and actually forgot a .json, because it was on a subfolder.
 ### 4.1.3.1
 Corrections to some file links.
 ### 4.1.3
+#### [Foreword](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md#413).
 Documentation and comments changes:
 * All comments left by Sullien within the .json have been moved to [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/authors_comments.md).
 * All forewords to updates are now contained on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md).
 * Due to my inexperience, I wrongly believed Unciv was written in JS because it uses .json.  
 [I recently learned it's written in Kotlin](https://github.com/yairm210/Unciv/issues/11689#issuecomment-2150907477), so I went back and tried to change the mistakes I made in the documentation.
 ### 4.1.2
+#### [Foreword](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md#412).
 Alien Monolith now converts base terrain to desert, to comply with Unciv's current syntax. 
 ### 4.1.1
 * Changed instant building abilities uniques values to comply with Unciv's current syntax.

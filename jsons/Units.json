@@ -423,7 +423,7 @@
 		"uniques": [
 			"Can see invisible [Submarine] units",
 			"[50]% chance to intercept air attacks <after discovering [Ballistics]>",
-			"May withdraw before melee ([60]%)",
+			"Withdraws before melee combat <with [60]% chance>",
 			"[+50]% Strength <vs [Submarine] units>",
 			"[+50]% Strength <vs [Ranged] units>"
 		],
@@ -481,7 +481,7 @@
 		"uniques": [
 			"[1] Movement point cost to disembark",
 			"[1] Movement point cost to embark",
-			"Normal vision when embarked",
+			"[+1] Sight <when [Embarked]>",
 			"Defense bonus when embarked"
 		],
 		"promotions": [
@@ -855,7 +855,7 @@
 			"Hacker",
 			"+33% Strength for adjacent non-air Units vs Cyber units",
 			"25% Chance for Adjacent units to capture Killed Cyber unit",
-			"May withdraw before melee ([50]%)",
+			"Withdraws before melee combat <with [50]% chance>",
 			"Can see invisible [Military] units",
 			"Only available <if [GP-Stealth Operatives] is constructed>",
 			"Never appears as a Barbarian unit"
@@ -1253,7 +1253,7 @@
 		"name": "Great Spacefarer",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [12]-turn golden age",
+			"Empire enters a [12]-turn Golden Age <by consuming this unit>",
 			"Can instantly construct a [Space Platform] improvement <by consuming this unit> <starting from the [Atomic era]>",
 			"Great Person - [Spacefarer]",
 			"Unbuildable",
@@ -1265,7 +1265,7 @@
 		"name": "Great General",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [8]-turn golden age",
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles <before adopting [Propaganda]>",
 			"[+30]% Strength bonus for [Military] units within [2] tiles <after adopting [Propaganda]>",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
@@ -1281,7 +1281,7 @@
 		"uniqueTo": "Mongolia",
 		"replaces": "Great General",
 		"uniques": [
-			"Can start an [8]-turn golden age",
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles <before adopting [Propaganda]>",
 			"[+30]% Strength bonus for [Military] units within [2] tiles <after adopting [Propaganda]>",
 			"All adjacent units heal [+15] HP when healing",
