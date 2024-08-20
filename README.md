@@ -33,9 +33,8 @@ Inspired by the awesome [@emipa606](https://github.com/emipa606). \=\)
 ## Changelog
 ### 4.1.4.2
 Fixing errors in preparation for the next major update – in which I'll attempt to fix all remaining errors.
-* Fixed many green errors.
+* Fixed several green errors.
 * Fixed all yellow errors besides one. More details on a future foreword.
-Fixed several green erros
 ### 4.1.4.1
 * Small changes to the documentation.
 * Fixed the yellow errors to which the game's report provides alternatives, in preparation for the next major update – in which I'll attempt to fix all remaining errors.
