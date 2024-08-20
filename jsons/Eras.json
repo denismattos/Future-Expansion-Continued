@@ -10,42 +10,6 @@
         "baseUnitBuyCost": 200,
         "embarkDefense": 3,
         "startPercent": 0,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+3 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+2] Happiness"
-            ],
-            "Religious": [
-                "Provides [+3 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+6 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+2] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+6 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             255,
             87,
@@ -65,42 +29,6 @@
         "baseUnitBuyCost": 200,
         "embarkDefense": 4,
         "startPercent": 10,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+3 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+2] Happiness"
-            ],
-            "Religious": [
-                "Provides [+3 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+6 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+2] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+6 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             233,
             31,
@@ -132,42 +60,6 @@
         "baseUnitBuyCost": 200,
         "embarkDefense": 6,
         "startPercent": 25,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+6 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness"
-            ],
-            "Religious": [
-                "Provides [+6 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+12 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+12 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             157,
             39,
@@ -208,42 +100,6 @@
         "baseUnitBuyCost": 300,
         "embarkDefense": 8,
         "startPercent": 37,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+6 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness"
-            ],
-            "Religious": [
-                "Provides [+6 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+12 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+12 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             104,
             58,
@@ -295,42 +151,6 @@
         "baseUnitBuyCost": 400,
         "embarkDefense": 10,
         "startPercent": 50,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+13 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness"
-            ],
-            "Religious": [
-                "Provides [+13 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+26 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+26 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             63,
             81,
@@ -399,42 +219,6 @@
         "baseUnitBuyCost": 600,
         "embarkDefense": 13,
         "startPercent": 65,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+13 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness"
-            ],
-            "Religious": [
-                "Provides [+13 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+26 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+26 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             33,
             150,
@@ -501,42 +285,6 @@
         "baseUnitBuyCost": 800,
         "embarkDefense": 16,
         "startPercent": 65,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+13 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness"
-            ],
-            "Religious": [
-                "Provides [+13 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+26 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+26 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             0,
             150,
@@ -609,42 +357,6 @@
         "baseUnitBuyCost": 1000,
         "embarkDefense": 20,
         "startPercent": 80,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+13 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness"
-            ],
-            "Religious": [
-                "Provides [+13 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+26 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+26 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             76,
             176,
@@ -724,42 +436,6 @@
         "baseUnitBuyCost": 1200,
         "embarkDefense": 35,
         "startPercent": 80,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+13 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness"
-            ],
-            "Religious": [
-                "Provides [+13 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+26 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+26 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             76,
             176,
@@ -832,42 +508,6 @@
         "baseUnitBuyCost": 1000,
         "embarkDefense": 40,
         "startPercent": 80,
-        "friendBonus": {
-            "Cultured": [
-                "Provides [+13 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness"
-            ],
-            "Religious": [
-                "Provides [+13 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[20] turns"
-            ]
-        },
-        "allyBonus": {
-            "Cultured": [
-                "Provides [+26 Culture] per turn"
-            ],
-            "Maritime": [
-                "Provides [+2 Food] [in capital] per turn",
-                "Provides [+1 Food] [in all cities] per turn"
-            ],
-            "Mercantile": [
-                "Provides [+3] Happiness",
-                "Provides a unique luxury"
-            ],
-            "Religious": [
-                "Provides [+26 Faith] per turn"
-            ],
-            "Militaristic": [
-                "Provides military units every ≈[17] turns"
-            ]
-        },
         "iconRGB": [
             76,
             176,

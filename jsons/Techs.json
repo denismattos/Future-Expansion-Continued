@@ -345,7 +345,7 @@
 					"Lasers"
 				],
 				"uniques": [
-					"+3 Power to Buildings that provide it"
+					"Comment [+3 Power to Buildings that provide it]"
 				],
 				"quote": "'For an impenetrable shield, stand inside yourself.' - Henry David"
 			},
@@ -395,7 +395,7 @@
 					"Nuclear Fusion"
 				],
 				"uniques": [
-					"Go beyond the Future",
+					"Comment [Go beyond the Future]",
 					"Can be continually researched"
 				],
 				"quote": "'But to understand the future. We have to go back in time' - Pitbull"

@@ -533,7 +533,7 @@
 		"requiredTech": "Atomic Theory",
 		"cost": 1000,
 		"uniques": [
-			"Enables nuclear weapon",
+			"Comment [Enables nuclear weapon]",
 			"Triggers a global alert upon completion"
 		]
 	},
@@ -550,7 +550,7 @@
 		"cost": 1600,
 		"isNationalWonder": true,
 		"uniques": [
-			"Enables construction of Time Machine parts",
+			"Comment [Enables construction of Time Machine parts]",
 			"Triggers a global alert upon completion",
 			"Only available <starting from the [Future era]>",
 			"Hidden when [Scientific] Victory is disabled"
@@ -562,7 +562,7 @@
 		"requiredTech": "Nanotechnology",
 		"isNationalWonder": true,
 		"uniques": [
-			"Enables construction of Monolith Aliens",
+			"Comment [Enables construction of Monolith Aliens]",
 			"Must have an owned [Alien Monolith] within [3] tiles",
 			"Will not be displayed in Civilopedia"
 		]
@@ -838,7 +838,7 @@
 		"cost": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+2 Science] from [Mine] tiles [in all cities] <during the [Industrial era]>",
 			"[+2 Science] from all [Production] buildings <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
@@ -852,7 +852,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+2 Science] from [River] tiles [in all cities] <during the [Industrial era]>",
 			"[+1 Science] from [Coast] tiles [in all cities] <during the [Industrial era]>",
 			"[+1 Science] from [Ocean] tiles [in all cities] <during the [Industrial era]>",
@@ -867,7 +867,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"[+2 Gold] from [Strategic resource] tiles [in all cities] <during the [Modern era]>",
 			"[+4 Science] from [Supply Route] tiles [in all cities] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -881,7 +881,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"[+2 Production] from [Luxury resource] tiles [in all cities] <during the [Modern era]>",
 			"[+4 Science] from [Industry] tiles [in all cities] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -895,7 +895,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[+30]% [Science] from every [Medical Lab] <during the [Atomic era]>",
 			"[+10]% [Science] from every [Hospital] <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
@@ -909,7 +909,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[+100]% Production when constructing [Atomic Bomb] units [in all cities] <during the [Atomic era]>",
 			"[Gold] cost of purchasing [Atomic Bomb] units [-50]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
@@ -923,7 +923,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+2 Food] from every [Great Improvement] <during the [Information era]>",
 			"[+10]% [Food] from every [Hospital] <during the [Information era]>",
 			"[+10]% [Food] from every [Medical Lab] <during the [Information era]>",
@@ -938,7 +938,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"+1 Power provided by Solar Farm, Wind Farm and Offshore Wind Farm",
 			"Only available <during the [Information era]>",
 			"Only available <with [Scientist Perk]>",
@@ -951,7 +951,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
+			"Comment [Future Perk]",
 			"[+5 Production] from [Solar Farm] tiles [in all cities]",
 			"[+5 Production] from [Wind Farm] tiles [in all cities]",
 			"[+5 Production] from [Offshore Wind Farm] tiles [in all cities]",
@@ -966,8 +966,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
-			"Enables construction of [Energy Reactor] and [Energy Barrier]",
+			"Comment [Future Perk]",
+			"Comment [Enables construction of [Energy Reactor] and [Energy Barrier]]",
 			"[+100]% Production when constructing [Coal Plant] buildings [in all cities]",
 			"[+100]% Production when constructing [Nuclear Plant] buildings [in all cities]",
 			"[+100]% Production when constructing [Energy Reactor] buildings [in all cities]",
@@ -982,7 +982,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+100]% Production when constructing [Archaeologist] units [in all cities] <during the [Industrial era]>",
 			"[Gold] cost of purchasing [Archaeologist] units [-50]% <during the [Industrial era]>",
 			"[+5]% [Culture] from every [Museum] <during the [Industrial era]>",
@@ -997,7 +997,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+30]% [Culture] <when below [0] Happiness> <during the [Industrial era]>",
 			"[+15]% [Culture] <while the empire is happy> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
@@ -1011,8 +1011,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
-			"Enables construction of History Museum",
+			"Comment [Modern Perk]",
+			"Comment [Enables construction of History Museum]",
 			"Provides [1] [Fossil]",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
@@ -1025,7 +1025,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"[+50]% Production when constructing [Musician] units [in all cities] <during the [Modern era]>",
 			"[Gold] cost of purchasing [Musician] units [-25]% <during the [Modern era]>",
 			"[+15]% [Culture] from every [Public School] <during the [Modern era]>",
@@ -1040,8 +1040,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
-			"Enables construction of International Pass",
+			"Comment [Atomic Perk]",
+			"Comment [Enables construction of International Pass]",
 			"[+50]% Yield from every [Concert Venue] <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
@@ -1054,7 +1054,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[+50]% [Culture] <in cities with a [Stadium]> <when not at war> <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
@@ -1067,7 +1067,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+25]% [Culture] from every [Foreign Center] <during the [Information era]>",
 			"[+25]% [Culture] from every [Public School] <during the [Information era]>",
 			"Only available <during the [Information era]>",
@@ -1081,7 +1081,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+2 Happiness] from [Concert Venue] tiles [in all cities]",
 			"[+5 Faith, +1 Happiness] from all [Culture] buildings",
 			"[10]% of excess happiness converted to [Culture]",
@@ -1096,7 +1096,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
+			"Comment [Future Perk]",
 			"[+3 Culture, +3 Faith] from every [Wonder]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
@@ -1109,8 +1109,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
-			"Enables construction of Orbital Fighters and Orbital Bombers",
+			"Comment [Information Perk]",
+			"Comment [Enables construction of Orbital Fighters and Orbital Bombers]",
 			"[+1 Culture] from every specialist [in all cities]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
@@ -1123,7 +1123,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"Gain a free [Coal Plant] [in capital]",
 			"Gain a free [Factory] [in capital]",
 			"Only available <during the [Industrial era]>",
@@ -1137,7 +1137,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"Gain a free [Free Iron] [in all cities]",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Engineer Perk]>",
@@ -1150,8 +1150,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
-			"Enables construction of Triplanes and Landships",
+			"Comment [Modern Perk]",
+			"Comment [Enables construction of Triplanes and Landships]",
 			"[+5]% Strength <for [Armored] units> <during the [Modern era]>",
 			"[+5]% Strength <for [Air] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1165,7 +1165,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"Gain a free [Free Oil] [in all cities]",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Engineer Perk]>",
@@ -1178,7 +1178,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[+100]% Production when constructing [Recycling Center] buildings [in all cities] <during the [Atomic era]>",
 			"Provides [4] [Power]",
 			"Only available <during the [Atomic era]>",
@@ -1192,7 +1192,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[+50]% Production when constructing [All] wonders [in all cities] <during the [Atomic era]>",
 			"[+50]% Production when constructing [Architect] units [in all cities] <during the [Atomic era]>",
 			"[Gold] cost of purchasing [Architect] units [-25]% <during the [Atomic era]>",
@@ -1207,7 +1207,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+1] Sight <for [Cyber] units> <during the [Information era]>",
 			"[+50]% XP gained from combat <for [Cyber] units> <during the [Information era]>",
 			"[+10]% Strength <for [Cyber] units> <during the [Information era]>",
@@ -1223,7 +1223,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"Gain a free [Free Power] [in all cities]",
 			"Only available <during the [Information era]>",
 			"Only available <with [Engineer Perk]>",
@@ -1236,8 +1236,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
-			"Enables construction of [Bio Facility] and [Seeker]",
+			"Comment [Future Perk]",
+			"Comment [Enables construction of [Bio Facility] and [Seeker]]",
 			"[+10]% [Food] [in all cities]",
 			"[+25]% Strength <for [Bio-Infantry] units>",
 			"Only available <during the [Future era]>",
@@ -1251,8 +1251,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
-			"Enables construction of [Composite Factory] and [Future Submarine]",
+			"Comment [Future Perk]",
+			"Comment [Enables construction of [Composite Factory] and [Future Submarine]]",
 			"[+10]% [Production] [in all cities]",
 			"[+25]% Strength <for [Combat Robot] units>",
 			"Only available <during the [Future era]>",
@@ -1266,7 +1266,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+100]% Production when constructing [Settler] units [in all cities] <during the [Industrial era]>",
 			"[Gold] cost of purchasing [Settler] units [-50]% <during the [Industrial era]>",
 			"[-50]% Gold cost of acquiring tiles [in all cities] <during the [Industrial era]>",
@@ -1281,7 +1281,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+12 Gold, +12 Science] from each Trade Route <during the [Industrial era]>",
 			"[+1] Movement <for [Civilian] units> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
@@ -1298,7 +1298,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"Gain [20] Influence with a [Military] gift to a City-State <during the [Modern era]>",
 			"[Gold] cost of purchasing [Military] units [-15]% <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1312,7 +1312,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"[+10]% [Gold] from every [Colosseum] <during the [Modern era]>",
 			"[+10]% [Gold] from every [Theatre] <during the [Modern era]>",
 			"[+10]% [Gold] from every [Stadium] <during the [Modern era]>",
@@ -1327,8 +1327,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
-			"Enables construction of [Branch Office]",
+			"Comment [Atomic Perk]",
+			"Comment [Enables construction of [Branch Office]]",
 			"[+75]% Production when constructing [Corporate] units [in all cities] <during the [Atomic era]>",
 			"[Gold] cost of purchasing [Corporate] units [-25]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
@@ -1342,7 +1342,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"Allied City-States provide [Gold] equal to [100]% of what they produce for themselves <during the [Atomic era]>",
 			"[+10]% [Gold] from City-States <during the [Atomic era]>",
 			"Gifts of Gold to City-States generate [50]% more Influence <during the [Atomic era]>",
@@ -1357,7 +1357,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+50]% [Gold] from every [Entrepeneur Venue] <during the [Information era]>",
 			"[+25]% [Gold] from every [Stock Exchange] <during the [Information era]>",
 			"Only available <during the [Information era]>",
@@ -1371,7 +1371,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+1 Gold] per [2] population [in all cities]",
 			"Only available  <during the [Information era]>",
 			"Only available <with [Merchant Perk]>",
@@ -1384,8 +1384,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
-			"Enables construction of [Adaptive Base]",
+			"Comment [Future Perk]",
+			"Comment [Enables construction of [Adaptive Base]]",
 			"[+1 Food, +2 Gold] from every [Coast]",
 			"[+1 Food, +2 Gold] from every [Ocean]",
 			"Only available  <during the [Future era]>",
@@ -1399,7 +1399,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
+			"Comment [Future Perk]",
 			"[+100]% [Gold] [in all cities] <during a Golden Age>",
 			"Production to [Gold] conversion in cities changed by [+25]%",
 			"Only available  <during the [Future era]>",
@@ -1413,7 +1413,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+40]% [Faith] from City-States <during the [Industrial era]>",
 			"[+20]% [Faith] from every [Hospital] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
@@ -1427,7 +1427,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+4 Faith, +2 Happiness] from all [Faith] buildings <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Prophet Perk]>",
@@ -1440,7 +1440,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"[+25]% [Gold] from every [Shrine] <during the [Modern era]>",
 			"[+25]% [Gold] from every [Temple] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1454,7 +1454,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"[+10]% Strength <for [Military] units> <when defending> <during the [Modern era]>",
 			"May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1468,7 +1468,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[Faith] cost of purchasing items in cities [-25]% <during the [Atomic era]>",
 			"[+1 Culture] from all [Faith] buildings <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
@@ -1482,7 +1482,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[+250]% Spread Religion Strength <for [Missionary] units> <during the [Atomic era]>",
 			"[+250]% Spread Religion Strength <for [Great Prophet] units> <during the [Atomic era]>",
 			"[Faith] cost of purchasing [Inquisitor] units [-50]% <during the [Atomic era]>",
@@ -1497,7 +1497,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+50]% Natural religion spread [in all cities] <during the [Information era]>",
 			"[Faith] cost of purchasing [All] units [-15]% <during the [Information era]>",
 			"Only available <during the [Information era]>",
@@ -1511,7 +1511,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+50]% [Faith] [in all cities] <when not at war>",
 			"Only available <during the [Information era]>",
 			"Only available <with [Prophet Perk]>",
@@ -1524,7 +1524,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
+			"Comment [Future Perk]",
 			"[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 			"[+4 Faith, +4 Gold] from every [Great Improvement]",
 			"Only available <during the [Future era]>",
@@ -1538,7 +1538,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
+			"Comment [Future Perk]",
 			"[+20]% Strength <for [All] units> <when fighting in [Foreign Land] tiles>",
 			"Only available <during the [Future era]>",
 			"Only available <with [Prophet Perk]>",
@@ -1551,7 +1551,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[-50]% Gold cost of upgrading <for [Military] units> <during the [Industrial era]>",
 			"[+4 Science, +4 Production] from [Fort] tiles [in all cities] <during the [Industrial era]>",
 			"[+8 Science, +8 Production] from [Citadel] tiles [in all cities] <during the [Industrial era]>",
@@ -1566,7 +1566,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Comment [Industrial Perk]",
 			"[+33]% Strength <for [Military] units> <during the [Industrial era]>",
 			"[+17]% Strength <for [Military] units> <vs cities> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
@@ -1580,8 +1580,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
-			"Enables construction of Great War Infantry and Great War Bombers",
+			"Comment [Modern Perk]",
+			"Comment [Enables construction of Great War Infantry and Great War Bombers]",
 			"[+10]% Strength <for [Military] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [General Perk]>",
@@ -1594,7 +1594,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Modern Perk",
+			"Comment [Modern Perk]",
 			"[+50]% Production when constructing [{Water} {Military}] units [in all cities] <during the [Modern era]>",
 			"[Gold] cost of purchasing [{Water} {Military}] units [-25]% <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1608,7 +1608,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[-70]% maintenance costs <for [Military] units> <during the [Atomic era]>",
 			"[+8 Gold] from [Fort] tiles [in all cities] <during the [Atomic era]>",
 			"[+16 Gold] from [Citadel] tiles [in all cities] <during the [Atomic era]>",
@@ -1623,7 +1623,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Atomic Perk",
+			"Comment [Atomic Perk]",
 			"[+50]% Production when constructing [{Air} {Military}] units [in all cities] <during the [Atomic era]>",
 			"[Gold] cost of purchasing [{Air} {Military}] units [-25]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
@@ -1637,7 +1637,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
+			"Comment [Information Perk]",
 			"[+100]% Production when constructing [Support] units [in all cities] <during the [Information era]>",
 			"[Gold] cost of purchasing [Support] units [-50]% <during the [Information era]>",
 			"[+33]% Strength <for [Support] units> <during the [Information era]>",
@@ -1652,8 +1652,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Information Perk",
-			"Enables construction of Stealth Bombers and Stealth Hackers",
+			"Comment [Information Perk]",
+			"Comment [Enables construction of Stealth Bombers and Stealth Hackers]",
 			"Provides [2] [Aluminum]",
 			"Only available <during the [Information era]>",
 			"Only available <with [General Perk]>",
@@ -1666,8 +1666,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
-			"Enables construction of Hovertank, Hovertillery, and Hover-SAM",
+			"Comment [Future Perk]",
+			"Comment [Enables construction of Hovertank, Hovertillery, and Hover-SAM]",
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
@@ -1680,8 +1680,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Future Perk",
-			"Enables construction of Energy Infantry, Future Copter, and Orbital Carrier",
+			"Comment [Future Perk]",
+			"Comment [Enables construction of Energy Infantry, Future Copter, and Orbital Carrier]",
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
