@@ -1,6 +1,7 @@
 # Future Expansion – Continued
-A continuation of [@Sullien](https://github.com/Sullien)'s great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).
+Mod that greatly expands the late-game eras, with a focus on Atomic, Information and Future eras.
 
+A continuation of [@Sullien](https://github.com/Sullien)'s great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).  
 This continued version merely fixes syntax to comply with Unciv's latest updates.
 
 Sullien didn't mention this in his original description, so I believe it's worth mentioning: this mod is intended for use with the Gods & Kings ruleset.
