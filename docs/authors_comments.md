@@ -1,12 +1,12 @@
 # Sullien's Comments
-[I recently realized the comments in Sullien's original .json may become an issue at some point](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md##4.1.3).  
+[I recently realized the comments in Sullien's original .json may become an issue at some point](./forewords.md##4.1.3).  
 So I'm doing a cleanup of the files and moving all comments within every file to this separate file, here.
-## [HexaRealm.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/HexaRealm.json)
+## [HexaRealm.json](/jsons/TileSets/HexaRealm.json)
 * `"Grassland+Horses+Supply Route"` was commented:  
 "Having horses on top of the Supply route would be weird."
 * `"Grassland+Ivory+Industry"`was commented:  
 "Elephant on Industry looks weird."
-## [Buildings.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/Buildings.json)
+## [Buildings.json](/jsons/Buildings.json)
 Buildings.json's comments were used to divide additions and modifications by eras and categories.
 ### "Ancient"
 Palace
@@ -146,14 +146,14 @@ No additions or modifications.
 * Corporate Slot
 * No Corporation
 * Solar Plant
-## [Eras.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/Eras.json)
+## [Eras.json](/jsons/Eras.json)
 * Ancient era's `"startingSettlerCount": 1` line was commented:  
 "These values should not include the values given in Difficulties.json."
 * Information era's `"startPercent": 80` line was commented (Presumably referring to the following `"startingObsoleteWonders"` attribute.):  
 "So, theoretically, this is always just all the wonders at least 2 eras old. So we could just use that.  
 But where is the modularity? The excluding of very specific wonders? That is no fun.  
 So we just write down the entire long list (sorted by era!), instead."
-## [TileImprovements.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/TileImprovements.json)
+## [TileImprovements.json](/jsons/TileImprovements.json)
 Some of TileImprovements.json's improvements were divided by categories using comments.
 ### "Modern Upgrades"
 * Excavation Site
@@ -189,7 +189,7 @@ Some of TileImprovements.json's improvements were divided by categories using co
 * Moai
 * Terrace farm
 * Polder
-## [TileResources.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/TileResources.json)
+## [TileResources.json](/jsons/TileResources.json)
 TileResources.json's comments were used to divide resources by categories.
 ### "Bonus"
 Natural Appeal
@@ -216,7 +216,7 @@ Natural Appeal
 * Social Network Stock
 * Space Stock
 * Holy Stock
-## [UnitPromotions.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/UnitPromotions.json)
+## [UnitPromotions.json](/jsons/UnitPromotions.json)
 Some of UnitPromotions.json's promotions were divided by categories using comments.
 ### "Effects"
 * Stealth
@@ -241,7 +241,7 @@ Some of UnitPromotions.json's promotions were divided by categories using commen
 * Flight Deck I
 * Flight Deck II
 * Flight Deck III
-## [Units.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/Units.json)
+## [Units.json](/jsons/Units.json)
 Most of Units.json's comments were used to divide units by eras and categories.  
 Additionally, Battleship was commented:  
 "Does **actually** upgrade to Missile Cruiser, now."
@@ -349,7 +349,7 @@ No units.
 * SS Cockpit
 * SS Engine
 * SS Stasis Chamber
-## [UnitTypes.json](https://github.com/denismattos/Future-Expansion-Continued/blob/main/jsons/UnitTypes.json)
+## [UnitTypes.json](/jsons/UnitTypes.json)
 UnitTypes.json's comments were used to divide unit types by expansions.
 ### "G&K"
 * Civilian
