@@ -13,7 +13,7 @@ My first and foremost aim with this reupload has always been preservation.
 I love playing Unciv with Sullien's mod and was really frustrated when later versions of the game broke it.
 
 In the spirit of preservation, I believe multiple reuploads, mirrors and every other form of redundancy are not merely positive, but, indeed, needed, always.  
-This is, after all, the beauty and strenght of open-source: the unlimited potential for collaboration between all and every person who's willing to contribute.
+This is, after all, the beauty and strength of open-source: the unlimited potential for collaboration between all and every person who's willing to contribute.
 
 The documentation now includes [a list of all other versions of Future Expansion I know of](docs/alternative_versions.md).  
 I'll be glad to add any others that are reported to me.
@@ -31,6 +31,9 @@ Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https
 * The original author is free to use this mod to update their own.
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
+### 4.1.7
+#### [Foreword](docs/forewords.md#417)
+Alien Monolith no longer changes base terrain it's placed onto.
 ### 4.1.6
 JK, change of plans. 😅  
 An overdue documentation overhaul.

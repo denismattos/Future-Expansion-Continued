@@ -10,7 +10,7 @@ I'll be glad to add any others that are reported to me.
 * [Mr-Chubz](https://github.com/Mr-Chubz)'s [version](https://github.com/Mr-Chubz/Future-Edited), made to be compatible with [Warfare Edited](https://github.com/Mr-Chubz/Warfare-Edited).  
 Incidentally, this is the oldest extant fork of Sullien's original repo and, therefore, due to the way GitHub works, the one some reuploads (mine included) inherited as "upstream".
 ## Unreleased
-* In June of 2023, Sullien released [a preview of his future plans for Future Expansion](https://discord.com/channels/586194543280390151/1020909710871887913/1117652119256838155) in the form of [a RAR file containing his latet .json](https://cdn.discordapp.com/attachments/1020909710871887913/1117652118938062949/Future_Expansion_PE_TEST_BETA.rar?ex=669298e6&is=66914766&hm=dda58f07e48623897bdbcb6daa2d89c923b75a411349983117e6ab1672ba117a&).
+* In June of 2023, Sullien released [a preview of his future plans for Future Expansion](https://discord.com/channels/586194543280390151/1020909710871887913/1117652119256838155) in the form of [a RAR file containing his latest .json](https://cdn.discordapp.com/attachments/1020909710871887913/1117652118938062949/Future_Expansion_PE_TEST_BETA.rar?ex=669298e6&is=66914766&hm=dda58f07e48623897bdbcb6daa2d89c923b75a411349983117e6ab1672ba117a&).
 I've corrected a few syntax typos and [uploaded it](https://github.com/denismattos/Future-Expansion-Unreleased) for preservation and reference.
 * [My modded version of the expansion](https://github.com/denismattos/Future-Expansion-Enhanced) is still unreleased, as I'm still doing basic tests on it.
 ## Taken Down
