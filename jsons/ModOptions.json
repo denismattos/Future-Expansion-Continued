@@ -1,9 +1,12 @@
 {
 "modUrl": "https://github.com/denismattos/Future-Expansion-Continued",
-
+"defaultBranch": "master",
 "author": "Sullien",
-
-"constants": {
-    "unitUpgradeCost": {}
-    }
+"topics": [
+    "unciv-mod",
+    "unciv-mod-expansion"
+],
+"uniques": [
+    "Suppress warning [Artillery is supposed to automatically upgrade at tech Nanotechnology, and therefore Rocketry for its upgrade Rocket Artillery may not yet be researched!]"
+]
 }
