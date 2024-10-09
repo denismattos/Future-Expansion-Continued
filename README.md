@@ -15,7 +15,7 @@ I love playing Unciv with Sullien's mod and was really frustrated when later ver
 In the spirit of preservation, I believe multiple reuploads, mirrors and every other form of redundancy are not merely positive, but, indeed, needed, always.  
 This is, after all, the beauty and strength of open-source: the unlimited potential for collaboration between all and every person who's willing to contribute.
 
-The documentation now includes [a list of all other versions of Future Expansion I know of](docs/alternative_versions.md).  
+The documentation now includes [a list of all other versions of Future Expansion I know of](/docs/alternative_versions.md).  
 I'll be glad to add any others that are reported to me.
 ## WiP Warning
 **This mod is still a WiP, limited by my currently restricted knowledge of Unciv, the original expansion mod and even the .json format or the game code.  
@@ -31,8 +31,16 @@ Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https
 * The original author is free to use this mod to update their own.
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
+### 4.1.8
+Fixed all (currently) remaining yellow errors:
+* Suppressed the check for Artillery's obsolescence progression.  
+(See [the foreword to version 4.1.5](/docs/forewords.md#415) for more details.).  
+My thanks to ReallyBasicName [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/ReallyBasicName) for teaching me how to do it! 🙂
+* Updated 2 uniques made obsolete in Unciv 4.12.15.
+
+Now, to deal with the green errors concerning non-filtering uniques.
 ### 4.1.7
-#### [Foreword](docs/forewords.md#417)
+#### [Foreword](/docs/forewords.md#417)
 Alien Monolith no longer changes base terrain it's placed onto.
 ### 4.1.6
 JK, change of plans. 😅  
@@ -41,7 +49,7 @@ An overdue documentation overhaul.
 OK.  
 Now, back to updating the mod.
 ### 4.1.5
-#### [Foreword](docs/forewords.md#415).
+#### [Foreword](/docs/forewords.md#415).
 Fixed most errors reported by Unciv:
 * All yellow errors are fixed, besides one, left on purpose (see foreword).
 * All green errors not related to units fixed. For the others, see foreword.
@@ -55,21 +63,21 @@ Fixing errors in preparation for the next major update – in which I hope to fi
 * Small changes to the documentation.
 * Fixed the yellow errors to which the game's report provides alternatives, in preparation for the next major update – in which I hope to fix all remaining errors.
 ### 4.1.4
-#### [Foreword](docs/forewords.md#414).
-Documentation now contains a file [listing all other versions of Future Expansion I know of](docs/alternative_versions.md).
+#### [Foreword](/docs/forewords.md#414).
+Documentation now contains a file [listing all other versions of Future Expansion I know of](/docs/alternative_versions.md).
 ### 4.1.3.2
 I'm an idiot and actually forgot a .json, because it was on a subfolder. 🤦‍♂️
 ### 4.1.3.1
 Corrections to some file links.
 ### 4.1.3
-#### [Foreword](docs/forewords.md#413).
+#### [Foreword](/docs/forewords.md#413).
 Documentation and comments changes:
-* All comments left by Sullien within the .json have been moved to [a separate file](docs/authors_comments.md).
-* All forewords to updates are now contained on [a separate file](docs/forewords.md).
+* All comments left by Sullien within the .json have been moved to [a separate file](/docs/authors_comments.md).
+* All forewords to updates are now contained on [a separate file](/docs/forewords.md).
 * Due to my inexperience, I wrongly believed Unciv was written in JS because it uses .json.  
 [I recently learned it's written in Kotlin](https://github.com/yairm210/Unciv/issues/11689#issuecomment-2150907477), so I went back and tried to change the mistakes I made in the documentation.
 ### 4.1.2
-#### [Foreword](docs/forewords.md#412).
+#### [Foreword](/docs/forewords.md#412).
 Alien Monolith now converts base terrain to desert, to comply with Unciv's current syntax. 
 ### 4.1.1
 * Changed instant building abilities uniques values to comply with Unciv's current syntax.

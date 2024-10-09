@@ -1,6 +1,6 @@
 # Forewords
 ## 4.1.7
-(For further context, see [my foreword to 4.1.2](forewords.md#412).)
+(For further context, see [my foreword to 4.1.2](/docs/forewords.md#412).)
 
 As of [4.13.13](https://github.com/yairm210/Unciv/releases/tag/4.13.13), natural wonders are no longer required to change the base terrain they're placed onto.  
 (Whaddayaknow? It seems my previous suggestion [actually had something to do with it](https://github.com/yairm210/Unciv/pull/12062).)
@@ -31,7 +31,7 @@ I will now attempt to start tackling that, so I can achieve a mostly definitive 
 I'm strongly concerned about information loss and would like to think it's a personal cause for preservation, but truth is me being prolix and a hoarder probably has a lot to do with it.  
 Anyhow, I'm doing some cleanup, but taking measures to preserve what's being removed by moving to alternative locations, instead.
 
-When [I had to update the mod due to a change in the game's checks' stringency](https://github.com/denismattos/Future-Expansion-Continued/blob/main/forewords.md##4.1.2) it got me thinking about Sullien's code comments.  
+When [I had to update the mod due to a change in the game's checks' stringency](/docs/forewords.md#4.1.2) it got me thinking about Sullien's code comments.  
 There's [a whole movement against commenting code](https://www.google.com/search?q=don%27t%20comment%20code), but I'm personally mostly favorable to comments – again: prolix.  
 In this case, however, arguing is moot, as [.json is a format that doesn't support comments by design](https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/). Who knows when Unciv's checks might start being stringent about that, too?  
 That's why I'm removing all of Sullien's comments from the .json and preserving them on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/authors_comments.md).
