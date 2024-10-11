@@ -36,9 +36,9 @@ Fixed all (currently) remaining yellow errors:
 * Suppressed the check for Artillery's obsolescence progression.  
 (See [the foreword to version 4.1.5](/docs/forewords.md#415) for more details.).  
 My thanks to ReallyBasicName [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/ReallyBasicName) for teaching me how to do it! 🙂
-* Updated 2 uniques made obsolete in Unciv 4.12.15.
+* Updated 2 uniques made obsolete in [Unciv 4.12.15](https://github.com/yairm210/Unciv/releases/tag/4.12.15).
 
-Now, to deal with the green errors concerning non-filtering uniques.
+Now, to deal with the remaining green errors.
 ### 4.1.7
 #### [Foreword](/docs/forewords.md#417)
 Alien Monolith no longer changes base terrain it's placed onto.
