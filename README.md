@@ -31,6 +31,9 @@ Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https
 * The original author is free to use this mod to update their own.
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
+### 4.1.9
+#### [Foreword](/docs/forewords.md#419)
+Fixed almost all remaining green errors.
 ### 4.1.8
 Fixed all (currently) remaining yellow errors:
 * Suppressed the check for Artillery's obsolescence progression.  

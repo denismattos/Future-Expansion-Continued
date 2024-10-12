@@ -224,7 +224,7 @@
 		"upgradesTo": "Drone",
 		"uniques": [
 			"Intel",
-			"+1 Range to adjacent Siege Units",
+			"Comment [+1 Range to adjacent Siege Units]",
 			"[+33]% Strength bonus for [Siege] units within [1] tiles",
 			"[+1] Sight",
 			"No defensive terrain bonus",
@@ -444,7 +444,7 @@
 		],
 		"uniques": [
 			"Anti-Air",
-			"+33% Strength to adjacent Land Units vs Air units",
+			"Comment [+33% Strength to adjacent Land Units vs Air Units]",
 			"[100]% chance to intercept air attacks",
 			"[+100]% Strength <vs [Air] units>",
 			"Never appears as a Barbarian unit"
@@ -625,7 +625,7 @@
 		"uniques": [
 			"Cyber",
 			"Anti-Air",
-			"+33% Strength to adjacent Land Units vs Air units",
+			"Comment [+33% Strength to adjacent Land Units vs Air Units]",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
 			"Never appears as a Barbarian unit"
@@ -727,7 +727,7 @@
 		"requiredTech": "Computers",
 		"uniques": [
 			"Intel",
-			"+1 Range to adjacent Siege Units",
+			"Comment [+1 Range to adjacent Siege Units]",
 			"[+33]% Strength bonus for [Siege] units within [1] tiles",
 			"[+1] Sight",
 			"No defensive terrain bonus",
@@ -773,8 +773,8 @@
 		"uniques": [
 			"Cyber",
 			"Hacker",
-			"+33% Strength for adjacent non-air Units vs Cyber units",
-			"25% Chance for Adjacent units to capture Killed Cyber unit",
+			"Comment [+33% Strength for adjacent Non-Air Units vs Cyber Units]",
+			"Comment [25% chance for adjacent units to capture killed Cyber Units]",
 			"Never appears as a Barbarian unit"
 		]
 	},
@@ -853,8 +853,8 @@
 		"uniques": [
 			"Cyber",
 			"Hacker",
-			"+33% Strength for adjacent non-air Units vs Cyber units",
-			"25% Chance for Adjacent units to capture Killed Cyber unit",
+			"Comment [+33% Strength for adjacent Non-Air Units vs Cyber Units]",
+			"Comment [25% chance for adjacent units to capture killed Cyber Units]",
 			"Withdraws before melee combat <with [50]% chance>",
 			"Can see invisible [Military] units",
 			"Only available <if [GP-Stealth Operatives] is constructed>",
@@ -999,7 +999,7 @@
 		"uniques": [
 			"Cyber",
 			"Anti-Air",
-			"+33% Strength to adjacent Land Units vs Air units",
+			"Comment [+33% Strength to adjacent Land Units vs Air Units]",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
 			"Only available <if [GP-Hovercombat] is constructed>",
@@ -1299,7 +1299,7 @@
 		"movement": 2,
 		"cost": 1500,
 		"uniques": [
-			"Time Machine part",
+			"Comment [Time Machine part]",
 			"Cannot be purchased",
 			"Only available <if [Time Machine Blueprints] is constructed>",
 			"Uncapturable",
@@ -1313,7 +1313,7 @@
 		"movement": 2,
 		"cost": 1500,
 		"uniques": [
-			"Time Machine part",
+			"Comment [Time Machine part]",
 			"Cannot be purchased",
 			"Only available <if [Time Machine Blueprints] is constructed>",
 			"Uncapturable",
@@ -1327,7 +1327,7 @@
 		"movement": 2,
 		"cost": 1500,
 		"uniques": [
-			"Time Machine part",
+			"Comment [Time Machine part]",
 			"Cannot be purchased",
 			"Only available <if [Time Machine Blueprints] is constructed>",
 			"Uncapturable",
@@ -1341,7 +1341,7 @@
 		"movement": 2,
 		"cost": 1500,
 		"uniques": [
-			"Time Machine part",
+			"Comment [Time Machine part]",
 			"Cannot be purchased",
 			"Only available <if [Time Machine Blueprints] is constructed>",
 			"Uncapturable",
@@ -1454,8 +1454,8 @@
 		"requiredTech": "Automation",
 		"uniques": [
 			"Hacker",
-			"+33% Strength for adjacent non-air Units vs Cyber units",
-			"25% Chance for Adjacent units to capture Killed Cyber unit",
+			"Comment [+33% Strength for adjacent Non-Air Units vs Cyber Units]",
+			"Comment [25% chance for adjacent units to capture killed Cyber Units]",
 			"Can see invisible [All] units",
 			"Invisible to non-adjacent units",
 			"[50]% chance to intercept air attacks",
@@ -1481,8 +1481,8 @@
 		"requiredBuilding": "Monolith Portal",
 		"uniques": [
 			"Hacker",
-			"+33% Strength for adjacent non-air Units vs Cyber units",
-			"25% Chance for Adjacent units to capture Killed Cyber unit",
+			"Comment [+33% Strength for adjacent Non-Air Units vs Cyber Units]",
+			"Comment [25% chance for adjacent units to capture killed Cyber Units]",
 			"Can see invisible [Stealth Support] units",
 			"Invisible to non-adjacent units",
 			"[50]% chance to intercept air attacks",

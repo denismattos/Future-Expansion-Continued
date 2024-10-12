@@ -1,4 +1,25 @@
 # Forewords
+## 4.1.9
+I'm done fixing all remaining green errors, with the exception of a few warnings about non-filtering uniques, namely:
+* `Anti-Aircraft Gun's unique "Anti-Air" not found in Unciv's unique types, and is not used as a filtering unique.`
+* `Mobile SAM's unique "Anti-Air" not found in Unciv's unique types, and is not used as a filtering unique.`
+* `Observation Balloon's unique "Intel" not found in Unciv's unique types, and is not used as a filtering unique.`
+* `Drone's unique "Intel" not found in Unciv's unique types, and is not used as a filtering unique.`
+* `Hacker's unique "Hacker" not found in Unciv's unique types, and is not used as a filtering unique.`
+* `Stealth Hacker's unique "Hacker" not found in Unciv's unique types, and is not used as a filtering unique.`
+* `Hover-SAM's unique "Anti-Air" not found in Unciv's unique types, and is not used as a filtering unique.`
+* `Brainiac's unique "Hacker" not found in Unciv's unique types, and is not used as a filtering unique.`
+* `Monolith Brainiac's unique "Hacker" not found in Unciv's unique types, and is not used as a filtering unique.`
+
+These uniques are actually fine.  
+[The devs have stated Unciv detects uniques used as tagging and doesn't flag them](https://discord.com/channels/586194543280390151/664739473367760908/1275546732100456622), but it is happening in this case, even though those uniques **are** being used as tags.  
+I suspect this is happening because they're only used in a different .json, `UnitPromotions.json`, and not `Units.json` itself.
+
+Unciv also doesn't allow suppressing these reports, as stated in [the documentation](https://yairm210.github.io/Unciv/Modders/uniques/#modoptions-uniques):  
+> Allows suppressing specific validation warnings. Errors, deprecation warnings, or warnings about untyped and non-filtering uniques should be heeded, not suppressed, and are therefore not accepted.
+
+Regardless, I've opened [a bug report](https://github.com/yairm210/Unciv/issues/12282) describing the issue.  
+Let's see if the devs agree this deserves to be fixed.
 ## 4.1.7
 (For further context, see [my foreword to 4.1.2](/docs/forewords.md#412).)
 
