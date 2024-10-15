@@ -4,6 +4,9 @@ A continuation of Sullien's [<img src="https://i.imgur.com/qdtKSSq.png">](https:
 This continued version merely fixes syntax to comply with Unciv's latest updates.
 
 Sullien's mention of this in his original description is very subtle, so I believe it's worth pointing out: this mod is intended for use with the Gods & Kings ruleset.
+
+Future Expansion Continued is pretty much done! ✊🏻  
+Many thanks to all of those who helped, played and/or cheered for it. You're all awesome and I – literally 😄 – couldn't have done it without you.
 ## Discord
 * Unciv's Discord server: [![Discord](https://img.shields.io/discord/586194543280390151?color=%237289DA&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/bjrB4Xw)  
     * Unciv's Discord's [mods channel](https://discord.com/channels/586194543280390151/1020322259094753360).
@@ -17,11 +20,24 @@ This is, after all, the beauty and strength of open-source: the unlimited potent
 
 The documentation now includes [a list of all other versions of Future Expansion I know of](/docs/alternative_versions.md).  
 I'll be glad to add any others that are reported to me.
-## WiP Warning
-**This mod is still a WiP, limited by my currently restricted knowledge of Unciv, the original expansion mod and even the .json format or the game code.  
-I can't guarantee its stability or usability in-game.  
-I'll do my best to address any received feedback.  
-Thanks in advance for your patience and tolerance.**
+## State of the Mod
+I'm very happy to announce that, as of [Unciv's 4.13.16 release](https://github.com/yairm210/Unciv/releases/tag/4.13.16), Future Expansion Continued is 100% free of error reports. ✊🏻  
+I also implemented Unciv's mod autoupload workflow, so deprecated uniques and other standard updates to the base game should be seamlessly incorporated.
+
+Therefore, I consider my work on the reupload done, hopefully honouring Sullien's work and allowing players to keep enjoying this awesome mod.
+
+I will, of course, still be keeping an eye on any issues that may arise in the future, to keep the mod functional.  
+And any feedback is still very much welcome. 🙂
+## Future Plans
+The mod itself is completely up-to-date em error-free, but a single item from my to-do list still remains: a detailed table of contents.  
+This is not gonna be easy, since Sullien included so much awesome stuff in Future Expansion. And it's likely gonna be seen by very few people, since most players will likely install the mod from the Mod Manager.  
+But I still want to do it, specially since it's gonna help me on my next goal.
+And, speaking of that...
+
+
+...I will be resuming work on Future Expansion Enhanced, my own customizations to Future Expansion. 🙌🏻  
+And at a fortuitous time, no less, 'cause the devs recently started implementing mod-dependency systems.
+Stay tuned!
 ## Ownership Disclaimer
 Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/emipa606). 🙂
 
