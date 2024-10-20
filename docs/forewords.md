@@ -13,7 +13,7 @@ I'm done fixing all remaining green errors, with the exception of a few warnings
 
 These uniques are actually fine.  
 [The devs have stated Unciv detects uniques used as tagging and doesn't flag them](https://discord.com/channels/586194543280390151/664739473367760908/1275546732100456622), but it is happening in this case, even though those uniques **are** being used as tags.  
-I suspect this is happening because they're only used in a different .json, `UnitPromotions.json`, and not `Units.json` itself.
+I suspect this is happening because they're only used in a different .json, `UnitTypes.json`, and not `Units.json` itself.
 
 Unciv also doesn't allow suppressing these reports, as stated in [the documentation](https://yairm210.github.io/Unciv/Modders/uniques/#modoptions-uniques):  
 > Allows suppressing specific validation warnings. Errors, deprecation warnings, or warnings about untyped and non-filtering uniques should be heeded, not suppressed, and are therefore not accepted.
