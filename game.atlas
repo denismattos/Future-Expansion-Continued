@@ -797,7 +797,7 @@ BuildingIcons/Virtual Space
   index: -1
 BuildingIcons/World Alliance
   rotate: false
-  xy: 544, 756
+  xy: 544, 648
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1308,7 +1308,7 @@ TechIcons/Urbanization
   index: -1
 TechIcons/World Alliance
   rotate: false
-  xy: 544, 648
+  xy: 544, 756
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
