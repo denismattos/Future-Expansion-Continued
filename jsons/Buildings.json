@@ -524,7 +524,7 @@
 			"Hidden until [6] social policy branches have been completed",
 			"Triggers a global alert upon build start",
 			"Triggers a Cultural Victory upon completion",
-			"Hidden when [Cultural] Victory is disabled"
+			"Only available <when [Cultural] Victory is enabled>"
 		]
 	},
 	{
@@ -553,7 +553,7 @@
 			"Comment [Enables construction of Time Machine parts]",
 			"Triggers a global alert upon completion",
 			"Only available <starting from the [Future era]>",
-			"Hidden when [Scientific] Victory is disabled"
+			"Only available <when [Scientific] Victory is enabled>"
 		]
 	},
 	{
@@ -702,7 +702,7 @@
 		"requiredTech": "World Alliance",
 		"uniques": [
 			"Triggers voting for the Diplomatic Victory",
-			"Hidden when [Diplomatic] Victory is disabled",
+			"Only available <when [Diplomatic] Victory is enabled>",
 			"Triggers a global alert upon completion"
 		],
 		"quote": "'Don't Cry Because it's Over, Smile Because It Happened'"
