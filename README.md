@@ -48,7 +48,7 @@ Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
 ### 4.1.11
-Merged Unciv's mod autoupdate's first patch.
+From this version forward, applying Unciv's mod autoupdate's patches.
 ### 4.1.10
 Implemented [Unciv's autoupdate mod workflow](https://yairm210.github.io/Unciv/Modders/Autoupdates/), to streamline updates to the mod's .json.
 ### 4.1.9
