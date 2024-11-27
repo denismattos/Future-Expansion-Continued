@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="188" height="188" src="https://github.com/denismattos/Future-Expansion-Continued/blob/master/preview.png?raw=true">
+</p>
+
 # Future Expansion – Continued
 A continuation of Sullien's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/Sullien) great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).
 
