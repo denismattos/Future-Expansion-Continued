@@ -1173,7 +1173,7 @@ ResourceIcons/Corporation Slot
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Corporation Slot(Total)
+ResourceIcons/Corporation Slot (Total)
   rotate: false
   xy: 1376, 1836
   size: 100, 100

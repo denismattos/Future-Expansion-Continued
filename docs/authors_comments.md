@@ -206,7 +206,7 @@ Natural Appeal
 * Aluminum
 * Fossil
 ### "Corporation"
-* Corporation Slot(Total)
+* Corporation Slot (Total)
 * Corporation Slot
 * Electrical Stock
 * Engineering Stock
