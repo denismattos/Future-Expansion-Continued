@@ -768,7 +768,7 @@
 		"requiredResource": "Corporation Slot",
 		"uniques": [
 			"Provides [2] [Defense Force Stock]",
-			"New [Military] units start with [25] Experience [in all cities]",
+			"New [Military] units start with [25] XP [in all cities]",
 			"Consumes [1] [Corporation Slot(Total)]",
 			"Only available <after discovering [Corporations]>",
 			"Only available <with [Corporation Slot]>",

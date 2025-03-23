@@ -1,14 +1,14 @@
 # Alternative Versions
 This is a list of all other versions of Future Expansion I know of.  
 I'll be glad to add any others that are reported to me.
-
 ## Other Reuploads
 * [@calrissian-tendra](https://github.com/calrissian-tendra)'s [reupload](https://github.com/calrissian-tendra/Future-Expansion/commits/main/), originally from 2023/07/21.
 * [@EmperorPenguin](https://github.com/EmperorPinguin)'s [reupload](https://github.com/EmperorPinguin/Future-Expansion-2022-09-18), originally from 2023/09/21.
 * [@Gospedius](https://github.com/Gospedius)' [fork](https://github.com/Gospedius/Sullys-Future) of EmperorPenguin's reupload.
 ## Modified
-* [Mr-Chubz](https://github.com/Mr-Chubz)'s [version](https://github.com/Mr-Chubz/Future-Edited), made to be compatible with [Warfare Edited](https://github.com/Mr-Chubz/Warfare-Edited).  
+* [@Mr-Chubz](https://github.com/Mr-Chubz)'s [Future Edited](https://github.com/Mr-Chubz/Future-Edited), made to be compatible with [Warfare Edited](https://github.com/Mr-Chubz/Warfare-Edited).  
 Incidentally, this is the oldest extant fork of Sullien's original repo and, therefore, due to the way GitHub works, the one some reuploads (mine included) inherited as "upstream".
+* [@Potatoproduction](https://github.com/Potatoproduction)'s [Future Expansion Fixed](https://github.com/Potatoproduction/Future-Expansion-Fixed).
 * I've released [my modded version of the expansion](https://github.com/denismattos/Future-Expansion-Enhanced)! ✊🏻  
 It's a pre-release for testing, but I assume it's working fine, since the game isn't throwing any reports.  
 Feedback needed and appreciated! 🙇🏼‍♂️
