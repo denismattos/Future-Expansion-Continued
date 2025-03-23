@@ -1,4 +1,9 @@
 # Forewords
+## 4.1.12
+Potatoproduction's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/potatoproduction) [Future Expansion Fixed](https://github.com/Potatoproduction/Future-Expansion-Fixed) fork made me realize I'd forgotten to tackled the Espionage issue.  
+Future Expansion didn't have espionage, but Unciv hadn't implemented espionage when Sullien [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/Sullien) developed the mod. And, as it always happens in these situations, this gave me pause. I don't like deciding what Sullien would or wouldn't have implemented on the mod, were it still under his purview.  
+Since I have no means of asking him directly, I did the next best thing, IMO: I opened a poll on Future Expansion's [Discord category](https://discord.com/channels/586194543280390151/1020909710871887913). And, [by unanimity](https://discord.com/channels/586194543280390151/1020909710871887913/1347416819882791005), the community chose to have espionage implemented.  
+And that's all this update does.
 ## 4.1.9
 I'm done fixing all remaining green errors, with the exception of a few warnings about non-filtering uniques, namely:
 * `Anti-Aircraft Gun's unique "Anti-Air" not found in Unciv's unique types, and is not used as a filtering unique.`
@@ -31,7 +36,7 @@ Therefore, I have reverted my previous changes to Alien Monolith.
 I'm now mostly done fixing errors reported by Unciv.
 
 The remaining green errors are all related to units.  
-Some are likely only comments and, thus, easy to fix. But some are, so to speak, *unique uniques* Sullien introduced to tag units and apply vulnerability or strength mechanics (e. g. `[+25]% Strength <for [Bio] units>`). These will be a harder fix, at least for me.  
+Some are likely only comments and, thus, easy to fix. But some are, so to speak, *unique uniques* Sullien [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/Sullien) introduced to tag units and apply vulnerability or strength mechanics (e. g. `[+25]% Strength <for [Bio] units>`). These will be a harder fix, at least for me.  
 So I decided to finish this major release as is and I'll fix these uniques when I have a better idea of how to implement the mechanics within Unciv's current standards.
 
 The remaining yellow error pertains to the Artillery and Rocket Artillery units.  
@@ -52,7 +57,7 @@ I will now attempt to start tackling that, so I can achieve a mostly definitive 
 I'm strongly concerned about information loss and would like to think it's a personal cause for preservation, but truth is me being prolix and a hoarder probably has a lot to do with it.  
 Anyhow, I'm doing some cleanup, but taking measures to preserve what's being removed by moving to alternative locations, instead.
 
-When [I had to update the mod due to a change in the game's checks' stringency](/docs/forewords.md#4.1.2) it got me thinking about Sullien's code comments.  
+When [I had to update the mod due to a change in the game's checks' stringency](/docs/forewords.md#4.1.2) it got me thinking about Sullien's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/Sullien) code comments.  
 There's [a whole movement against commenting code](https://www.google.com/search?q=don%27t%20comment%20code), but I'm personally mostly favorable to comments – again: prolix.  
 In this case, however, arguing is moot, as [.json is a format that doesn't support comments by design](https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/). Who knows when Unciv's checks might start being stringent about that, too?  
 That's why I'm removing all of Sullien's comments from the .json and preserving them on [a separate file](https://github.com/denismattos/Future-Expansion-Continued/blob/main/authors_comments.md).
@@ -64,7 +69,7 @@ TL;DR: I had to pick a terrain for a natural wonder, because one of the game's c
 RtFM:  
 Starting with [4.8.15](https://github.com/yairm210/Unciv/releases/tag/4.8.15), Unciv's ruleset validator requires all Natural Wonders to contain `turnsInto`, an attribute that [determines which type will the base terrain be after the map generation places the wonder](https://yairm210.github.io/Unciv/Modders/Mod-file-structure/3-Map-related-JSON-files/#terrainsjson).  
 As of 4.11.16, there's no way to escape this check, so a Natural Wonder must necessarily change the base terrain it's placed onto.  
-This wasn't the case when Sullien developed Future Expansion and this presents me with one of the common issues with reuploading old mods: making decisions over work that isn't actually mine.
+This wasn't the case when Sullien [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/Sullien) developed Future Expansion and this presents me with one of the common issues with reuploading old mods: making decisions over work that isn't actually mine.
 
 The obvious solutions, as was pointed out to me on the game's Discord, are simply picking a terrain type that makes sense or creating a new terrain type to use with the wonder. However, both solutions mean I will essentially be creatively altering the mod, something I specifically want to avoid on this reupload (I'm planning a fork with my own modifications, but it's still a WiP.).  
 If the wonder in question's `occursOn` attribute had only one terrain type listed, this would be easy (I'd just pick the same type), but it lists 2: Desert and Plains – which makes sense, considering Sullien's inspiration was likely the monolith from [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(disambiguation)), which, at least in [the movie](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey), appears on an arid landscape.

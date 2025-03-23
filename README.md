@@ -51,6 +51,9 @@ Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https
 * The original author is free to use this mod to update their own.
 * Since I did not create the mod, I will not accept donations for it.
 ## Changelog
+### 4.1.12
+#### [Foreword](/docs/forewords.md#4112)
+Implemented espionage, per [the Discord poll's results](https://discord.com/channels/586194543280390151/1020909710871887913/1347416819882791005).
 ### 4.1.11
 From this version forward, applying Unciv's mod autoupdate's patches.
 ### 4.1.10
