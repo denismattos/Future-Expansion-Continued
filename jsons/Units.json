@@ -482,7 +482,7 @@
 			"Can instantly construct a [Industrial Complex] improvement <by consuming this unit>",
 			"Can instantly construct a [Residential] improvement <by consuming this unit>"
 		],
-		"requiredTech": "Infraestructure",
+		"requiredTech": "Infrastructure",
 		"cost": 540
 	},
 	{

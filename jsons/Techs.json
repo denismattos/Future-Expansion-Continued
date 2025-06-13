@@ -81,7 +81,7 @@
 				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
 			},
 			{
-				"name": "Infraestructure",
+				"name": "Infrastructure",
 				"row": 5,
 				"prerequisites": [
 					"Electronics"
@@ -128,7 +128,7 @@
 				"name": "Nuclear Fission",
 				"row": 4,
 				"prerequisites": [
-					"Infraestructure",
+					"Infrastructure",
 					"Atomic Theory"
 				],
 				"quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
@@ -137,7 +137,7 @@
 				"name": "Rocketry",
 				"row": 6,
 				"prerequisites": [
-					"Infraestructure",
+					"Infrastructure",
 					"Radar"
 				],
 				"quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"

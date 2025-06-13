@@ -171,7 +171,7 @@ Some of TileImprovements.json's improvements were divided by categories using co
 * Camp
 * Quarry
 * Fishing Boats
-### "Infraestructure"
+### "Infrastructure"
 * Power Plant
 * Supply Route
 * Water Tower

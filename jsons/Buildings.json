@@ -238,7 +238,7 @@
 	{
 		"name": "Electrical Grid",
 		"hurryCostModifier": 15,
-		"requiredTech": "Infraestructure",
+		"requiredTech": "Infrastructure",
 		"cost": 500,
 		"uniques": [
 			"Provides [4] [Power]",

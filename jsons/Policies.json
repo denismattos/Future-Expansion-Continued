@@ -66,7 +66,7 @@
 				{
 					"name": "Safety Checks",
 					"uniques": [
-						"Comment [Doubles the adjacency bonuses of Infraestructure tiles]"
+						"Comment [Doubles the adjacency bonuses of Infrastructure tiles]"
 					],
 					"requires": [
 						"Talent Agencies",
@@ -166,7 +166,7 @@
 				{
 					"name": "Coalition Complete",
 					"uniques": [
-						"Comment [Citadels provide adjacency bonuses as if they were Infraestructure Improvements]"
+						"Comment [Citadels provide adjacency bonuses as if they were Infrastructure Improvements]"
 					]
 				}
 			]

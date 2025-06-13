@@ -1250,7 +1250,7 @@ TechIcons/Genetics
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Infraestructure
+TechIcons/Infrastructure
   rotate: false
   xy: 1060, 1512
   size: 100, 100
