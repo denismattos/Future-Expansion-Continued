@@ -998,7 +998,7 @@
 		"cost": 1,
 		"uniques": [
 			"Comment [Industrial Perk]",
-			"[+30]% [Culture] <when below [0] Happiness> <during the [Industrial era]>",
+			"[+30]% [Culture] <when below [0] [Happiness]> <during the [Industrial era]>",
 			"[+15]% [Culture] <while the empire is happy> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Artist Perk]>",
