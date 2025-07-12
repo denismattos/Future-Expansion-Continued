@@ -105,7 +105,7 @@
 		"name": "Teleportation",
 		"uniques": [
 			"[+1] Movement",
-			"May Paradrop up to [100] tiles from inside friendly territory",
+			"May Paradrop to [Land] tiles up to [100] tiles away <in [{Friendly} {Land}] tiles>",
 			"Withdraws before melee combat <with [90]% chance>"
 		]
 	},
