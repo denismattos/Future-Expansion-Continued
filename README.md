@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="372" height="372" src="https://raw.githubusercontent.com/denismattos/Future-Expansion-Continued/refs/heads/main/preview.png">
+  <img width="372" height="372" src="https://raw.githubusercontent.com/denismattos/Future-Expansion-Continued/refs/heads/master/preview.png">
 </p>
 
 # Future Expansion – Continued
