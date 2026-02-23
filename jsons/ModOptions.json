@@ -1,14 +1,14 @@
 {
-"modUrl": "https://github.com/denismattos/Future-Expansion-Continued",
-"defaultBranch": "master",
-"author": "Sullien",
-"topics": [
-    "unciv-mod",
-    "unciv-mod-expansion"
-],
-"uniques": [
-    "Cannot be used as permanent audiovisual mod",
-    "Mod requires [Civ V - Gods & Kings]",
-    "Suppress warning [Artillery is supposed to automatically upgrade at tech Nanotechnology, and therefore Rocketry for its upgrade Rocket Artillery may not yet be researched!]"
-]
+    "modUrl": "https://github.com/denismattos/Future-Expansion-Continued",
+    "defaultBranch": "master",
+    "author": "Sullien",
+    "topics": [
+        "unciv-mod",
+        "unciv-mod-expansion"
+    ],
+    "uniques": [
+        "Cannot be used as permanent audiovisual mod",
+        "Mod requires [Civ V - Gods & Kings]",
+        "Suppress warning [Artillery is supposed to automatically upgrade at tech Nanotechnology, and therefore Rocketry for its upgrade Rocket Artillery may not yet be researched!]"
+    ]
 }

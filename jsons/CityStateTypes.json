@@ -11,18 +11,26 @@
 			"[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
 			"[+26 Culture] <starting from the [Industrial era]>"
 		],
-		"color": [139, 96, 255]
+		"color": [
+			139,
+			96,
+			255
+		]
 	},
 	{
 		"name": "Maritime",
 		"friendBonusUniques": [
-            "[+2 Food] [in capital]"
-        ],
+			"[+2 Food] [in capital]"
+		],
 		"allyBonusUniques": [
 			"[+2 Food] [in capital]",
 			"[+1 Food] [in all cities]"
 		],
-		"color": [56, 255, 112]
+		"color": [
+			56,
+			255,
+			112
+		]
 	},
 	{
 		"name": "Mercantile",
@@ -35,17 +43,25 @@
 			"[+3 Happiness] <starting from the [Medieval era]>",
 			"Provides a unique luxury"
 		],
-		"color": [255, 216, 0]
+		"color": [
+			255,
+			216,
+			0
+		]
 	},
 	{
 		"name": "Militaristic",
 		"friendBonusUniques": [
-            "Provides military units every ≈[20] turns"
-        ],
+			"Provides military units every ≈[20] turns"
+		],
 		"allyBonusUniques": [
-            "Provides military units every ≈[17] turns"
-        ],
-		"color": [255, 0, 0]
+			"Provides military units every ≈[17] turns"
+		],
+		"color": [
+			255,
+			0,
+			0
+		]
 	},
 	{
 		"name": "Religious",
@@ -59,6 +75,10 @@
 			"[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
 			"[+26 Faith] <starting from the [Industrial era]>"
 		],
-		"color": [255, 255, 255]
+		"color": [
+			255,
+			255,
+			255
+		]
 	}
 ]
