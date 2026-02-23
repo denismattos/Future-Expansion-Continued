@@ -1,0 +1,11 @@
+Future Expansion Continued: (Wonder) Space Organization's unique "[-33]% Food consumption by [Specialists] [in all cities]" not found in Unciv's unique types, and is not used as a filtering unique.
+
+Future Expansion Continued: (Unit) Monolith Brainiac's unique "Can see invisible [Stealth Support] units" contains parameter "Stealth Support", which does not fit parameter type mapUnitFilter !
+
+Future Expansion Continued: (Policy) Discovery's unique "[+1 Happiness] from every [Industrial Perk]" contains parameter "Industrial Perk", which does not fit parameter type tileFilter or specialist or buildingFilter ! May be a misspelling of: "Industrial era"
+
+Future Expansion Continued: (Policy) Discovery's unique "[+4 Science] from every [Modern Perk]" contains parameter "Modern Perk", which does not fit parameter type tileFilter or specialist or buildingFilter !
+
+Future Expansion Continued: (Policy) Discovery's unique "[+4 Culture] from every [Atomic Perk]" contains parameter "Atomic Perk", which does not fit parameter type tileFilter or specialist or buildingFilter !
+
+Future Expansion Continued: (Policy) Discovery's unique "[+8 Gold] from every [Information Perk]" contains parameter "Information Perk", which does not fit parameter type tileFilter or specialist or buildingFilter ! May be a misspelling of: "Information era"
