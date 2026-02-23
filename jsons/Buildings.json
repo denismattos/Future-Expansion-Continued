@@ -811,7 +811,7 @@
 		"requiredResource": "Corporation Slot",
 		"uniques": [
 			"Provides [2] [Space Stock]",
-			"[-33]% Food consumption by specialists [in all cities]",
+			"[-33]% Food consumption by [Specialists] [in all cities]",
 			"[-33]% Unhappiness from [Specialists] [in all cities]",
 			"Consumes [1] [Corporation Slot(Total)]",
 			"Only available <after discovering [Corporations]>",

@@ -538,7 +538,7 @@ BuildingIcons/No Corporation
   index: -1
 BuildingIcons/Nuclear Testing Site
   rotate: false
-  xy: 328, 1004
+  xy: 220, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -615,7 +615,7 @@ BuildingIcons/PP-Peace Mediator
   index: -1
 BuildingIcons/Private Grid
   rotate: false
-  xy: 636, 1420
+  xy: 1392, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -692,133 +692,133 @@ BuildingIcons/SP-Water Power
   index: -1
 BuildingIcons/Social Network Branch
   rotate: false
-  xy: 1932, 1404
+  xy: 328, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Social Network Company
   rotate: false
-  xy: 1932, 1404
+  xy: 328, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Social Network Stock
   rotate: false
-  xy: 1932, 1404
+  xy: 328, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Space Branch
   rotate: false
-  xy: 852, 1296
+  xy: 536, 1104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Space Organization
   rotate: false
-  xy: 852, 1296
+  xy: 536, 1104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Space Stock
   rotate: false
-  xy: 852, 1296
+  xy: 536, 1104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Space Colony
   rotate: false
-  xy: 960, 1296
+  xy: 436, 996
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Space Elevator
   rotate: false
-  xy: 1068, 1296
+  xy: 436, 888
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Space Station
   rotate: false
-  xy: 1284, 1296
+  xy: 436, 672
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Teleport Station
   rotate: false
-  xy: 436, 672
+  xy: 1392, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Time Machine Blueprints
   rotate: false
-  xy: 436, 132
+  xy: 1932, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tourism Agency
   rotate: false
-  xy: 436, 24
+  xy: 544, 888
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tourism Branch
   rotate: false
-  xy: 436, 24
+  xy: 544, 888
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Tourism Stock
   rotate: false
-  xy: 436, 24
+  xy: 544, 888
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Virtual Space
   rotate: false
-  xy: 544, 1080
+  xy: 544, 672
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/World Alliance
   rotate: false
-  xy: 544, 648
+  xy: 544, 240
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/World Delivery Branch
   rotate: false
-  xy: 544, 540
+  xy: 544, 132
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/World Delivery Company
   rotate: false
-  xy: 544, 540
+  xy: 544, 132
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/World Delivery Stock
   rotate: false
-  xy: 544, 540
+  xy: 544, 132
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -874,70 +874,70 @@ ImprovementIcons/Modern Trading post
   index: -1
 ImprovementIcons/Offshore Wind Farm
   rotate: false
-  xy: 328, 896
+  xy: 428, 1212
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Power Plant
   rotate: false
-  xy: 220, 32
+  xy: 1176, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Quantum Trap
   rotate: false
-  xy: 744, 1404
+  xy: 1608, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Residential
   rotate: false
-  xy: 960, 1404
+  xy: 1824, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Resort
   rotate: false
-  xy: 1068, 1404
+  xy: 1932, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Solar Farm
   rotate: false
-  xy: 744, 1296
+  xy: 328, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Space Platform
   rotate: false
-  xy: 1176, 1296
+  xy: 436, 780
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Supply Route
   rotate: false
-  xy: 1932, 1296
+  xy: 436, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Water Tower
   rotate: false
-  xy: 544, 972
+  xy: 544, 564
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Wind Farm
   rotate: false
-  xy: 544, 864
+  xy: 544, 456
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1063,98 +1063,98 @@ PolicyIcons/Mind Control
   index: -1
 PolicyIcons/Predictive Algorithms
   rotate: false
-  xy: 328, 32
+  xy: 1284, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 PolicyIcons/Propaganda
   rotate: false
-  xy: 636, 1312
+  xy: 1500, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 PolicyIcons/Revolutionism
   rotate: false
-  xy: 1176, 1404
+  xy: 328, 896
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 PolicyIcons/Safety Checks
   rotate: false
-  xy: 1392, 1404
+  xy: 328, 680
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 PolicyIcons/Self-Assembly
   rotate: false
-  xy: 1716, 1404
+  xy: 328, 356
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 PolicyIcons/Startups
   rotate: false
-  xy: 1500, 1296
+  xy: 436, 456
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 PolicyIcons/Talent Agencies
   rotate: false
-  xy: 436, 888
+  xy: 1176, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 PolicyIcons/Techno-Organic Virus
   rotate: false
-  xy: 436, 780
+  xy: 1284, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Artist Perk
   rotate: false
-  xy: 544, 432
+  xy: 544, 24
   size: 98, 100
   orig: 98, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Engineer Perk
   rotate: false
-  xy: 544, 432
+  xy: 544, 24
   size: 98, 100
   orig: 98, 100
   offset: 0, 0
   index: -1
 ResourceIcons/General Perk
   rotate: false
-  xy: 544, 432
+  xy: 544, 24
   size: 98, 100
   orig: 98, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Merchant Perk
   rotate: false
-  xy: 544, 432
+  xy: 544, 24
   size: 98, 100
   orig: 98, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Prophet Perk
   rotate: false
-  xy: 544, 432
+  xy: 544, 24
   size: 98, 100
   orig: 98, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Scientist Perk
   rotate: false
-  xy: 544, 432
+  xy: 544, 24
   size: 98, 100
   orig: 98, 100
   offset: 0, 0
@@ -1189,14 +1189,14 @@ ResourceIcons/Fossil
   index: -1
 ResourceIcons/Natural Appeal
   rotate: false
-  xy: 544, 324
+  xy: 650, 24
   size: 98, 100
   orig: 98, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Power
   rotate: false
-  xy: 328, 140
+  xy: 1068, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1250,7 +1250,7 @@ TechIcons/Genetics
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Infrastructure
+TechIcons/Infraestructure
   rotate: false
   xy: 1060, 1512
   size: 100, 100
@@ -1273,182 +1273,182 @@ TechIcons/Nanotechnology
   index: -1
 TechIcons/Particle Physics
   rotate: false
-  xy: 328, 356
+  xy: 852, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Spaceflight
   rotate: false
-  xy: 1392, 1296
+  xy: 436, 564
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Terraforming
   rotate: false
-  xy: 436, 456
+  xy: 1608, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/The Internet
   rotate: false
-  xy: 436, 240
+  xy: 1824, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Urbanization
   rotate: false
-  xy: 544, 1188
+  xy: 544, 780
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/World Alliance
   rotate: false
-  xy: 544, 756
+  xy: 544, 348
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Alien Monolith
   rotate: false
-  xy: 942, 1030
+  xy: 652, 138
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City Center-Atomic era2
   rotate: false
-  xy: 726, 616
+  xy: 1388, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Beyond the Future
   rotate: false
-  xy: 870, 922
+  xy: 1012, 1218
   size: 60, 70
   orig: 60, 70
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Future era2
   rotate: false
-  xy: 726, 572
+  xy: 1428, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Future era3
   rotate: false
-  xy: 1198, 1252
+  xy: 1468, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Information era2
   rotate: false
-  xy: 1238, 1252
+  xy: 1508, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Concert Venue
   rotate: false
-  xy: 1318, 1252
+  xy: 1588, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Excavation Site
   rotate: false
-  xy: 1478, 1252
+  xy: 1748, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Industrial Complex
   rotate: false
-  xy: 1918, 1252
+  xy: 1268, 1212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Industry
   rotate: false
-  xy: 1958, 1252
+  xy: 1308, 1212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Offshore Wind Farm
   rotate: false
-  xy: 618, 196
+  xy: 1508, 1208
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Power Plant
   rotate: false
-  xy: 618, 112
+  xy: 1588, 1208
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Residential
   rotate: false
-  xy: 618, 28
+  xy: 1668, 1212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Solar Farm
   rotate: false
-  xy: 1238, 1208
+  xy: 1748, 1208
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Space Platform
   rotate: false
-  xy: 1278, 1212
+  xy: 1788, 1212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Supply Route
   rotate: false
-  xy: 1398, 1212
+  xy: 1908, 1212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Water Tower
   rotate: false
-  xy: 1518, 1212
+  xy: 1548, 1172
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Wind Farm
   rotate: false
-  xy: 1558, 1212
+  xy: 1708, 1172
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archeologist
   rotate: false
-  xy: 1014, 1104
+  xy: 1148, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architect
   rotate: false
-  xy: 1086, 1178
+  xy: 1188, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
@@ -1462,84 +1462,84 @@ TileSets/FantasyHex/Units/Bio Drone
   index: -1
 TileSets/FantasyHex/Units/Bio Infantry
   rotate: false
-  xy: 1158, 1256
+  xy: 1228, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Body-Snatcher
   rotate: false
-  xy: 798, 812
+  xy: 1268, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monolith Body-Snatcher
   rotate: false
-  xy: 798, 812
+  xy: 1268, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Brainiac
   rotate: false
-  xy: 870, 882
+  xy: 1308, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monolith Brainiac
   rotate: false
-  xy: 870, 882
+  xy: 1308, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Causality Matrix
   rotate: false
-  xy: 726, 660
+  xy: 1348, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dimensional Shifter
   rotate: false
-  xy: 726, 660
+  xy: 1348, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Entropy Phaser
   rotate: false
-  xy: 726, 660
+  xy: 1348, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Photon Generator
   rotate: false
-  xy: 726, 660
+  xy: 1348, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Combat Robot
   rotate: false
-  xy: 1278, 1256
+  xy: 1548, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Corporate
   rotate: false
-  xy: 1358, 1252
+  xy: 1628, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dismantler
   rotate: false
-  xy: 1398, 1256
+  xy: 1668, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -1553,427 +1553,427 @@ TileSets/FantasyHex/Units/Drone
   index: -1
 TileSets/FantasyHex/Units/Energy Infantry
   rotate: false
-  xy: 1438, 1256
+  xy: 1708, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Copter
   rotate: false
-  xy: 1518, 1256
+  xy: 1788, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Soldier
   rotate: false
-  xy: 1558, 1256
+  xy: 1828, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Submarine
   rotate: false
-  xy: 1598, 1256
+  xy: 1868, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot
   rotate: false
-  xy: 1638, 1256
+  xy: 1908, 1256
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Spacefarer
   rotate: false
-  xy: 1678, 1252
+  xy: 1948, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Spacefarer-Atomic era
   rotate: false
-  xy: 1718, 1252
+  xy: 1988, 1252
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hacker
   rotate: false
-  xy: 1758, 1256
+  xy: 710, 1272
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hover-SAM
   rotate: false
-  xy: 1798, 1256
+  xy: 1148, 1212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hovertank
   rotate: false
-  xy: 1838, 1256
+  xy: 1188, 1212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hovertillery
   rotate: false
-  xy: 1878, 1256
+  xy: 1228, 1216
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Medic
   rotate: false
-  xy: 1998, 1252
+  xy: 1348, 1212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monolith UFO
   rotate: false
-  xy: 1158, 1216
+  xy: 1388, 1212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/UFO
   rotate: false
-  xy: 1158, 1216
+  xy: 1388, 1212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musician
   rotate: false
-  xy: 618, 280
+  xy: 1428, 1208
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Observation Balloon
   rotate: false
-  xy: 618, 240
+  xy: 1468, 1212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Orbital Carrier
   rotate: false
-  xy: 618, 156
+  xy: 1548, 1216
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Recon
   rotate: false
-  xy: 618, 72
+  xy: 1628, 1212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Seeker
   rotate: false
-  xy: 1198, 1212
+  xy: 1708, 1216
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Stealth Hacker
   rotate: false
-  xy: 1318, 1212
+  xy: 1828, 1216
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Supply Agent
   rotate: false
-  xy: 1358, 1212
+  xy: 1868, 1216
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Synthethic Plant
   rotate: false
-  xy: 1438, 1216
+  xy: 1948, 1212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tactical Supplier
   rotate: false
-  xy: 1478, 1212
+  xy: 1988, 1212
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Modern era
   rotate: false
-  xy: 1598, 1212
+  xy: 692, 136
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Alien Monolith
   rotate: false
-  xy: 544, 252
+  xy: 636, 1240
   size: 66, 64
   orig: 66, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Atomic era2
   rotate: false
-  xy: 726, 1222
+  xy: 652, 256
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Atomic era3
   rotate: false
-  xy: 544, 166
+  xy: 644, 1154
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Beyond the Future
   rotate: false
-  xy: 544, 80
+  xy: 644, 1068
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Future era
   rotate: false
-  xy: 652, 1226
+  xy: 718, 1068
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Future era2
   rotate: false
-  xy: 726, 1148
+  xy: 652, 182
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Future era3
   rotate: false
-  xy: 798, 1222
+  xy: 726, 994
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Future era4
   rotate: false
-  xy: 726, 1074
+  xy: 726, 920
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Future era5
   rotate: false
-  xy: 798, 1148
+  xy: 726, 846
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Future era6
   rotate: false
-  xy: 652, 1140
+  xy: 652, 982
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Future era7
   rotate: false
-  xy: 652, 1054
+  xy: 652, 896
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Information era2
   rotate: false
-  xy: 726, 700
+  xy: 1080, 1218
   size: 60, 70
   orig: 60, 70
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Information era3
   rotate: false
-  xy: 652, 968
+  xy: 652, 810
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Information era4
   rotate: false
-  xy: 652, 882
+  xy: 652, 724
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Information era5
   rotate: false
-  xy: 652, 796
+  xy: 652, 638
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Information era6
   rotate: false
-  xy: 652, 710
+  xy: 652, 552
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Concert Venue
   rotate: false
-  xy: 870, 1222
+  xy: 726, 772
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Excavation Site
   rotate: false
-  xy: 726, 1000
+  xy: 726, 698
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Industrial Complex
   rotate: false
-  xy: 798, 1074
+  xy: 726, 624
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Industry
   rotate: false
-  xy: 870, 1148
+  xy: 726, 550
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Industry+Ivory
   rotate: false
-  xy: 942, 1222
+  xy: 726, 476
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Offshore Wind Farm
   rotate: false
-  xy: 726, 926
+  xy: 726, 402
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Power Plant
   rotate: false
-  xy: 798, 1000
+  xy: 726, 328
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Residential
   rotate: false
-  xy: 870, 1074
+  xy: 724, 254
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Resort
   rotate: false
-  xy: 652, 636
+  xy: 652, 478
   size: 66, 66
   orig: 66, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Resort+Natural Appeal
   rotate: false
-  xy: 652, 562
+  xy: 652, 404
   size: 66, 66
   orig: 66, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Solar Farm
   rotate: false
-  xy: 544, 6
+  xy: 652, 330
   size: 66, 66
   orig: 66, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Space Platform
   rotate: false
-  xy: 942, 1148
+  xy: 724, 180
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Supply Route
   rotate: false
-  xy: 1014, 1222
+  xy: 796, 254
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Supply Route+Aluminum
   rotate: false
-  xy: 726, 852
+  xy: 796, 180
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Supply Route+Coal
   rotate: false
-  xy: 798, 926
+  xy: 756, 106
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Supply Route+Horses
   rotate: false
-  xy: 870, 1000
+  xy: 756, 32
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Supply Route+Iron
   rotate: false
-  xy: 942, 1074
+  xy: 868, 180
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Supply Route+Oil
   rotate: false
-  xy: 1014, 1148
+  xy: 828, 32
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Supply Route+Uranium
   rotate: false
-  xy: 1086, 1222
+  xy: 900, 32
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Water Tower
   rotate: false
-  xy: 726, 778
+  xy: 868, 1222
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Wind Farm
   rotate: false
-  xy: 798, 852
+  xy: 940, 1222
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
@@ -2197,84 +2197,84 @@ UnitIcons/Observation Balloon
   index: -1
 UnitIcons/Orbital Bomber
   rotate: false
-  xy: 328, 788
+  xy: 428, 1104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orbital Carrier
   rotate: false
-  xy: 328, 680
+  xy: 636, 1420
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orbital Jet
   rotate: false
-  xy: 328, 572
+  xy: 636, 1312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orbital Strike
   rotate: false
-  xy: 328, 464
+  xy: 744, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Photon Generator
   rotate: false
-  xy: 328, 248
+  xy: 960, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Recon
   rotate: false
-  xy: 852, 1404
+  xy: 1716, 1404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Seeker
   rotate: false
-  xy: 1608, 1404
+  xy: 328, 464
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Stealth Hacker
   rotate: false
-  xy: 1716, 1296
+  xy: 436, 240
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Supply Agent
   rotate: false
-  xy: 1824, 1296
+  xy: 436, 132
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Synthethic Plant
   rotate: false
-  xy: 436, 1104
+  xy: 960, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tactical Supplier
   rotate: false
-  xy: 436, 996
+  xy: 1068, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Terrorist
   rotate: false
-  xy: 436, 348
+  xy: 1716, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2337,42 +2337,42 @@ UnitPromotionIcons/In Orbit
   index: -1
 UnitPromotionIcons/Rocket Launcher
   rotate: false
-  xy: 1284, 1404
+  xy: 328, 788
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Scan Visor
   rotate: false
-  xy: 1500, 1404
+  xy: 328, 572
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Skirmish
   rotate: false
-  xy: 1824, 1404
+  xy: 328, 248
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Stealth
   rotate: false
-  xy: 1608, 1296
+  xy: 436, 348
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Support Unit
   rotate: false
-  xy: 428, 1212
+  xy: 852, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Teleportation
   rotate: false
-  xy: 436, 564
+  xy: 1500, 1296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
