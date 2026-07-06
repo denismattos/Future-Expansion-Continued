@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="372" height="372" src="https://raw.githubusercontent.com/denismattos/Future-Expansion-Continued/refs/heads/master/preview.png">
+  <img width="372" height="372" src="https://raw.githubusercontent.com/denismattos/Future-Expansion-Continued/refs/heads/master/preview.png" alt="Sullien's Portrait">
 </p>
 
 # Future Expansion – Continued
 
-A continuation of Sullien's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/Sullien) great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).
+A continuation of Sullien's [<img src="https://i.imgur.com/qdtKSSq.png" alt="GitHub Logo">](https://github.com/Sullien) great – and, now, defunct – [Future Expansion](https://github.com/Sullien/Future-Expansion) for [Unciv](https://github.com/yairm210/Unciv).
 
 This continued version merely fixes syntax to comply with Unciv's latest updates.
 
@@ -16,8 +16,8 @@ Many thanks to all of those who helped, played and/or cheered for it. You're all
 ## Discord
 
 - Unciv's Discord server: [![Discord](https://img.shields.io/discord/586194543280390151?color=%237289DA&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/bjrB4Xw)
-    - Unciv's Discord's [mods channel](https://discord.com/channels/586194543280390151/1020322259094753360).
-        - [Future Expansion category](https://discord.com/channels/586194543280390151/1020909710871887913), opened by Sullien himself.
+  - Unciv's Discord's [mods channel](https://discord.com/channels/586194543280390151/1020322259094753360).
+    - [Future Expansion category](https://discord.com/channels/586194543280390151/1020909710871887913), opened by Sullien himself.
 
 ## Alternative Uploads and Versions
 
@@ -53,7 +53,7 @@ Stay tuned!
 
 ## Ownership Disclaimer
 
-Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/emipa606). 🙂
+Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png" alt="GitHub Logo">](https://github.com/emipa606). 🙂
 
 - This is an updated version of an existing mod.
 - I claim no ownership of the mod.
@@ -89,7 +89,7 @@ Fixed all (currently) remaining yellow errors:
 
 - Suppressed the check for Artillery's obsolescence progression.  
   (See [the foreword to version 4.1.5](/docs/forewords.md#415) for more details.).  
-  My thanks to ReallyBasicName [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/ReallyBasicName) for teaching me how to do it! 🙂
+  My thanks to ReallyBasicName [<img src="https://i.imgur.com/qdtKSSq.png" alt="GitHub Logo">](https://github.com/ReallyBasicName) for teaching me how to do it! 🙂
 - Updated 2 uniques made obsolete in [Unciv 4.12.15](https://github.com/yairm210/Unciv/releases/tag/4.12.15).
 
 Now, to deal with the remaining green errors.
@@ -110,14 +110,14 @@ Now, back to updating the mod.
 
 ### 4.1.5
 
-#### [Foreword](/docs/forewords.md#415).
+#### [Foreword](/docs/forewords.md#415)
 
 Fixed most errors reported by Unciv:
 
 - All yellow errors are fixed, besides one, left on purpose (see foreword).
 - All green errors not related to units fixed. For the others, see foreword.
 
-Many thanks to Lodo the Bear [<img src="https://i.imgur.com/46xAeu5.png">](https://discordapp.com/users/lodothebear) [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/SpacedOutChicken) for all the help with these! 🙂
+Many thanks to Lodo the Bear [<img src="https://i.imgur.com/46xAeu5.png" alt="Discord Logo">](https://discordapp.com/users/lodothebear) [<img src="https://i.imgur.com/qdtKSSq.png" alt="GitHub Logo">](https://github.com/SpacedOutChicken) for all the help with these! 🙂
 
 ### 4.1.4.2
 
@@ -133,7 +133,7 @@ Fixing errors in preparation for the next major update – in which I hope to fi
 
 ### 4.1.4
 
-#### [Foreword](/docs/forewords.md#414).
+#### [Foreword](/docs/forewords.md#414)
 
 Documentation now contains a file [listing all other versions of Future Expansion I know of](/docs/alternative_versions.md).
 
@@ -147,7 +147,7 @@ Corrections to some file links.
 
 ### 4.1.3
 
-#### [Foreword](/docs/forewords.md#413).
+#### [Foreword](/docs/forewords.md#413)
 
 Documentation and comments changes:
 
@@ -158,7 +158,7 @@ Documentation and comments changes:
 
 ### 4.1.2
 
-#### [Foreword](/docs/forewords.md#412).
+#### [Foreword](/docs/forewords.md#412)
 
 Alien Monolith now converts base terrain to desert, to comply with Unciv's current syntax.
 
