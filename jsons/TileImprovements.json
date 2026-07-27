@@ -51,7 +51,7 @@
 		"shortcutKey": "M"
 	},
 	{
-		"name": "Lumber mill",
+		"name": "Lumber Mill",
 		"terrainsCanBeBuiltOn": [
 			"Forest"
 		],
@@ -77,7 +77,7 @@
 		"shortcutKey": "L"
 	},
 	{
-		"name": "Trading post",
+		"name": "Trading Post",
 		"terrainsCanBeBuiltOn": [
 			"Plains",
 			"Grassland",
@@ -305,7 +305,7 @@
 		"shortcutKey": "P"
 	},
 	{
-		"name": "Oil well",
+		"name": "Oil Well",
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
 		"uniques": [
@@ -557,7 +557,7 @@
 		]
 	},
 	{
-		"name": "Customs house",
+		"name": "Customs House",
 		"terrainsCanBeBuiltOn": [
 			"Land"
 		],
@@ -578,7 +578,7 @@
 		]
 	},
 	{
-		"name": "Holy site",
+		"name": "Holy Site",
 		"terrainsCanBeBuiltOn": [
 			"Land"
 		],
@@ -661,7 +661,7 @@
 		"shortcutKey": "M"
 	},
 	{
-		"name": "Terrace farm",
+		"name": "Terrace Farm",
 		"uniqueTo": "Inca",
 		"terrainsCanBeBuiltOn": [
 			"Hill"

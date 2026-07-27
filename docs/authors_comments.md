@@ -137,7 +137,7 @@ No additions or modifications.
 - EP-Energy Contractors
 - EP-Genetic Engineering
 - EP-Cyber Engineering
-- MP-Expropiation
+- MP-Expropriation
 - MP-Public Transport
 - MP-Arms Dealer
 - MP-Entertainment
